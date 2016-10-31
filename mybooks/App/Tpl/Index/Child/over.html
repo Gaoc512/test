@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>小学生图书推荐</title>
+<link rel="stylesheet" id="sc" type="text/css" href="__PUBLIC__/css/style.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/animation.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+    var sc=document.getElementById("sc");
+   
+    if(screen.width<1400)  //获取屏幕的的宽度
+    {
+      sc.setAttribute("href","__PUBLIC__/css/style1.css");   //设置css引入样式表的路径
+     
+    }
+	 $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/023.mp3" type="audio/mpeg"/></audio>');
+   $("#land1").val("");
+   $("#land2").val("");
+   $("#land3").val("");
+   $("#land4").val("");
+   $("#land5").val("");
+   $("#land6").val("");
+    }
+</script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+	var cnum=1;
+    $(".check").click(function(e){
+		//alert(333);
+		var val=$(this).attr('attr-id');
+		if(cnum==1){
+		if(val=={$value.1}){
+			var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island1-1 animated3 infinite zoomInDowna' src='{$touxiang.6}'/>";
+		}
+		 $("#land1").val(val);
+		}else if(cnum==2){
+			if(val=={$value.1}){
+			var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island2-1 animated3 infinite zoomInDownb' src='{$touxiang.6}'/>";
+		}
+		$("#land2").val(val);
+		}else if(cnum==3){
+			if(val=={$value.1}){
+			var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island3-1 animated3 infinite zoomInDownc' src='{$touxiang.6}'/>";
+		}
+		$("#land3").val(val);
+	}else if(cnum==4){
+			if(val=={$value.1}){
+			var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island4-1 animated3 infinite zoomInDownd' src='{$touxiang.6}'/>";
+		}
+		$("#land4").val(val);
+			}else if(cnum==5){
+			if(val=={$value.1}){
+			var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island5-1 animated3 infinite zoomInDowne' src='{$touxiang.6}'/>";
+		}
+		$("#land5").val(val);
+		}else{
+			if(val=={$value.1}){
+			var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.1}'/>";
+		}else if(val=={$value.2}){
+		    var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.2}'/>";
+		}else if(val=={$value.3}){
+		    var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.3}'/>";
+		}else if(val=={$value.4}){
+		    var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.4}'/>";
+		}else if(val=={$value.5}){
+		    var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.5}'/>";
+		}else if(val=={$value.6}){
+		    var str="<img class='island6-1 animated3 infinite zoomInDownf' src='{$touxiang.6}'/>";
+		}
+		$("#land6").val(val);
+		$(".next").addClass("next1");
+			}
+		$(this).removeClass('check');
+		$(this).find('img').removeClass("shake animated2");
+		$(this).find('img').addClass("bounceOut animated6 touming");
+		//$(this).find('img').hide();
+		$(".s-content").append(str);
+		$(this).removeAttr("class");
+		$(this).removeAttr('href');
+		cnum++;
+	//	alert(str);
+		})
+		
+		$(".next").click(function(e){
+			
+			if($(this).hasClass('next1')){
+				$("#f1").submit();
+			}else{
+				alert("请将以上6座岛的主人公排排队");
+				
+			}
+			
+			})
+			
+	$("#cf").click(function(e){
+		 $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/023.mp3" type="audio/mpeg"/></audio>');
+		})
+	
+});
+</script>
+<style >
+
+</style>
+
+
+<style>
+a:hover a:visited{ color::#666;}
+.touming{ opacity:0;}
+</style>
+</head>
+
+<body  style=" background:url(__PUBLIC__/img/s-bg2.png) repeat #f8e8c3;">
+<div id="newMessageDIV" style="display:none"></div>
+<div class="wapper">
+    <div class="s-book">
+        <div class="s-content">
+            <img class="s-width" src="__PUBLIC__/img/s-shu.png"/>
+            <img class="s-img2" src="__PUBLIC__/img/choice.jpg"/>
+             <!--选项-->      
+            
+        <!--    <a href="javascript:;" class="check" attr-id="{$value.1}"><img class="island1" src="{$picture.1}"/></a>
+            <a href="javascript:;" class="check" attr-id="{$value.2}"><img class="island2" src="{$picture.2}"/></a>
+            <a href="javascript:;" class="check" attr-id="{$value.3}"><img class="island3" src="{$picture.3}"/></a>
+            <a href="javascript:;" class="check" attr-id="{$value.4}"><img class="island4" src="{$picture.4}"/></a>
+            <a href="javascript:;" class="check" attr-id="{$value.5}"><img class="island5" src="{$picture.5}"/></a>
+            <a href="javascript:;" class="check" attr-id="{$value.6}"><img class="island6" src="{$picture.6}"/></a>-->
+            
+            
+            <div class="ceshia "><img style="width:55%;" src="{$picture.1}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.1}" ><img class="island1" src="{$touxiang.1}"/></a></div>
+         <div class="ceshib"><img style="width:55%;" src="{$picture.2}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.2}"><img class="island2" src="{$touxiang.2}"/></a></div>
+        <div class="ceshic "><img style="width:55%;" src="{$picture.3}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.3}"><img class="island3" src="{$touxiang.3}"/></a></div>
+            <div class="ceshid "><img style="width:55%;" src="{$picture.4}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.4}"><img class="island4" src="{$touxiang.4}"/></a></div>
+            <div class="ceshie "><img style="width:55%;" src="{$picture.5}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.5}"><img class="island5" src="{$touxiang.5}"/></a></div>
+            <div class="ceshif "><img style="width:55%;" src="{$picture.6}"/>
+        <a href="javascript:;" class="check" attr-id="{$value.6}"><img class="island6" src="{$touxiang.6}"/></a></div>
+
+            
+            
+            
+            
+            <!--选中-->
+            <!--<a href=""><img class="island1-1 animated3 infinite zoomInDowna" src="{$picture.1}"/></a>
+            <a href=""><img class="island2-1 animated3 infinite zoomInDownb" src="{$picture.2}"/></a>
+            <a href=""><img class="island3-1 animated3 infinite zoomInDownc" src="{$picture.3}"/></a>
+            <a href=""><img class="island4-1 animated3 infinite zoomInDownd" src="{$picture.4}"/></a>
+            <a href=""><img class="island5-1 animated3 infinite zoomInDowne" src="{$picture.5}"/></a>
+            <a href=""><img class="island6-1 animated3 infinite zoomInDownf" src="{$picture.6}"/></a> -->
+            
+        </div>
+    </div>
+    <div class="footer">
+        <div style=" width:76%; height:30%; margin:0 auto;">
+            <a href="javascript:location.reload();"><img class="withed s-paga" src="__PUBLIC__/img/again.png"/></a>
+               <a href="javascript:;" id="cf"><img class="withed c-bo" src="__PUBLIC__/img/cb.png"/></a>
+               <a href="javascript:;" class="next"><img class="withed x-paga" src="__PUBLIC__/img/over.png"/></a>
+        </div>
+    </div>
+    
+    
+     <form name="f1" id="f1" method="post" action="{:U('Child/finish')}">
+     <input type="hidden" value="" name="land1" id="land1" />
+     <input type="hidden" value="" name="land2" id="land2" />
+     <input type="hidden" value="" name="land3" id="land3" />
+     <input type="hidden" value="" name="land4" id="land4" />
+     <input type="hidden" value="" name="land5" id="land5" />
+     <input type="hidden" value="" name="land6" id="land6" />
+    
+    </form>
+    
+</div>
+</body>
+</html>

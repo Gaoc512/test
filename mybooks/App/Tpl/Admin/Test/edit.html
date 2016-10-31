@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/jsAddress.js"></script>
+ <script language="javascript" type="text/javascript" src="__PUBLIC__/js/My97DatePicker/WdatePicker.js"></script>
+    <script type="text/javascript">
+        var c = new Calendar("c");
+        document.write(c);
+    </script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $("#add").click(function(e){
+    var content="<p><span>标签：</span><input type='text' name='tags[]' class='text'  /></p>";
+    $(this).before(content);
+    })
+});
+
+</script>
+
+</head>
+
+<body>
+
+ <div class="xt-bt">测试管理 > 测试编辑 </div>
+ 
+  <form name="f1" method="post" action="{:U('Admin/Test/save',array('id'=>$data[id]))}" enctype="multipart/form-data">
+    
+    <div class="xt-input" style="background:#FFF;">
+         <p><span>测试名称：</span>
+         <input type="text" name="name" class="text" value="{$data.name}"  /></p>
+       
+         <p> <span>内容简介：</span>
+       <textarea name="content" class="textarea" ><?php echo $data['content'];?></textarea></p>
+
+       <p style="margin-top:15px; padding-left:40px;"> <input type="submit" value="录入" class="green-int" /></p>
+       
+    </div>
+    
+ </form>
+
+</body>
+</html>

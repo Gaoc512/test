@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+ <div class="xt-bt">报表数据 > 报表数据</div>
+ 
+
+    <div class="xt-input" style="clear:both;">
+     <form name="f1" method="post" action="{:U('Report/searchlists')}">
+        <span>测试年份</span>
+       <select name="year">
+       <option value="2001">2001</option>
+       <option value="2002">2002</option>
+       <option value="2003">2003</option>
+       <option value="2004">2004</option>
+       <option value="2005">2005</option>
+       <option value="2006">2006</option>
+       <option value="2007">2007</option>
+       <option value="2008">2008</option>
+       <option value="2009">2009</option>
+       <option value="2010">2010</option>
+       <option value="2011">2011</option>
+       <option value="2012">2012</option>
+       <option value="2013">2013</option>
+       <option value="2014">2014</option>
+       <option value="2015">2015</option>
+       <option value="2016">2016</option>
+
+       </select>
+        <span>学校</span><input type="text" class="int-text" name="school" />
+         <span>年级</span>
+        <input type="text" class="int-text" name="grade" />
+        <span>班级</span>
+        <input type="text" class="int-text" name="class" />
+        
+        <!--<span>来源</span><input type="text" class="int-text" />-->
+      <!--  <input type="button" value="确 定" class="green-int" />-->
+        <input type="submit" value="确 定" class="yellow-int" />
+        <a class="red-int" style="float:right;" href="{:U('Admin/Report/relist3')}">查看所有未完成学生报告</a>
+        </form>
+       
+    </div>
+
+    
+    <div class="xt-table">
+    
+        <table cellpadding="0" cellspacing="0" border="0" bgcolor="#dcdcdc" width="100%">
+            <tr>
+	            <th>ID</th>
+	            <th>测试名称</th>
+	            <th>年级类别</th>
+	            <th>起始时间</th>
+	            <th>结束时间</th>
+	           <!-- <th>出版社</th>
+	            <th>出版年月</th>
+	            <th>价格</th>
+	            <th>分类</th>
+	            <th>主题</th>-->
+	            <th>创建时间</th>
+	            <th>操作</th>
+            </tr>
+            <empty name="data">
+            	<tr><td colspan="7"></td></tr>
+            <else />
+            <tr>
+            <foreach name="data" item="vo">
+             	<td>{$vo.id}</td>
+                <td>{$vo.title}</td>
+                <td>
+                <if condition="$vo[type] eq 1">
+               		 低年级
+                <else />
+           		                高年级
+                </if>
+                </td>  
+                <td>{$vo.starttime}</td>
+                <td>{$vo.endtime}</td>
+                <td>{$vo.createtime}</td>
+                <td><a class="green-xt" href="{:U('Admin/Report/relist',array('id'=>$vo[id]))}">查看完成学生报告</a>
+                <a class="green-xt" href="{:U('Admin/Report/relist2',array('id'=>$vo[id]))}">查看未完成学生报告</a>
+            </tr>
+           </foreach>
+           <tr><td colspan="7">{$page}</td></tr>
+		</empty>
+      </table>
+    </div>
+    <!--<div class="xt-fenye">
+    {$page}
+        <!--<div class="xt-fenye-left">当前第 1 / 270 页,每页10条，共 2696条记录</div>
+        <div class="xt-fenye-right">
+            <a href="#">首页</a>
+            <a href="#">上一步</a>
+            <a href="#">下一步</a>
+            <a href="#">尾页</a>
+            <input type="text" name="text" />
+            <a href="#" class="xt-link">跳转</a>
+        </div>
+    </div>-->
+
+
+</body>
+</html>

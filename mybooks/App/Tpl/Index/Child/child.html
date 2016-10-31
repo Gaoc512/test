@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>小学生图书推荐</title>
+<link rel="stylesheet" id="sc" type="text/css" href="__PUBLIC__/css/style.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/animation.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+    var sc=document.getElementById("sc");
+   
+    if(screen.width<1400)  //获取屏幕的的宽度
+    {
+      sc.setAttribute("href","__PUBLIC__/css/style1.css");   //设置css引入样式表的路径
+     
+    }
+    $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/001.mp3" type="audio/mpeg"/></audio>');
+    }
+</script>
+<style>
+a:hover a:visited{ color::#666;}
+</style>
+</head>
+
+<body  style=" background:url(__PUBLIC__/img/s-bg2.png) repeat #f8e8c3;">
+<div id="newMessageDIV" style="display:none"></div>
+<div class="wapper">
+    <div class="s-book">
+        <div class="s-content animated1 infinite pulse">
+            <img class="s-width" src="__PUBLIC__/img/s-shu.png"/>
+            <img class="s-img2" src="__PUBLIC__/img/six-island.jpg"/></div>
+        <div class="ceshi sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.1}"/>
+        </div>
+        <div class="ceshi2 sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.2}"/>
+        </div>
+        <div class="ceshi3 sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.3}"/>
+        </div>
+        <div class="ceshi4 sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.4}"/>
+        </div>
+        <div class="ceshi5 sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.5}"/>
+        </div>
+        <div class="ceshi6 sleft animated infinite bounceIn"><img style="width:55%;" src="{$picture.6}"/>
+        </div>
+    </div>
+    
+    
+    <div class="footer">
+        <div style=" width:76%; height:30%; margin:0 auto;">
+            <a href="{:U('Child/island')}">
+           <!--<a href="http://www.touchdelight.cn/books/Pupilweb/island1-1.html">--><img class="withed" style=" margin-left:40%; " src="__PUBLIC__/img/begin.png"/></a>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

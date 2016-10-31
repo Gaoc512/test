@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+ <script language="javascript" type="text/javascript" src="__PUBLIC__/js/My97DatePicker/WdatePicker.js"></script>
+    <script type="text/javascript">
+        var c = new Calendar("c");
+        document.write(c);
+    </script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $("#add").click(function(e){
+		var content="<p><span>标签：</span><input type='text' name='tags[]' class='text'  /></p>";
+		$(this).before(content);
+		})
+});
+
+</script>
+
+</head>
+
+<body>
+
+ <div class="xt-bt">学校管理 > 学生管理 > 修改学生信息</div>
+ 
+  <form name="f1" method="post" action="{:U('Admin/School/editstudent')}" enctype="multipart/form-data">
+    
+    <div class="xt-input" style="background:#FFF;">
+        <p><span>学生姓名：</span>
+       <input type="text" name="username" class="text" value="{$data.name}" /></p>
+       
+         <p> <span>年级：</span>
+            <input type="text" name="grade" value="{$data.grade}" />
+           </p>
+         <p> <span>班级：</span>
+            <input type="text" name="class" value="{$data.class}" />
+           </p>
+            <p> <span>生日：</span>
+            <input type="text" name="birthday" value="{$data.birthday}" />
+           </p>
+           <p> <span>性别：</span>
+            <input type="text" name="sex" value="{$data.sex}" />
+           </p>
+           <input type="hidden" name="id" value="{$data.id}" />
+       <p style="margin-top:15px; padding-left:40px;"> <input type="submit" value="修改" class="green-int" /></p>
+       
+    </div>
+    
+ </form>
+
+</body>
+</html>

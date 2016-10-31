@@ -1,0 +1,664 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; font-size:17px; line-height:60px;">
+<p>姓名：王春鹏61</p>
+<p>班级：四年级2</p>
+<p>学校：高程测试四小</p>
+<p>日期：2016-09-27 11:08:20</p>
+</div>
+</div>
+
+<div style="width:40%; float:right;"><img  src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/1.jpg" /></div>
+
+</div>
+
+<div style=" width:100%; clear:both;font-family:华文楷体;  margin-top:15px; font-size:20px; color:#363636;">
+<h1 style="font-size:21px;font-family:华文楷体; color:#000;">亲爱的王春鹏61同学：</h1>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们发现你最喜欢成长类的书籍，这类书籍不仅描写了小学生的喜怒哀乐，还会教你如何面对成长过程中的烦劳和困难。让我们一起走进我们自己的小小世界吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们还发现你比较喜欢人物传记类的书籍，在你的心中是不是有那么几个人物让你崇拜或好奇呢？这一类的书籍能够让你更全面、深刻地了解你心目中的大人物，也能够给你一次近距离与大人物对话的机会，赶紧去了解一下他/她的一生吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">  最后我们发现你对哲学思考类的书籍也感兴趣，你是否会提出一些大人们都无法回答你的问题？你是否对很多事情抱有不同的观点或看法？那么相信这类书籍会给你带来惊喜，毫不犹豫地去寻找答案吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">
+	现在，快看看有哪些你感兴趣的书正在等着你呢，你是不是已经迫不及待了呢？</p>
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;font-family:隶书">我最感兴趣的图书推荐</h1>
+<!-- 
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《少年特种兵·沙漠特种战系列(3)—沙漠特战》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e54b852c6.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>张永军</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>《少年特种兵·沙漠特种战系列》包括《学员战队》《奇怪特训》《沙漠特战》《艰难困境》4个分册。作家笔下的少年特种兵“无影分队”突然奉命与“小野猪战队”的少年特种兵合并，他们在影子鱼007的带领下，秘密潜入域外荒漠地带，执行神秘的特殊任务，与装备精良的外国特种兵、快速反应部队及恐怖组织展开了殊死的较量……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《下落不明的故事   彩乌鸦系列十周年版     》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d7025e2b12.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>莱因哈特・容</p>  
+<p><b>出版社：</b>２１世纪出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>下落不明的故事》是一本引人入胜的、与众不同的书…… 邦贝先生个子非常矮小，他走路要完全依赖拐杖，但还是走得浑身酸疼。邦贝的梦想就是成为一个作家，非凡的想象力和伟大的思想帮助他创作出了绝妙的故事。《下落不明的故事》作者莱因哈特・容用简朴的语言，创造了一个崭新的、散文般的、充满了哲学智慧的阅读空间。      	          </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《蓝眼睛德国大奖小说书系—安东潜水记》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82ff941417.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)米蕾娜•白石</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>小安东和爷爷奶奶到一个天然湖度假，但喜欢潜水，但却一直是在室内游泳池里玩耍的安东，对眼前不知深浅的湖水充满了恐惧和厌恶。幸运的是他最终结识到一条爷爷钓到的小鱼，并彼此成为好朋友。在一次“战斗”中，他和欺负他的大男孩终于交手，成功地捍卫了自己的好朋友――那条小鱼的生命。但是，安东的假期即将结束，必须回到城里的家中。他该怎么安排这条小鱼的未来呢？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《国际大奖小说系列-光草》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a825af3ca9a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(意)罗伯托·普密尼 著，(意) 切科·马利尼洛 绘</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>十一岁的马杜勒从小就被一种怪病困扰着，不能接触阳光和尘埃。慈爱的父亲送给他一份特别的生日礼物——请来画家萨库玛为他的房间作画。从此，墙壁上出现了一个奇妙的异想世界，为马杜勒带来了快乐和希望。然而，随着马杜勒的病情恶化，画中的世界会发生怎样的改变？奇异的光草又能否拯救他年轻的生命呢？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中华人物故事全书(美绘版)--兵圣名将》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6d6728d7c5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>马允伦，张小林</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中华人物故事全书(美绘版)--少年英才》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6d83daccb4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>尹世霖</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中华人物故事全书(美绘版)--睿智先哲》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6d933e1642.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>孟祥才</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中华人物故事全书(美绘版)--能工巧匠》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6d74a62a45.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>杨文衡</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《写给孩子的哲学启蒙书5》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82a114ec70.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《写给孩子的哲学启蒙书1》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82bf636326.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《写给孩子的哲学启蒙书4》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a829470bbfd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《写给孩子的哲学启蒙书2》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82c34974b2.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《少年特种兵·沙漠特种战系列(3)—沙漠特战》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e54b852c6.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>张永军</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《少年特种兵·沙漠特种战系列》包括《学员战队》《奇怪特训》《沙漠特战》《艰难困境》4个分册。作家笔下的少年特种兵“无影分队”突然奉命与“小野猪战队”的少年特种兵合并，他们在影子鱼007的带领下，秘密潜入域外荒漠地带，执行神秘的特殊任务，与装备精良的外国特种兵、快速反应部队及恐怖组织展开了殊死的较量……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《下落不明的故事   彩乌鸦系列十周年版     》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d7025e2b12.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>莱因哈特・容</p>  
+<p><b>出版社：</b>２１世纪出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">下落不明的故事》是一本引人入胜的、与众不同的书…… 邦贝先生个子非常矮小，他走路要完全依赖拐杖，但还是走得浑身酸疼。邦贝的梦想就是成为一个作家，非凡的想象力和伟大的思想帮助他创作出了绝妙的故事。《下落不明的故事》作者莱因哈特・容用简朴的语言，创造了一个崭新的、散文般的、充满了哲学智慧的阅读空间。      	          </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《蓝眼睛德国大奖小说书系—安东潜水记》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82ff941417.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(德)米蕾娜•白石</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">小安东和爷爷奶奶到一个天然湖度假，但喜欢潜水，但却一直是在室内游泳池里玩耍的安东，对眼前不知深浅的湖水充满了恐惧和厌恶。幸运的是他最终结识到一条爷爷钓到的小鱼，并彼此成为好朋友。在一次“战斗”中，他和欺负他的大男孩终于交手，成功地捍卫了自己的好朋友――那条小鱼的生命。但是，安东的假期即将结束，必须回到城里的家中。他该怎么安排这条小鱼的未来呢？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《国际大奖小说系列-光草》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a825af3ca9a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(意)罗伯托·普密尼 著，(意) 切科·马利尼洛 绘</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">十一岁的马杜勒从小就被一种怪病困扰着，不能接触阳光和尘埃。慈爱的父亲送给他一份特别的生日礼物——请来画家萨库玛为他的房间作画。从此，墙壁上出现了一个奇妙的异想世界，为马杜勒带来了快乐和希望。然而，随着马杜勒的病情恶化，画中的世界会发生怎样的改变？奇异的光草又能否拯救他年轻的生命呢？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中华人物故事全书(美绘版)--兵圣名将》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6d6728d7c5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>马允伦，张小林</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>古代先贤</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中华人物故事全书(美绘版)--少年英才》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6d83daccb4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>尹世霖</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>古代先贤</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中华人物故事全书(美绘版)--睿智先哲》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6d933e1642.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>孟祥才</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>古代先贤</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中华人物故事全书(美绘版)--能工巧匠》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6d74a62a45.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>杨文衡</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>古代先贤</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《中华人物故事全书》是一套专为少年儿童编写的大型人物故事丛书。它包括古代和近现代两部分，讲述了中华民族历史上各个时期各个方面500多位著名人物的故事。他们当中有政治家、军事家、思想家、科学家、文学家、艺术家，还有妇女、儿童的杰出代表。为了让少年儿童喜欢读、读得懂，编者和作者依照历史记载，采取了普通话13语讲故事的形式，用几个或者十几个最能够体现人物特点的小故事，把人物的生平事迹讲述出来。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《写给孩子的哲学启蒙书5》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82a114ec70.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>人生</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《写给孩子的哲学启蒙书1》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82bf636326.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>人生</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《写给孩子的哲学启蒙书4》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a829470bbfd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>人生</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《写给孩子的哲学启蒙书2》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82c34974b2.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)碧姬•拉贝/米歇尔•比奇 著,雅克•阿扎姆 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>人生</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书回答了八岁以上的青少年提出或思考的关于人生的重大问题，是一套真正的人生工具书，培养孩子的好奇心和思考力，弥补孩子成长中的缺失，哲学启蒙是必不可少的。第一卷呈现了生与死；信仰与传说；自由与不自由；幸福与痛苦；对与错等问题。</span></p>
+</div>
+</div>
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p style="text-indent:2em; line-height:1.5;font-family:华文楷体;font-size:20px;">除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<!-- <div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《世界侦探推理名家名作选——布朗神父探案故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e0272b249.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)切斯特顿</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>《布朗神父探案全集(上下)》由G.K.切斯特顿所著，侦探主角名叫布朗，是个其貌不扬的罗马天主教神父。他洞悉人类的犯罪本质，能依靠普通的推理破获疑难案件。随着时间的推移，他不仅能推理破案，还能拯救罪犯的灵魂。《布朗神父探案全集(上下)》收录了他的侦探故事共计17个，每个故事案件扑朔迷离，情节曲折，引人入胜。相信你一定会喜欢</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中国经典文学名著·典藏本：小英雄雨来》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a823da96376.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>管桦</p>  
+<p><b>出版社：</b>长江少年儿童出版社</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>晋察冀边区北部有有一个小村子，一条还乡河在村前流过。河边长着许多芦苇，芦花开的时候，全村几十家就笼在芦花里。因此，这村叫芦花村。村里有个孩子顽皮大胆，尤其是水性很好，他就是雨来。 夏天，小雨来和其他小朋友一样，也喜欢在还乡河里戏水。 有一天，鬼子又来扫荡了。交通员老李被鬼子盯上了，躲进了雨来家的地道里。只有雨来一个人在家。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《动物小说大王沈石溪·品藏书系-骆驼王子》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8238c09bbf.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>沈石溪</p>  
+<p><b>出版社：</b>浙江少儿</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>它，是名副其实的王子，父母百般溺爱，家族小心呵护;它，不需吃苦，只管享受;不需动脑，只管服从;一只胆小懦弱的骆驼，一个自私狭隘的王子，一个能力低下的弱智儿。当家族遭遇强敌时，它选择了逃跑;当弱者需要保护时，它表现出冷漠和拒绝。为了享受舒适，它放弃了自由。可悲，可叹，可怜……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《世界原来如此有趣：探索形状奥秘》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e0189da61.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>李毓佩</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《世界原来如此有趣——探索形状奥秘》这本书选择了一个新的切入点，从人们司空见惯的现象——物体的形状和物质运动的形状入手，由此而展开一系列引人入胜的话题，它们涉及数学、物理、天文、技术、建筑、人体、生物以至人们的衣食住行，由简单到复杂，个别到一般，现象到本质，剖析了从表面的现象——形状所蕴含的无穷的内在奥秘。这种创作手法打破了学科的界限，增加了阅读的趣味性，给人以耳目一新之感。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《百变博士趣味科学全书9.壮阔大世界的小小原子》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a72dac1dd30.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(韩)崔美华</p>  
+<p><b>出版社：</b>安徽教育出版社</p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>《百变博士趣味科学全书9•原子:壮阔大世界的小小微粒》介绍了教科书上出现的元素、原子、分子、形态变化、溶解度、密度、元素周期表、元素符号等内容，并用最容易接受的方式和例子为孩子们解释说明。为什么物体会有固定的形状？为什么元素会用符号表示？为什么妈妈在厨房做饭，而我在自己的房间都能闻到香味？等等这些问题的都会在《百变博士趣味科学全书9•原子:壮阔大世界的小小微粒》中找到答案。还可以让孩子们了解到原子对日常生活产生的种种影响，并学习到原子的应用技术。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我想知道为什么－为什么太阳每天都会升起》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a81f90bf8c9.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)布伦达·沃波尔</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>不断思考为什么和打破砂锅问到底，是儿童好奇心重的显著特征，也是他们探索世界和持续学习的动力。丛书通过最生活化的主题、儿童最常问的问题以及一问一答的方式，完美呈现了29世纪儿童应该具备的各类生活知识和科学常识。家中备有一套，可以适时提供孩子想知道的知识，孩子也可以从中培养遇到问题去书中寻找答案的好习惯。适合学龄前儿童和小学生阅读。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中国汉字听写大会 我的趣味汉字世界②》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a87234e0fa9.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>《中国汉字听写大会》栏目组</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>本书还收录了《中国汉字听写大会》大赛备考词和官方赛事指南，帮助读者提升读写基本功和母语使用能力。文字是民族的文化基因。本书秉承“书写的文明传递，民族的未雨绸缪”这一宗旨，让读者领悟汉字之美，品味汉字之妙，感受汉字之海的广阔与深邃。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我的第一本艺术启蒙书    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed46e786b3.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>贝亚特丽斯</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>在这本书里，你可以了解到西方艺术史长河中最伟大的艺术家：达・芬奇、拉斐尔、丢勒、伦勃朗、高更、沃霍尔……通过法国童书作家贝亚特丽斯・丰塔内尔的娓娓讲述，他们不再是遥不可及的巨匠，而是像孩子一样，本能地喜欢涂涂画画，对一切事物充满好奇的人，读着他们的故事，如同拜访老朋友一样亲切。这本书就是以这样生动、有趣的口吻讲述着他们的故事：如何在花园中庭的雕像前消磨了一个下午，如何画着画着忘记了吃饭，如何为艺术的观点争得面红耳赤……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《德国金牌幽默百科－关于中世纪骑士,你想知道什么?》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7242dcbf52.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)福尔克·普雷科尔特</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>“德国金牌幽默百科系列”为德国引进的青少年百科读物。丛书通过科学故事、人物访谈、现场体验、知识讲解、互动问答等丰富多彩的栏目形式，向小读者介绍了他们最感兴趣的各种科学知识和未解之谜。丛书共7册，主题分别是恐龙、石器时代、古埃及、古罗马、骑士、宇宙和鲸。本系列的配图独具特色，不仅有真实精美的照片、细腻形象的插画，还有幽默风趣的漫画和涂鸦。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我想知道为什么－人们可以居住在火山上吗？》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a724d474d71.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)安妮塔•加纳利</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b>我爱地理</p>
+<p><b>简介：</b>不断思考为什么和打破砂锅问到底，是儿童好奇心重的显著特征，也是他们探索世界和持续学习的动力。丛书通过最生活化的主题、儿童最常问的问题以及一问一答的方式，完美呈现了24世纪儿童应该具备的各类生活知识和科学常识。家中备有一套，可以适时提供孩子想知道的知识，孩子也可以从中培养遇到问题去书中寻找答案的好习惯。适合学龄前儿童和小学生阅读。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《冰心儿童文学全集(美绘版)--诗歌小说卷》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a70fe4d32fc.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>冰心</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>冰心的文学成就是多方面的。在选编中，我们经过认真阅读和鉴赏，把凡是写给少年儿童看的和适合少年儿童看的作品，都收入本书。凡收入本书的作品，都保持原貌，只对个别字句做了订正，对一些内容做了注释。为使读者对冰心的贡献和成就有个全面的了解，还编了《冰心生平年表简编》，附于书后。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《荒野求生少年生存小说系列 毒蝎沙漠里的钻石罐头》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8718e68ed9.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)贝尔·格里尔斯</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>奇幻世界</p>
+<p><b>简介：</b>在非洲旅行的贝克和好朋友彼得，无意中发现钻石走私者的秘密，被迫跳伞误入了炎热的撒哈拉沙漠。在这片死亡之地，贝克和彼得想要走出去，必须借助星空辨别方向，寻找岩石度过寒冷黑夜，在太阳生起前用石头取水……当他们历尽艰险来到一个古老的村庄，认为自己获救的时候，走私者却拿着枪出现在了门口……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《大英儿童百科全书3》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a88896523e0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>美国不列颠百科全书公司</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>本书主要内容包括：仙人掌、运河、城堡、猫科动物、溶洞、细胞、半人马、白垩、干酪、黑猩猩、巧克力、马戏团等。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《大英儿童百科全书1》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a88876dd47f.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>美国不列颠百科全书公司 </p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>本书主要内容包括：伊索、非洲、年龄、空气、飞机、亚历山大大帝、异与同、独自一人、动物、盔甲、艺术等。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《《环球探索》少年版精选集第二辑 01册》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a834420f4e0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>德国古纳亚尔集团出品，童趣出版有限公司</p>  
+<p><b>出版社：</b>人民邮电出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>打开《环球探索》少年版，你会渐渐地、深深地爱上科普阅读。原来大千世界是如此神奇，小到一粒看不见的尘埃，大到遨游海洋的百吨巨鲸；近到昨晚的梦境，远到宇宙如何诞生……我们艳羡孩子在于他们渴求一切知识，探索所有未知。给孩子们选择这套科普读物，小心呵护少年的好奇心和求知欲。和孩子们一起阅读，享受求知的乐趣，和孩子们共同成长！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我的第一本彩绘科学史-创造发明》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a873a677c20.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)彭妮·克拉克 著，(英)大卫·安契姆 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>《我的第一本彩绘科学史:创造发明·从钻木取火到基因科技》将人类文明史分为60个阶段，从早期人类的石斧到人造地球卫星，从第一个阿拉伯数字到覆盖全球的移动互联网……全书以细致入微的讲述，带领小读者一起了解科学史上的重要发明与发现。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《孩子提问题 大师来回答2（套装1-2册）    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/57441b93784db.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>杰玛・埃尔文・哈里斯</p>  
+<p><b>出版社：</b>上海社会科学院出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>《孩子提问题 大师来回答（套装1-2册）》孩子的奇妙问题大师的高明回答提问是孩子的专利，他们的小脑袋瓜里总是充满了各种奇思妙问。宇宙的问题、动物的问题、自己身体的问题、哲学的问题、人人都会问的问题、天才才会问的问题、不能成为问题的问题……但是，孩子们却绝少有机会得到专业、准确又令他们满意的回答。为此，本书编者从10所英国小学数千名4～12岁的孩子提交的问题中，精选其中115个最奇妙有趣的问题，然后邀请世界各领域的**人物——他们真的是最合适的人选——予以解答，最奇妙的问题，遇到最高明的解答，就是这本《孩子提问题大师来回答》。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《《环球探索》少年版精选集第二辑 03册》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a83494e2f1a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>德国古纳亚尔集团出品，童趣出版有限公司</p>  
+<p><b>出版社：</b>人民邮电出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>打开《环球探索》少年版，你会渐渐地、深深地爱上科普阅读。原来大千世界是如此神奇，小到一粒看不见的尘埃，大到遨游海洋的百吨巨鲸；近到昨晚的梦境，远到宇宙如何诞生……我们艳羡孩子在于他们渴求一切知识，探索所有未知。给孩子们选择这套科普读物，小心呵护少年的好奇心和求知欲。和孩子们一起阅读，享受求知的乐趣，和孩子们共同成长！</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《世界侦探推理名家名作选——布朗神父探案故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e0272b249.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)切斯特顿</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《布朗神父探案全集(上下)》由G.K.切斯特顿所著，侦探主角名叫布朗，是个其貌不扬的罗马天主教神父。他洞悉人类的犯罪本质，能依靠普通的推理破获疑难案件。随着时间的推移，他不仅能推理破案，还能拯救罪犯的灵魂。《布朗神父探案全集(上下)》收录了他的侦探故事共计17个，每个故事案件扑朔迷离，情节曲折，引人入胜。相信你一定会喜欢</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中国经典文学名著·典藏本：小英雄雨来》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a823da96376.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>管桦</p>  
+<p><b>出版社：</b>长江少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">晋察冀边区北部有有一个小村子，一条还乡河在村前流过。河边长着许多芦苇，芦花开的时候，全村几十家就笼在芦花里。因此，这村叫芦花村。村里有个孩子顽皮大胆，尤其是水性很好，他就是雨来。 夏天，小雨来和其他小朋友一样，也喜欢在还乡河里戏水。 有一天，鬼子又来扫荡了。交通员老李被鬼子盯上了，躲进了雨来家的地道里。只有雨来一个人在家。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《动物小说大王沈石溪·品藏书系-骆驼王子》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8238c09bbf.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>沈石溪</p>  
+<p><b>出版社：</b>浙江少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">它，是名副其实的王子，父母百般溺爱，家族小心呵护;它，不需吃苦，只管享受;不需动脑，只管服从;一只胆小懦弱的骆驼，一个自私狭隘的王子，一个能力低下的弱智儿。当家族遭遇强敌时，它选择了逃跑;当弱者需要保护时，它表现出冷漠和拒绝。为了享受舒适，它放弃了自由。可悲，可叹，可怜……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《世界原来如此有趣：探索形状奥秘》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e0189da61.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>李毓佩</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《世界原来如此有趣——探索形状奥秘》这本书选择了一个新的切入点，从人们司空见惯的现象——物体的形状和物质运动的形状入手，由此而展开一系列引人入胜的话题，它们涉及数学、物理、天文、技术、建筑、人体、生物以至人们的衣食住行，由简单到复杂，个别到一般，现象到本质，剖析了从表面的现象——形状所蕴含的无穷的内在奥秘。这种创作手法打破了学科的界限，增加了阅读的趣味性，给人以耳目一新之感。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《百变博士趣味科学全书9.壮阔大世界的小小原子》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a72dac1dd30.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(韩)崔美华</p>  
+<p><b>出版社：</b>安徽教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《百变博士趣味科学全书9•原子:壮阔大世界的小小微粒》介绍了教科书上出现的元素、原子、分子、形态变化、溶解度、密度、元素周期表、元素符号等内容，并用最容易接受的方式和例子为孩子们解释说明。为什么物体会有固定的形状？为什么元素会用符号表示？为什么妈妈在厨房做饭，而我在自己的房间都能闻到香味？等等这些问题的都会在《百变博士趣味科学全书9•原子:壮阔大世界的小小微粒》中找到答案。还可以让孩子们了解到原子对日常生活产生的种种影响，并学习到原子的应用技术。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我想知道为什么－为什么太阳每天都会升起》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a81f90bf8c9.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)布伦达·沃波尔</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">不断思考为什么和打破砂锅问到底，是儿童好奇心重的显著特征，也是他们探索世界和持续学习的动力。丛书通过最生活化的主题、儿童最常问的问题以及一问一答的方式，完美呈现了29世纪儿童应该具备的各类生活知识和科学常识。家中备有一套，可以适时提供孩子想知道的知识，孩子也可以从中培养遇到问题去书中寻找答案的好习惯。适合学龄前儿童和小学生阅读。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中国汉字听写大会 我的趣味汉字世界②》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a87234e0fa9.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>《中国汉字听写大会》栏目组</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书还收录了《中国汉字听写大会》大赛备考词和官方赛事指南，帮助读者提升读写基本功和母语使用能力。文字是民族的文化基因。本书秉承“书写的文明传递，民族的未雨绸缪”这一宗旨，让读者领悟汉字之美，品味汉字之妙，感受汉字之海的广阔与深邃。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我的第一本艺术启蒙书    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed46e786b3.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>贝亚特丽斯</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">在这本书里，你可以了解到西方艺术史长河中最伟大的艺术家：达・芬奇、拉斐尔、丢勒、伦勃朗、高更、沃霍尔……通过法国童书作家贝亚特丽斯・丰塔内尔的娓娓讲述，他们不再是遥不可及的巨匠，而是像孩子一样，本能地喜欢涂涂画画，对一切事物充满好奇的人，读着他们的故事，如同拜访老朋友一样亲切。这本书就是以这样生动、有趣的口吻讲述着他们的故事：如何在花园中庭的雕像前消磨了一个下午，如何画着画着忘记了吃饭，如何为艺术的观点争得面红耳赤……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《德国金牌幽默百科－关于中世纪骑士,你想知道什么?》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7242dcbf52.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)福尔克·普雷科尔特</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“德国金牌幽默百科系列”为德国引进的青少年百科读物。丛书通过科学故事、人物访谈、现场体验、知识讲解、互动问答等丰富多彩的栏目形式，向小读者介绍了他们最感兴趣的各种科学知识和未解之谜。丛书共7册，主题分别是恐龙、石器时代、古埃及、古罗马、骑士、宇宙和鲸。本系列的配图独具特色，不仅有真实精美的照片、细腻形象的插画，还有幽默风趣的漫画和涂鸦。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我想知道为什么－人们可以居住在火山上吗？》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a724d474d71.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)安妮塔•加纳利</p>  
+<p><b>出版社：</b>浙江教育</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">不断思考为什么和打破砂锅问到底，是儿童好奇心重的显著特征，也是他们探索世界和持续学习的动力。丛书通过最生活化的主题、儿童最常问的问题以及一问一答的方式，完美呈现了24世纪儿童应该具备的各类生活知识和科学常识。家中备有一套，可以适时提供孩子想知道的知识，孩子也可以从中培养遇到问题去书中寻找答案的好习惯。适合学龄前儿童和小学生阅读。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《冰心儿童文学全集(美绘版)--诗歌小说卷》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a70fe4d32fc.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>冰心</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">冰心的文学成就是多方面的。在选编中，我们经过认真阅读和鉴赏，把凡是写给少年儿童看的和适合少年儿童看的作品，都收入本书。凡收入本书的作品，都保持原貌，只对个别字句做了订正，对一些内容做了注释。为使读者对冰心的贡献和成就有个全面的了解，还编了《冰心生平年表简编》，附于书后。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《荒野求生少年生存小说系列 毒蝎沙漠里的钻石罐头》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8718e68ed9.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)贝尔·格里尔斯</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">在非洲旅行的贝克和好朋友彼得，无意中发现钻石走私者的秘密，被迫跳伞误入了炎热的撒哈拉沙漠。在这片死亡之地，贝克和彼得想要走出去，必须借助星空辨别方向，寻找岩石度过寒冷黑夜，在太阳生起前用石头取水……当他们历尽艰险来到一个古老的村庄，认为自己获救的时候，走私者却拿着枪出现在了门口……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《大英儿童百科全书3》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a88896523e0.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>美国不列颠百科全书公司</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书主要内容包括：仙人掌、运河、城堡、猫科动物、溶洞、细胞、半人马、白垩、干酪、黑猩猩、巧克力、马戏团等。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《大英儿童百科全书1》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a88876dd47f.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>美国不列颠百科全书公司 </p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书主要内容包括：伊索、非洲、年龄、空气、飞机、亚历山大大帝、异与同、独自一人、动物、盔甲、艺术等。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《《环球探索》少年版精选集第二辑 01册》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a834420f4e0.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>德国古纳亚尔集团出品，童趣出版有限公司</p>  
+<p><b>出版社：</b>人民邮电出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">打开《环球探索》少年版，你会渐渐地、深深地爱上科普阅读。原来大千世界是如此神奇，小到一粒看不见的尘埃，大到遨游海洋的百吨巨鲸；近到昨晚的梦境，远到宇宙如何诞生……我们艳羡孩子在于他们渴求一切知识，探索所有未知。给孩子们选择这套科普读物，小心呵护少年的好奇心和求知欲。和孩子们一起阅读，享受求知的乐趣，和孩子们共同成长！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我的第一本彩绘科学史-创造发明》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a873a677c20.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)彭妮·克拉克 著，(英)大卫·安契姆 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《我的第一本彩绘科学史:创造发明·从钻木取火到基因科技》将人类文明史分为60个阶段，从早期人类的石斧到人造地球卫星，从第一个阿拉伯数字到覆盖全球的移动互联网……全书以细致入微的讲述，带领小读者一起了解科学史上的重要发明与发现。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《孩子提问题 大师来回答2（套装1-2册）    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_57441b93784db.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>杰玛・埃尔文・哈里斯</p>  
+<p><b>出版社：</b>上海社会科学院出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《孩子提问题 大师来回答（套装1-2册）》孩子的奇妙问题大师的高明回答提问是孩子的专利，他们的小脑袋瓜里总是充满了各种奇思妙问。宇宙的问题、动物的问题、自己身体的问题、哲学的问题、人人都会问的问题、天才才会问的问题、不能成为问题的问题……但是，孩子们却绝少有机会得到专业、准确又令他们满意的回答。为此，本书编者从10所英国小学数千名4～12岁的孩子提交的问题中，精选其中115个最奇妙有趣的问题，然后邀请世界各领域的**人物——他们真的是最合适的人选——予以解答，最奇妙的问题，遇到最高明的解答，就是这本《孩子提问题大师来回答》。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《《环球探索》少年版精选集第二辑 03册》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a83494e2f1a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>德国古纳亚尔集团出品，童趣出版有限公司</p>  
+<p><b>出版社：</b>人民邮电出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">打开《环球探索》少年版，你会渐渐地、深深地爱上科普阅读。原来大千世界是如此神奇，小到一粒看不见的尘埃，大到遨游海洋的百吨巨鲸；近到昨晚的梦境，远到宇宙如何诞生……我们艳羡孩子在于他们渴求一切知识，探索所有未知。给孩子们选择这套科普读物，小心呵护少年的好奇心和求知欲。和孩子们一起阅读，享受求知的乐趣，和孩子们共同成长！</span></p>
+</div>
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

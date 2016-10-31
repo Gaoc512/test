@@ -1,0 +1,668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; font-size:17px; line-height:60px;">
+<p>姓名：高程1</p>
+<p>班级：四年级2</p>
+<p>学校：高程测试一小</p>
+<p>日期：2016-09-27 11:07:43</p>
+</div>
+</div>
+
+<div style="width:40%; float:right;"><img  src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/1.jpg" /></div>
+
+</div>
+
+<div style=" width:100%; clear:both;font-family:华文楷体;  margin-top:15px; font-size:20px; color:#363636;">
+<h1 style="font-size:21px;font-family:华文楷体; color:#000;">亲爱的高程1同学：</h1>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们发现你最喜欢历史类的书籍，这类书籍可以带你穿越到任何你想去的年代，感受那个时代人类的生活气息；还可以带你领略各国的文明发展，让你饱览人类文化的魅力。</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们还发现你比较喜欢成长类的书籍，这类书籍不仅描写了小学生的喜怒哀乐，还会教你如何面对成长过程中的烦劳和困难。让我们一起走进我们自己的小小世界吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">  最后我们发现你对天文类的书籍也感兴趣，这类书籍不仅可以告诉你有关宇宙的万千秘密，还会给你讲述一些有关外星人和太空的故事。相信你读完后一定会对天文有崭新的认识！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">
+	现在，快看看有哪些你感兴趣的书正在等着你呢，你是不是已经迫不及待了呢？</p>
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;font-family:隶书">我最感兴趣的图书推荐</h1>
+<!-- 
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：维京人之谜》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a879771406d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)黑勒德伽尔德·埃勒斯内尔 著，(德)尼古莱·斯米尔诺夫，奥雷格·于玎 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>在长达近300年的时间里，维京人以强盗和劫掠者的形象，让中世纪的欧洲处于恐慌和惊吓之中。然而，这些粗鲁的北方来客也是勇敢的探索者、出色的水手、精明的商人和曾经赢得了许多惊喜与赞叹的创造者。                                 </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《林汉达中国历史故事集(美绘版)战国卷》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e628a60a5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《小学生最着迷的穿越之旅 史前社会》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5695bb9e05128.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《史前社会》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。
+</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《匈牙利童书  勇士》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a837ab20d8c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(匈牙利)凯特•巴纳巴斯 著,(匈牙利)马特·陶马什 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>3D图文书《勇士》依据更新、更翔实的历史军事资料，既介绍了四大人类文明发祥地的古代勇士，又描绘了古希腊、马其顿、古罗马、凯尔特和维京战士，以及中世纪欧洲骑士和草原骑手的英姿。文字简洁生动，适合大众读者，图文搭配，手绘图画具有较高的艺术价值和收藏价值，立体图片带给读者更多视觉享受。每个男孩心中都有一个英雄梦。他们渴望像传奇中的勇士那样以坚韧不拔的意志迎接种种挑战，捍卫自己珍视的信仰，收获成功的喜悦。本书通过精美细致的插画和简明风趣的历史资料为读者提供了这样一段积极向上、精彩纷呈的阅读体验。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《国际安徒生奖-马塞林诺・面包和酒    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d764371acd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>何塞</p>  
+<p><b>出版社：</b>湖南教育出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>“这个故事在西班牙如此有名，以至于没有人不知道马塞林诺。就像意大利没人不知道匹诺曹一样。”——编辑手记。本书是西班牙儿童文学作家何塞·玛丽亚·桑切斯-席尔瓦最杰出的作品，被译成各种语言，并被拍成电影和动画片。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《国际安徒生奖大奖书系·文字版（第一辑套装）-少年斯特法诺》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a72262ed44d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(阿根廷)玛丽亚•特蕾莎•安德鲁埃托,方卫平</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>讲述了意大利男孩斯特法诺少年丧父，一直在故乡和母亲相依为命。移民潮爆发后，少年斯特法诺去了南美，母亲却留在故乡意大利。历经艰险，斯特法诺来到阿根廷，跟随同伴皮诺的叔叔在农场干活。一次偶然的机会，他学会了吹奏萨克斯，被马戏团看上，从此跟随马戏团云游四方。在接到母亲的死讯后，斯特法诺非常悲痛，也迅速成长起来，不想再过漂泊的生活了……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《蓝眼睛德国大奖小说书系—快跑，玛尔卡》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82fdf13eb5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)米亚姆•普莱斯勒</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>逃亡路上，玛尔卡因为生病而无法继续前行了。妈妈决定把她留在当地的农户家，等她病好了再让人把她送到布达佩斯，她努力说服自己：这是最好的办法，小孩子不会引人注意，不管怎样小孩子总是跟着大人走的。可是事与愿违，玛尔卡被带到了犹太隔离区，她在那里经历了饥饿、寒冷、疾病和德国人定期的突击行动。她最终还能再次见到母亲吗？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《《儿童文学》国情教育读本——今日中国》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a70be17f5ce.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>张之路，孙卫卫</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>《今日中国》内容简介：我们为祖国的巨变、繁荣感到由衷的高兴和自豪，写到激动处，会眼潮心热。当然，历史上那些不堪回首的日子也让我们感到遗憾和痛心。我们甚至天真地想，如果当初不是那样，少一些失误，该有多好。我们深深地懂得，历史是一面镜子，“我们能够往以前看多远，我们就能够往未来看多远”。只有记住历史，我们才能走向光明的未来。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学 科学新知系列·太空旅行记》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a73eef90ab6.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特(Poskitt.K.) 著,(英)丹尼奥•波斯盖特(Postgate.D.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>开始，是一场无法想象的大爆炸。后来，我们生活的星系诞生了。现在，我们正在以光速飞奔，穿越宇宙空间，追逐数以万计的其他天体，恒星、人造卫星、流星、彗星、小行星……《可怕的科学•科学新知系列:太空旅行记》将为你讲述关于我们所在的这个星系的近乎魔幻的事件。保证会让你蹦得老高，就像是踩在一块巨大的太阳能反光板上。在书中，你可以在火星上滑雪，还能遇上来自冥王星的伤心旅行者，再加上关于红巨星、白矮星和超新星的令人难以置信的信息……最终，你还会发现太靠近黑洞会发生什么惊人的事情……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《科学家讲的科学故事045-哥白尼讲的日心说的故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7321888ff8.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(韩)郭泳稙</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>日心说是大家耳熟能详的真理，可是这一真理成为现代人常识性的原理却经历了艰难的过程，其中包含着很多人的心血乃至宝贵的生命。日心说并不是哥白尼一个人的主张，也不是哥白尼一个人说服大家接受的，正确理解哥白尼和伽利略以及开普勒这三位科学家对日心说的贡献，对了解近代科学的诞生过程有着非常重要的意义。读完这本书，我们会感到哥白尼就在我们身边，哥白尼竟然与我们如此亲近。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学 体验课堂系列·体验宇宙》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a824a7ad406.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)菲尔•洛克斯比•考克斯(Cox.P.R.) 著,(英)凯利•沃尔德克(Waldek.K.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>“下节课我们将在月球上漫步。”莱克丝小结说道，她这么盘算已经很久了。虽然直到现在，我们都还无法确定莱克丝小姐到底是不是一个实际存在的人，但是我们都承认，她的课程的确让人着魔。我们从课桌上盘旋着进入了我们的太空漫步课程。为了观察其他星星，我们不得不把我们的教室当作宇宙飞船开来开去。在我们接近黑洞的时候，差一点就被它超大的引力吸进去了。体验课堂里什么事情都可能发生，快来亲身体验一下吧！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《放大千万倍的世界    穿越银河系》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7419a8c6da.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)吉勒斯•斯帕罗</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>天上的星星为什么朝着我们眨眼睛？为什么有的亮、有的暗？孩子们的小脑袋里总是充斥着许许多多稀奇古怪又天真烂漫的问题。
+《穿越银河系》就像是一本新奇有趣的宇宙导览手册，用史无前例的高清图片以及深入浅出的专业解说，告诉孩子们：呼呼的星际风是从哪里刮来的？为什么环状星云看起来像热带湖泊？</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：维京人之谜》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a879771406d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(德)黑勒德伽尔德·埃勒斯内尔 著，(德)尼古莱·斯米尔诺夫，奥雷格·于玎 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>维京人</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">在长达近300年的时间里，维京人以强盗和劫掠者的形象，让中世纪的欧洲处于恐慌和惊吓之中。然而，这些粗鲁的北方来客也是勇敢的探索者、出色的水手、精明的商人和曾经赢得了许多惊喜与赞叹的创造者。                                 </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《林汉达中国历史故事集(美绘版)战国卷》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e628a60a5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>历史故事</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《小学生最着迷的穿越之旅 史前社会》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5695bb9e05128.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>历史</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《史前社会》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。
+</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《匈牙利童书  勇士》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a837ab20d8c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(匈牙利)凯特•巴纳巴斯 著,(匈牙利)马特·陶马什 绘</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>古代文明</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">3D图文书《勇士》依据更新、更翔实的历史军事资料，既介绍了四大人类文明发祥地的古代勇士，又描绘了古希腊、马其顿、古罗马、凯尔特和维京战士，以及中世纪欧洲骑士和草原骑手的英姿。文字简洁生动，适合大众读者，图文搭配，手绘图画具有较高的艺术价值和收藏价值，立体图片带给读者更多视觉享受。每个男孩心中都有一个英雄梦。他们渴望像传奇中的勇士那样以坚韧不拔的意志迎接种种挑战，捍卫自己珍视的信仰，收获成功的喜悦。本书通过精美细致的插画和简明风趣的历史资料为读者提供了这样一段积极向上、精彩纷呈的阅读体验。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《国际安徒生奖-马塞林诺・面包和酒    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d764371acd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>何塞</p>  
+<p><b>出版社：</b>湖南教育出版社</p>
+<p><b>主题：</b>童话</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“这个故事在西班牙如此有名，以至于没有人不知道马塞林诺。就像意大利没人不知道匹诺曹一样。”——编辑手记。本书是西班牙儿童文学作家何塞·玛丽亚·桑切斯-席尔瓦最杰出的作品，被译成各种语言，并被拍成电影和动画片。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《国际安徒生奖大奖书系·文字版（第一辑套装）-少年斯特法诺》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a72262ed44d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(阿根廷)玛丽亚•特蕾莎•安德鲁埃托,方卫平</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">讲述了意大利男孩斯特法诺少年丧父，一直在故乡和母亲相依为命。移民潮爆发后，少年斯特法诺去了南美，母亲却留在故乡意大利。历经艰险，斯特法诺来到阿根廷，跟随同伴皮诺的叔叔在农场干活。一次偶然的机会，他学会了吹奏萨克斯，被马戏团看上，从此跟随马戏团云游四方。在接到母亲的死讯后，斯特法诺非常悲痛，也迅速成长起来，不想再过漂泊的生活了……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《蓝眼睛德国大奖小说书系—快跑，玛尔卡》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82fdf13eb5.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(德)米亚姆•普莱斯勒</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">逃亡路上，玛尔卡因为生病而无法继续前行了。妈妈决定把她留在当地的农户家，等她病好了再让人把她送到布达佩斯，她努力说服自己：这是最好的办法，小孩子不会引人注意，不管怎样小孩子总是跟着大人走的。可是事与愿违，玛尔卡被带到了犹太隔离区，她在那里经历了饥饿、寒冷、疾病和德国人定期的突击行动。她最终还能再次见到母亲吗？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《《儿童文学》国情教育读本——今日中国》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a70be17f5ce.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>张之路，孙卫卫</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>成长</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《今日中国》内容简介：我们为祖国的巨变、繁荣感到由衷的高兴和自豪，写到激动处，会眼潮心热。当然，历史上那些不堪回首的日子也让我们感到遗憾和痛心。我们甚至天真地想，如果当初不是那样，少一些失误，该有多好。我们深深地懂得，历史是一面镜子，“我们能够往以前看多远，我们就能够往未来看多远”。只有记住历史，我们才能走向光明的未来。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学 科学新知系列·太空旅行记》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a73eef90ab6.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特(Poskitt.K.) 著,(英)丹尼奥•波斯盖特(Postgate.D.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>地球与科学</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">开始，是一场无法想象的大爆炸。后来，我们生活的星系诞生了。现在，我们正在以光速飞奔，穿越宇宙空间，追逐数以万计的其他天体，恒星、人造卫星、流星、彗星、小行星……《可怕的科学•科学新知系列:太空旅行记》将为你讲述关于我们所在的这个星系的近乎魔幻的事件。保证会让你蹦得老高，就像是踩在一块巨大的太阳能反光板上。在书中，你可以在火星上滑雪，还能遇上来自冥王星的伤心旅行者，再加上关于红巨星、白矮星和超新星的令人难以置信的信息……最终，你还会发现太靠近黑洞会发生什么惊人的事情……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《科学家讲的科学故事045-哥白尼讲的日心说的故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7321888ff8.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(韩)郭泳稙</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>宇宙</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">日心说是大家耳熟能详的真理，可是这一真理成为现代人常识性的原理却经历了艰难的过程，其中包含着很多人的心血乃至宝贵的生命。日心说并不是哥白尼一个人的主张，也不是哥白尼一个人说服大家接受的，正确理解哥白尼和伽利略以及开普勒这三位科学家对日心说的贡献，对了解近代科学的诞生过程有着非常重要的意义。读完这本书，我们会感到哥白尼就在我们身边，哥白尼竟然与我们如此亲近。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学 体验课堂系列·体验宇宙》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a824a7ad406.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)菲尔•洛克斯比•考克斯(Cox.P.R.) 著,(英)凯利•沃尔德克(Waldek.K.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>地球与科学</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“下节课我们将在月球上漫步。”莱克丝小结说道，她这么盘算已经很久了。虽然直到现在，我们都还无法确定莱克丝小姐到底是不是一个实际存在的人，但是我们都承认，她的课程的确让人着魔。我们从课桌上盘旋着进入了我们的太空漫步课程。为了观察其他星星，我们不得不把我们的教室当作宇宙飞船开来开去。在我们接近黑洞的时候，差一点就被它超大的引力吸进去了。体验课堂里什么事情都可能发生，快来亲身体验一下吧！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《放大千万倍的世界    穿越银河系》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7419a8c6da.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)吉勒斯•斯帕罗</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b>地球与科学</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">天上的星星为什么朝着我们眨眼睛？为什么有的亮、有的暗？孩子们的小脑袋里总是充斥着许许多多稀奇古怪又天真烂漫的问题。
+《穿越银河系》就像是一本新奇有趣的宇宙导览手册，用史无前例的高清图片以及深入浅出的专业解说，告诉孩子们：呼呼的星际风是从哪里刮来的？为什么环状星云看起来像热带湖泊？</span></p>
+</div>
+</div>
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p style="text-indent:2em; line-height:1.5;font-family:华文楷体;font-size:20px;">除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<!-- <div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《 林格伦作品集・美绘版――大侦探小卡莱    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed2f517f34.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>血！此事千真万确！他用放大镜看着那滴红色的血迹，随后他把烟斗移到嘴的另一边，吸了口气，“这是亨利先生杀妻害命的铁证，手段极其残忍！”可惜，这些只是这位业余侦探小卡莱的幻想。这位训练有素的侦探在这里看不到一点儿犯罪的蛛丝马迹。在这样一座城市里当侦探确实是一桩没希望的差事！他长大以后，一旦有可能，非得去伦敦的贫民窟不可。也许去芝加哥吧？那里的杀人犯和坏蛋，任意杀人放火，却无人追捕他们。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《不老泉文库 5.阿贝的荒岛 》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82efcdf1ec.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)威廉•史塔克(William Steig)</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>阿贝生活在他所熟悉的老鼠的世界里，一直都很安全。但有一天，他被洪水扔到了一个荒无人烟的小岛上。尽管阿贝想出各种方法离开小岛，但他还是无法踏上回家的路。荒岛上的日子让阿贝对远离的、过去的生活有了新的理解。在这个离群索居、充满危险的居所，每天都面对着生存的挑战，他反思起以前过惯了的舒适生活，并发现了自己的才能和天赋；如果最终能回到莫斯威利镇，他一定能凭着这些才能和天赋过上更有意义的生活。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《启发精选世界名人传记-谁是海伦·凯勒》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a73a3799649.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)格尔•汤普森 著,(美)南希•哈里森 绘</p>  
+<p><b>出版社：</b>北京联合出版公司</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>幼年的海伦·凯勒因为生病失明又失聪，从此生活在黑暗沉寂的世界里。在安妮·苏利文老师的帮助下，海伦不仅学会了读书写字，还做了许多常人都难以做到的事情。请翻开这本有关海伦.凯勒的故事书，让我们一起走进海伦传奇的一生，看她如何顽强地接受挑战，不仅让自己的一生过得充实而有意义，还为全世界的残疾人带来了希望和光明。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·自然探秘系列 勇敢者大冒险》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a820bff13c7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)阿尼塔•加纳利 著,(英)迈克•菲利普斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>几个世纪以来，人们就在那些前人从未涉足过的寸草不生之地从事着各种探险活动。一些人为此着迷，并从此踏上不归之路。许多人为此命丧黄泉，无可挽回地失去了生命。为什么世界上会有人热衷于此？实际的情况是，他们中绝大多数都是奔着钱去的。他们企图闯开通商之路并弄到大批的钱财。还有一些人则是为了寻找新的生存之地，或者为了传播他们的宗教信仰。他们中间也不乏许多出色的地理学家与科学家。他们唯一的目的就是周游世界并填补地图上的空白。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《科学家讲的科学故事050-图灵讲的密码的故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a731f0ad526.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(韩)吴莱焕　</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>“密码”一词对我们来说再熟悉不过了，人们可以举出许多现实生活中使用密码的例子，如保密通信设备中使用“密码”、个人在银行取款时使用“密码”、在计算机登录和屏幕保护中使用“密码”、开启保险箱使用“密码”，儿童玩电子游戏时使用“密码”等。可对于具体解释密码概念的学问——“密码学”，许多人却没有听说过，那让我们走进本书，了解“密码”的知识吧！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《科学家讲的科学故事052-玻意耳讲的气体的故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7319089854.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(韩)郑玩相</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>玻意耳是规定现代元素符号的化学家。澄清气体压力和气体体积大小之间关系的“玻意耳定律”就是他发现并以他的名字命名的。这本书介绍了有关气体理论的产生过程，既介绍了古希腊科学家的物质论，也介绍了玻意耳的元素论、道尔顿的原子说以及阿伏伽德罗的分子说。书的后半部分又详细讲述了“随压力不同气体的体积也不同”的玻意耳定律和“随温度不同气体的体积也不同”的查理定律。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-你是一个负责任的人吗》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d77898cb31.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>[ 社会 ] 《你是一个负责任的人吗》</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我爱我的祖国――百年百部中国儿童文学经典书系    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ec4ec45bfc.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>田地</p>  
+<p><b>出版社：</b>湖北少儿出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>文学是人学，儿童文学是人之初的文学。人之初，性本善。儿童文学是人生最早接受的文学，那些曾经深深感动过孩子的儿童文学作品，将使人终生难忘终生受益。在今天这个传媒多元的时代，我们特别需要向广大少年儿童提倡文学阅读。文学阅读不同于知识书、图画书、教科书的阅读。文学是以血肉丰满的人物形象和个性鲜活的人物性格，是以审美的力量、情感的力量、道义的力量、精神的力量打动人、感染人、影响人的。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《儿童艺术启蒙亲子读本--大师名画全知道.梵・高    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed1c223ff9.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>白白兔</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>★“大师名画全知道”系列6本入选“北京市绿色印刷工程――优秀青少年读物绿色印刷示范项目库”，采用绿色纸张、油墨进行印刷，保护孩子健康。 1.亲子阅读，解读大师的艺术世界。 2.趣味游戏，感受大师的经典名作。 3.提升能力，让孩子学会发现美、创造美。 </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《美国国家地理大探索系列-热锅上的地球》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a724ee9281a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)马尔费•弗格森•德拉诺</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b>我爱地理</p>
+<p><b>简介：</b>《美国国家地理大探索系列:热锅上的地球》清晰地解释了全球变暖现象和其中蕴含的科学原理，以真人真事为例，讲述了应对全球变暖危机第一线的故事。书中探讨了气候变化带来的种种挑战，以及随之而来的种种契机，同时也梳理了气候变化与人类生活的关系。书中还提供了许多日常环保小窍门，分享了多位全球科学家、环保人士对于气候变化的看法。这些都让我们了解到，大家共同参与环保是多么重要。最重要的是，《美国国家地理大探索系列:热锅上的地球》会唤起我们对地球的关注。毕竟，我们只有一个地球。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《最受小学生喜爱的100篇散文/超阅读中学生典藏书系    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ecf2565c36.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>陈雄</p>  
+<p><b>出版社：</b>华东师范大学出版社</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>《最受小学生喜爱的100篇散文》是由华东师大出版社于2010年出版的趣味儿童读物。《最受小学生喜爱的100篇散文》介绍了最受小学生喜爱的100篇散文。                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《哈利波特2》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8609f67e3d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)J.K.罗琳</p>  
+<p><b>出版社：</b>人民文学出版社</p>
+<p><b>主题：</b>奇幻世界</p>
+<p><b>简介：</b>《哈利•波特与密室》讲述了哈利•波特在霍格袄茨魔法学校学习一年之后，暑假开始了。他在姨夫姨妈家熬过痛苦的假期。正当他准备打点行装去学校时，小精灵多比前来发出警告：如果哈利返回霍格袄茨，灾难将会临头。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：发明与创造》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a86fe616d2c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)罗兰·韦斯 著，(德)豪克·考克，弗兰克·克里门特 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>历史学家、资深记者罗兰·韦斯博士带领我们穿越人类漫长的历史长河，开始了一段动人心魄的旅程。这一路伴随我们的是令人激动的神奇发明和伟大发现。他在书中描述了人类第一次飞上天空，第一次认知海洋，第一次登上月球和其他一系列重要发明的演变过程，及其对未来的深远影响。当然书中还展现了像“狗雨伞”这样的充满乐趣的小发明。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：货币的故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a86b5ac3189.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)弗拉西斯卡·荣格曼-斯塔德勒尔</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>德国联合抵押银行纸币博物馆负责人弗拉西斯卡-荣格曼一斯塔德勒尔博士向我们讲述了货币的发展史。从像货币这样的自然货币，到古希腊罗马时期的铸币，再到现代的信用卡，作者为我们展现了一幅丰富多彩的、整个世界的货币演变全景图。年轻的读者们会从货币世界中获得很多有用的知识：银行是怎样出现的？通货膨胀是怎么回事？……对于钱币收藏爱好者而言，这本图文并茂、内容翔实的《货币的故事》是一本生动和实用的人门书和参考书。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：伟大的探险家》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a87984d66c0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)雷纳·科特文 著，皮特·克劳克 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>勇敢的探险家被海平面后的神秘世界所吸引，也被对于宝藏的热切渴望所驱动，义无反顾地踏上了探险的旅程。他们跨越了浩瀚的海洋，穿过了无尽的沙漠和丛林，克服了各种疾病和危险，让地球的全貌一点一点地展现在世人眼前。著名的科学记者和科普作家雷纳·科特博士，为读者们讲述了马可·波罗、哥伦布、麦哲伦等世界伟大的探险家们惊心动魄的航海和游历故事。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·经典科学系列 改变世界的科学实验》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a822d326224.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>当你听到科学家侃侃而谈的时候，你是不是觉得他们上知天文、下晓地理……好像什么都懂？可别被他们唬住了，科学家并不是什么都懂。要真是那样，他们就不用做什么实验了，一天到晚跷着二郎腿坐着就行了。实际上，我们的科学家还有很多疑难没解决，我们还有很多不知道或不理解的事。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：体育运动》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a87b3144f1d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)埃勒马尔·布鲁姆尔 著，(德)尼古莱·斯米尔诺夫 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>在体育运动中，是什么让我们如此着迷？我们为什么要进行体育运动？谁是人类历史上最早的运动员？谁被认为是有史以来最优秀的篮球运动员？环法自行车赛是从什么时候开始的？什么是极限运动？在本书中，两位著名体育记者、科普作家埃勒马尔·布鲁姆尔和约尔根·蔡亚尔，对诸如此类的话题予以了详细解答。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《生命价值第三辑9:世界插上电    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/57440b2471830.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>《世界插上了电》  有一些“小家伙”成天在“通道”中旅行，连接着世界，给你的生活带来许多便利。不过，你既不能触碰它们，又离不开它们——它们就是让你的游戏机、电脑和电视工作起来的电。一起来当用电知识小达人，让爸爸妈妈都感到惊讶！                                            </p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《 林格伦作品集・美绘版――大侦探小卡莱    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed2f517f34.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">血！此事千真万确！他用放大镜看着那滴红色的血迹，随后他把烟斗移到嘴的另一边，吸了口气，“这是亨利先生杀妻害命的铁证，手段极其残忍！”可惜，这些只是这位业余侦探小卡莱的幻想。这位训练有素的侦探在这里看不到一点儿犯罪的蛛丝马迹。在这样一座城市里当侦探确实是一桩没希望的差事！他长大以后，一旦有可能，非得去伦敦的贫民窟不可。也许去芝加哥吧？那里的杀人犯和坏蛋，任意杀人放火，却无人追捕他们。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《不老泉文库 5.阿贝的荒岛 》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82efcdf1ec.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)威廉•史塔克(William Steig)</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">阿贝生活在他所熟悉的老鼠的世界里，一直都很安全。但有一天，他被洪水扔到了一个荒无人烟的小岛上。尽管阿贝想出各种方法离开小岛，但他还是无法踏上回家的路。荒岛上的日子让阿贝对远离的、过去的生活有了新的理解。在这个离群索居、充满危险的居所，每天都面对着生存的挑战，他反思起以前过惯了的舒适生活，并发现了自己的才能和天赋；如果最终能回到莫斯威利镇，他一定能凭着这些才能和天赋过上更有意义的生活。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《启发精选世界名人传记-谁是海伦·凯勒》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a73a3799649.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)格尔•汤普森 著,(美)南希•哈里森 绘</p>  
+<p><b>出版社：</b>北京联合出版公司</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">幼年的海伦·凯勒因为生病失明又失聪，从此生活在黑暗沉寂的世界里。在安妮·苏利文老师的帮助下，海伦不仅学会了读书写字，还做了许多常人都难以做到的事情。请翻开这本有关海伦.凯勒的故事书，让我们一起走进海伦传奇的一生，看她如何顽强地接受挑战，不仅让自己的一生过得充实而有意义，还为全世界的残疾人带来了希望和光明。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·自然探秘系列 勇敢者大冒险》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a820bff13c7.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)阿尼塔•加纳利 著,(英)迈克•菲利普斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">几个世纪以来，人们就在那些前人从未涉足过的寸草不生之地从事着各种探险活动。一些人为此着迷，并从此踏上不归之路。许多人为此命丧黄泉，无可挽回地失去了生命。为什么世界上会有人热衷于此？实际的情况是，他们中绝大多数都是奔着钱去的。他们企图闯开通商之路并弄到大批的钱财。还有一些人则是为了寻找新的生存之地，或者为了传播他们的宗教信仰。他们中间也不乏许多出色的地理学家与科学家。他们唯一的目的就是周游世界并填补地图上的空白。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《科学家讲的科学故事050-图灵讲的密码的故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a731f0ad526.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(韩)吴莱焕　</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“密码”一词对我们来说再熟悉不过了，人们可以举出许多现实生活中使用密码的例子，如保密通信设备中使用“密码”、个人在银行取款时使用“密码”、在计算机登录和屏幕保护中使用“密码”、开启保险箱使用“密码”，儿童玩电子游戏时使用“密码”等。可对于具体解释密码概念的学问——“密码学”，许多人却没有听说过，那让我们走进本书，了解“密码”的知识吧！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《科学家讲的科学故事052-玻意耳讲的气体的故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7319089854.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(韩)郑玩相</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">玻意耳是规定现代元素符号的化学家。澄清气体压力和气体体积大小之间关系的“玻意耳定律”就是他发现并以他的名字命名的。这本书介绍了有关气体理论的产生过程，既介绍了古希腊科学家的物质论，也介绍了玻意耳的元素论、道尔顿的原子说以及阿伏伽德罗的分子说。书的后半部分又详细讲述了“随压力不同气体的体积也不同”的玻意耳定律和“随温度不同气体的体积也不同”的查理定律。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-你是一个负责任的人吗》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d77898cb31.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">[ 社会 ] 《你是一个负责任的人吗》</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我爱我的祖国――百年百部中国儿童文学经典书系    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ec4ec45bfc.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>田地</p>  
+<p><b>出版社：</b>湖北少儿出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">文学是人学，儿童文学是人之初的文学。人之初，性本善。儿童文学是人生最早接受的文学，那些曾经深深感动过孩子的儿童文学作品，将使人终生难忘终生受益。在今天这个传媒多元的时代，我们特别需要向广大少年儿童提倡文学阅读。文学阅读不同于知识书、图画书、教科书的阅读。文学是以血肉丰满的人物形象和个性鲜活的人物性格，是以审美的力量、情感的力量、道义的力量、精神的力量打动人、感染人、影响人的。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《儿童艺术启蒙亲子读本--大师名画全知道.梵・高    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed1c223ff9.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>白白兔</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">★“大师名画全知道”系列6本入选“北京市绿色印刷工程――优秀青少年读物绿色印刷示范项目库”，采用绿色纸张、油墨进行印刷，保护孩子健康。 1.亲子阅读，解读大师的艺术世界。 2.趣味游戏，感受大师的经典名作。 3.提升能力，让孩子学会发现美、创造美。 </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《美国国家地理大探索系列-热锅上的地球》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a724ee9281a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)马尔费•弗格森•德拉诺</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《美国国家地理大探索系列:热锅上的地球》清晰地解释了全球变暖现象和其中蕴含的科学原理，以真人真事为例，讲述了应对全球变暖危机第一线的故事。书中探讨了气候变化带来的种种挑战，以及随之而来的种种契机，同时也梳理了气候变化与人类生活的关系。书中还提供了许多日常环保小窍门，分享了多位全球科学家、环保人士对于气候变化的看法。这些都让我们了解到，大家共同参与环保是多么重要。最重要的是，《美国国家地理大探索系列:热锅上的地球》会唤起我们对地球的关注。毕竟，我们只有一个地球。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《最受小学生喜爱的100篇散文/超阅读中学生典藏书系    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ecf2565c36.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>陈雄</p>  
+<p><b>出版社：</b>华东师范大学出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《最受小学生喜爱的100篇散文》是由华东师大出版社于2010年出版的趣味儿童读物。《最受小学生喜爱的100篇散文》介绍了最受小学生喜爱的100篇散文。                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《哈利波特2》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8609f67e3d.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)J.K.罗琳</p>  
+<p><b>出版社：</b>人民文学出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《哈利•波特与密室》讲述了哈利•波特在霍格袄茨魔法学校学习一年之后，暑假开始了。他在姨夫姨妈家熬过痛苦的假期。正当他准备打点行装去学校时，小精灵多比前来发出警告：如果哈利返回霍格袄茨，灾难将会临头。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：发明与创造》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a86fe616d2c.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)罗兰·韦斯 著，(德)豪克·考克，弗兰克·克里门特 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">历史学家、资深记者罗兰·韦斯博士带领我们穿越人类漫长的历史长河，开始了一段动人心魄的旅程。这一路伴随我们的是令人激动的神奇发明和伟大发现。他在书中描述了人类第一次飞上天空，第一次认知海洋，第一次登上月球和其他一系列重要发明的演变过程，及其对未来的深远影响。当然书中还展现了像“狗雨伞”这样的充满乐趣的小发明。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：货币的故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a86b5ac3189.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)弗拉西斯卡·荣格曼-斯塔德勒尔</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">德国联合抵押银行纸币博物馆负责人弗拉西斯卡-荣格曼一斯塔德勒尔博士向我们讲述了货币的发展史。从像货币这样的自然货币，到古希腊罗马时期的铸币，再到现代的信用卡，作者为我们展现了一幅丰富多彩的、整个世界的货币演变全景图。年轻的读者们会从货币世界中获得很多有用的知识：银行是怎样出现的？通货膨胀是怎么回事？……对于钱币收藏爱好者而言，这本图文并茂、内容翔实的《货币的故事》是一本生动和实用的人门书和参考书。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：伟大的探险家》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a87984d66c0.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)雷纳·科特文 著，皮特·克劳克 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">勇敢的探险家被海平面后的神秘世界所吸引，也被对于宝藏的热切渴望所驱动，义无反顾地踏上了探险的旅程。他们跨越了浩瀚的海洋，穿过了无尽的沙漠和丛林，克服了各种疾病和危险，让地球的全貌一点一点地展现在世人眼前。著名的科学记者和科普作家雷纳·科特博士，为读者们讲述了马可·波罗、哥伦布、麦哲伦等世界伟大的探险家们惊心动魄的航海和游历故事。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·经典科学系列 改变世界的科学实验》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a822d326224.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">当你听到科学家侃侃而谈的时候，你是不是觉得他们上知天文、下晓地理……好像什么都懂？可别被他们唬住了，科学家并不是什么都懂。要真是那样，他们就不用做什么实验了，一天到晚跷着二郎腿坐着就行了。实际上，我们的科学家还有很多疑难没解决，我们还有很多不知道或不理解的事。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：体育运动》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a87b3144f1d.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)埃勒马尔·布鲁姆尔 著，(德)尼古莱·斯米尔诺夫 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">在体育运动中，是什么让我们如此着迷？我们为什么要进行体育运动？谁是人类历史上最早的运动员？谁被认为是有史以来最优秀的篮球运动员？环法自行车赛是从什么时候开始的？什么是极限运动？在本书中，两位著名体育记者、科普作家埃勒马尔·布鲁姆尔和约尔根·蔡亚尔，对诸如此类的话题予以了详细解答。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《生命价值第三辑9:世界插上电    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_57440b2471830.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《世界插上了电》  有一些“小家伙”成天在“通道”中旅行，连接着世界，给你的生活带来许多便利。不过，你既不能触碰它们，又离不开它们——它们就是让你的游戏机、电脑和电视工作起来的电。一起来当用电知识小达人，让爸爸妈妈都感到惊讶！                                            </span></p>
+</div>
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

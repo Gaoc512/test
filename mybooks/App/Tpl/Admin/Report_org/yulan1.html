@@ -1,0 +1,349 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+<p><a href="{:U('Report/download1',array('id'=>$sdata['id']))}" class="red-int">下载文档</a></p>
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; line-height:60px;">
+<p>姓名：{$sdata.username}</p>
+<p>班级：{$sdata.grade}{$sdata.class}</p>
+<p>学校：{$sdata.school}</p>
+<p>日期：{$sdata.testtime}</p>
+</div>
+</div>
+<div style="width:40%; float:right;"><img  src="__PUBLIC__/img/1.jpg" /></div>
+</div>
+
+<div style=" width:100%; clear:both;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="font-size:24px; color:#000;">亲爱的{$sdata.username}同学：</h1>
+<p style="text-indent:2em; line-height:2;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em; line-height:2;">我们发现你最喜欢{$wenzi1.name}，{$wenzi1.content}</p>
+<p style="text-indent:2em; line-height:2;">我们还发现你比较喜欢{$wenzi2.name}，{$wenzi2.content}</p>
+<p style="text-indent:2em; line-height:2;">  最后我们发现你对{$wenzi3.name}也感兴趣，{$wenzi3.content}</p>
+<p style="text-indent:2em; line-height:2;">现在来自这三个世界的朋友们已经来到你身边了，赶快来认识他们吧~</p>
+<!--<p>现在，快看看有哪些你感兴趣的书正在等着你呢，你是不是已经迫不及待了呢？（中高年级）</p>-->
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="__PUBLIC__/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">我最感兴趣的图书推荐</h1>
+<foreach name="rbooks1" item="vo">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo.book_author}</p>  
+<p><b>出版社：</b>{$vo.book_publiser}</p>
+<p><b>主题：</b>{$vo.book_topic}</p>
+<p><b>简介：</b>{$vo.book_summary}</p>
+</div>
+</div>
+</foreach>
+
+<foreach name="rbooks2" item="vo2">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo2.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo2[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo2.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo2.book_author}</p>  
+<p><b>出版社：</b>{$vo2.book_publiser}</p>
+<p><b>主题：</b>{$vo2.book_topic}</p>
+<p><b>简介：</b>{$vo2.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="rbooks3" item="vo3">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo3.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo3[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo3.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo3.book_author}</p>  
+<p><b>出版社：</b>{$vo3.book_publiser}</p>
+<p><b>主题：</b>{$vo3.book_topic}</p>
+<p><b>简介：</b>{$vo3.book_summary}</p>
+</div>
+</div>
+</foreach>
+
+
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p>除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<foreach name="tbooks0" item="vo">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo.book_author}</p>  
+<p><b>出版社：</b>{$vo.book_publiser}</p>
+<p><b>主题：</b>{$vo.book_topic}</p>
+<p><b>简介：</b>{$vo.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks1" item="vo1">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo1.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo1[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo1.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo1.book_author}</p>  
+<p><b>出版社：</b>{$vo1.book_publiser}</p>
+<p><b>主题：</b>{$vo1.book_topic}</p>
+<p><b>简介：</b>{$vo1.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks2" item="vo2">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo2.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo2[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo2.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo2.book_author}</p>  
+<p><b>出版社：</b>{$vo2.book_publiser}</p>
+<p><b>主题：</b>{$vo2.book_topic}</p>
+<p><b>简介：</b>{$vo2.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks3" item="vo3">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo3.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo3[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo3.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo3.book_author}</p>  
+<p><b>出版社：</b>{$vo3.book_publiser}</p>
+<p><b>主题：</b>{$vo3.book_topic}</p>
+<p><b>简介：</b>{$vo3.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks4" item="vo4">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo4.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo4[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo4.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo4.book_author}</p>  
+<p><b>出版社：</b>{$vo4.book_publiser}</p>
+<p><b>主题：</b>{$vo4.book_topic}</p>
+<p><b>简介：</b>{$vo4.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks5" item="vo5">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo5.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo5[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo5.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo5.book_author}</p>  
+<p><b>出版社：</b>{$vo5.book_publiser}</p>
+<p><b>主题：</b>{$vo5.book_topic}</p>
+<p><b>简介：</b>{$vo5.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks6" item="vo6">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo6.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo6[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo6.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo6.book_author}</p>  
+<p><b>出版社：</b>{$vo6.book_publiser}</p>
+<p><b>主题：</b>{$vo6.book_topic}</p>
+<p><b>简介：</b>{$vo6.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks7" item="vo7">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo7.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo7[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo7.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo7.book_author}</p>  
+<p><b>出版社：</b>{$vo7.book_publiser}</p>
+<p><b>主题：</b>{$vo7.book_topic}</p>
+<p><b>简介：</b>{$vo7.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks8" item="vo8">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo8.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo8[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo8.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo8.book_author}</p>  
+<p><b>出版社：</b>{$vo8.book_publiser}</p>
+<p><b>主题：</b>{$vo8.book_topic}</p>
+<p><b>简介：</b>{$vo8.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks9" item="vo9">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo9.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo9[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo9.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo9.book_author}</p>  
+<p><b>出版社：</b>{$vo9.book_publiser}</p>
+<p><b>主题：</b>{$vo9.book_topic}</p>
+<p><b>简介：</b>{$vo9.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks10" item="vo10">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo10.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo10[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo10.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo10.book_author}</p>  
+<p><b>出版社：</b>{$vo10.book_publiser}</p>
+<p><b>主题：</b>{$vo10.book_topic}</p>
+<p><b>简介：</b>{$vo10.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="tbooks11" item="vo11">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$vo11.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$vo11[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$vo11.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$vo11.book_author}</p>  
+<p><b>出版社：</b>{$vo11.book_publiser}</p>
+<p><b>主题：</b>{$vo11.book_topic}</p>
+<p><b>简介：</b>{$vo11.book_summary}</p>
+</div>
+</div>
+</foreach>
+<foreach name="otherbooks" item="li">
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《{$li.book_name}》</p>
+<div style="width:28%; float:left; height:auto;">
+<if condition="$li[book_picimg] eq ''">
+<img src="http://123.57.23.91/mybooks/Upload/fm.png" style="width:100%;" />
+<else />
+<img src="http://123.57.23.91/mybooks/Upload/picimg/{$li.book_picimg}" style="width:100%;" />
+</if>
+</div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>{$li.book_author}</p>  
+<p><b>出版社：</b>{$li.book_publiser}</p>
+<p><b>主题：</b>{$li.book_topic}</p>
+<p><b>简介：</b>{$li.book_summary}</p>
+</div>
+</div>
+</foreach>
+
+</div>
+
+</div>
+</body>
+</html>

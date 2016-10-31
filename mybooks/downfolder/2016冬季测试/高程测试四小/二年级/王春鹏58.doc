@@ -1,0 +1,672 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; font-size:17px; line-height:60px;">
+<p>姓名：王春鹏58</p>
+<p>班级：二年级2</p>
+<p>学校：高程测试四小</p>
+<p>日期：2016-09-27 10:47:18</p>
+</div>
+</div>
+
+<div style="width:40%; float:right;"><img  src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/1.jpg" /></div>
+
+</div>
+
+<div style=" width:100%; clear:both;font-family:华文楷体;  margin-top:15px; font-size:20px; color:#363636;">
+<h1 style="font-size:21px;font-family:华文楷体; color:#000;">亲爱的王春鹏58同学：</h1>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们发现你最喜欢成长世界，你是否能从成长故事中看到自己的成长足迹吧~成长世界里有很多和你相似的同学，他们的校园生活、成长小秘密你想了解吗，他们又会因为什么而烦恼或高兴呢？让我们一起走到他们的世界吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们还发现你比较喜欢艺术世界，相信你在生活中也是一个小小画家或音乐家吧？那你想走入更丰富多彩的艺术殿堂，与世界各地的艺术家交流吗？我们为你准备了一场多姿多彩的艺术盛宴，相信你已经迫不及待地想去看看了吧？</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">  最后我们发现你对植物世界也感兴趣，你是否能听懂小花小草之间的悄悄话呢？在植物世界里，你不仅能够知道植物们是如何长大的，还能够知道它们是如何诞生和养育它们的小宝宝的。相信你已经迫不及待了吧，赶紧去看看！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">
+	现在来自这三个世界的朋友们已经来到你身边了，赶快来认识他们吧</p>
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;font-family:隶书">我最感兴趣的图书推荐</h1>
+<!-- 
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《花婆婆》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a860859a024.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)芭芭拉·库尼</p>  
+<p><b>出版社：</b>河北教育出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>花婆婆用自己勤劳的双手种出美丽的鲁冰花，做了一件让世界变得更美丽的事，你们也愿意做像我这样的花婆婆吗？如果愿意的话，欢迎你们都来参加“好孩子花卉课堂”，跟着花婆婆学种花。只要小朋友们专心听讲，认真学习，就能做一个真正的小小花婆婆，种出各种各样的花，用自己辛勤的劳动，把我们的家，我们这个世界，打扮得更加美丽。大家说，好不好啊？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《动物园》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a85ebca9ce0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)安东尼·布朗</p>  
+<p><b>出版社：</b>河北教育出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>上个星期天，我们全家去动物园。本来我和弟弟都很兴奋，但是，堵车、排队、不能给弟弟买半价票、无趣的动物、饿肚子、和弟弟不时发生的“战争”、爸爸的无聊玩笑，还有妈妈的淡淡忧伤……这到底是怎么了？让孩子们能理解和感受到善待动物的重要并非易事。安东尼·布朗巧妙的透过一个普通家庭不太愉快的家庭日，来引发人们的反思，作为一名杰出的图画书大师，其立意的深远，构思的巧妙显示出他深厚的功力以及悲天悯人的博大胸怀。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《林格伦精品绘本第一辑-埃米尔给丽娜拔牙》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a722c35fa9a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>（瑞典）林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>女仆丽娜的牙疼得厉害，她想拔掉这颗牙，埃米尔自告奋勇地来干这个活。呵呵，他的办法可真奇特，估计谁也想不出来这样的高着儿！一计不成再用一计，把丽娜折腾得气喘吁吁，胆战心惊。结果呢，这颗可恨的牙还是结结实实地长在那儿，好像在嘲笑埃米尔……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《团圆》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a85fa00443d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>余丽琼 著，朱成梁 绘</p>  
+<p><b>出版社：</b>明天出版</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>《团圆》讲的是过年的故事。年是中国人的传统节日，是一个团圆的日子。过年了，爸爸回家了，他为家人带来了快乐与温暖。故事中的“我”享受着爸爸特有的关爱，去高高的屋顶看龙灯，在汤圆里包入一枚好运硬币。但好运硬币却被搞丢了……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《世界音乐大师系列套装-施特劳斯》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a72f19d0228.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>恩斯特•埃克 著,多丽丝•艾森布格尔 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>《世界音乐大师系列:施特劳斯》中精美的图画、优美的文字、制作精良的光盘可以让孩子们亲近音乐大师，感受古典音乐之美。一边阅读大师的故事，一边聆听大师的杰作，所有喜欢音乐和学习音乐的孩子们都能够在阅读中感受音乐带来的快乐！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《从小爱音乐-彼得与狼》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a888468de83.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>文/(韩)李美玉 尹智延等</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>《从小爱音乐》是最全面、最权威、最美的古典音乐启蒙丛书。其中选取了古典音乐史上最为经典的23大音乐剧目，俯拾勇敢、责任、坚韧、独立、尊重与爱。每一个或温情洋溢、或美妙哀伤或荒诞诙谐的故事中，都有关于成长的命题，追寻古典音乐大师的足迹，体味他们不同寻常的人生；攫览古典音乐流派，领悟其思想精华。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《世界音乐大师系列套装-莫扎特》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a72ec996ba1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>恩斯特•埃克 著,多丽丝•艾森布格尔 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>音乐是表达个人感情的一种方式。了解音乐家的人生经历以及作品的创作背景，可以更好地了解音乐家的个人风格，听出音乐中包含的丰富情感。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《从小爱音乐-西方音乐之父巴赫》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a888f17a769.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>文/(韩)李美玉 尹智延等</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>《从小爱音乐》是最全面、最权威、最美的古典音乐启蒙丛书。其中选取了古典音乐史上最为经典的16大音乐剧目，俯拾勇敢、责任、坚韧、独立、尊重与爱。每一个或温情洋溢、或美妙哀伤或荒诞诙谐的故事中，都有关于成长的命题，追寻古典音乐大师的足迹，体味他们不同寻常的人生；攫览古典音乐流派，领悟其思想精华。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《植物也可以这么玩・创意标本系列-魔豆杰克的魔力植物标本集》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574be5dedcd5c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>奥都因</p>  
+<p><b>出版社：</b>山东文艺出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>“植物也可以这么玩 创意标本系列”包含这样四本书：《小拇指的树叶标本集》《灰姑娘的花草标本集》《魔豆杰克的魔力植物标本集》《小红帽的野花标本集》，其中有最美丽的花草标本，有最好玩的植物知识，有最经典的童话故事。既是科学又是游戏，是让小朋友爱不释手的植物标本书。每一本都有留给小朋友的足够空间，每个小朋友都可以动手，制作一本专属于自己的、独一无二的植物书《魔豆杰克的魔力植物标本集》教小朋友应用一些植物的神奇功效，这些植物都有自己的魔力，可以起到了不起的作用。                                              </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《植物也可以这么玩・创意标本系列-小红帽的野花标本集》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574be5d3269df.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>奥都因</p>  
+<p><b>出版社：</b>山东文艺出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>“植物也可以这么玩 创意标本系列”包含这样四本书：《小拇指的树叶标本集》《灰姑娘的花草标本集》《魔豆杰克的魔力植物标本集》《小红帽的野花标本集》，其中有最美丽的花草标本，有最好玩的植物知识，有最经典的童话故事。既是科学又是游戏，是让小朋友爱不释手的植物标本书。每一本都有留给小朋友的足够空间，每个小朋友都可以动手，制作一本专属于自己的、独一无二的植物书。《小红帽的野花标本集》教小朋友们用各种植物来打败大灰狼，小朋友们发挥了很多奇思妙想战胜了邪恶力量。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《一粒种子的旅行》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a85f62b4ca7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德) 安妮·默勒</p>  
+<p><b>出版社：</b>南海出版公司</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>我们常常会在很多不可思议的地方发现植物的影子，比如在石墙的缝隙里、高高的房顶上、广场的角落里……植物没有脚，也没有交通工具，它们究竟是怎样到达这些地方的呢？在这本书里，安妮?默勒向我们介绍了植物的种种“旅行”手段，例如老鹤草的“小勺子”、田蓟的“小伞”、草莓的匍匐茎……种种奇妙的方法，让人大开眼界。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《树木和森林的世界    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574be6806b298.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>勒内・梅特莱尔</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>自远古时代起，树木就是人类生活中的一部分。它们既是能量来源、原材料，同时，也在人们的日常生活、神话传说和世界各民族文化传统中，占据着一席之地。森林覆盖了地球上26%的陆地，是调节气候的重要保障。森林里栖息着形形色色的植物种群和动物种群，是无与伦比的宝藏.本书有三个部分。 第一部分讲树 ：树的结构 、树的循环系统、光合作用、树的种类等；第二部分讲森林：涵盖温带森林、热带雨林、非洲大草原等区域，以及各区域森林中存在的树种和动物； 第三部分讲树木和森林的衍生品：木材、水果、关于树木的名画、神话传说及民间故事等。  </p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《花婆婆》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a860859a024.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(美)芭芭拉·库尼</p>  
+<p><b>出版社：</b>河北教育出版社</p>
+<p><b>主题：</b>成长世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">花婆婆用自己勤劳的双手种出美丽的鲁冰花，做了一件让世界变得更美丽的事，你们也愿意做像我这样的花婆婆吗？如果愿意的话，欢迎你们都来参加“好孩子花卉课堂”，跟着花婆婆学种花。只要小朋友们专心听讲，认真学习，就能做一个真正的小小花婆婆，种出各种各样的花，用自己辛勤的劳动，把我们的家，我们这个世界，打扮得更加美丽。大家说，好不好啊？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《动物园》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a85ebca9ce0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)安东尼·布朗</p>  
+<p><b>出版社：</b>河北教育出版社</p>
+<p><b>主题：</b>成长世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">上个星期天，我们全家去动物园。本来我和弟弟都很兴奋，但是，堵车、排队、不能给弟弟买半价票、无趣的动物、饿肚子、和弟弟不时发生的“战争”、爸爸的无聊玩笑，还有妈妈的淡淡忧伤……这到底是怎么了？让孩子们能理解和感受到善待动物的重要并非易事。安东尼·布朗巧妙的透过一个普通家庭不太愉快的家庭日，来引发人们的反思，作为一名杰出的图画书大师，其立意的深远，构思的巧妙显示出他深厚的功力以及悲天悯人的博大胸怀。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《林格伦精品绘本第一辑-埃米尔给丽娜拔牙》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a722c35fa9a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>（瑞典）林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>成长世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">女仆丽娜的牙疼得厉害，她想拔掉这颗牙，埃米尔自告奋勇地来干这个活。呵呵，他的办法可真奇特，估计谁也想不出来这样的高着儿！一计不成再用一计，把丽娜折腾得气喘吁吁，胆战心惊。结果呢，这颗可恨的牙还是结结实实地长在那儿，好像在嘲笑埃米尔……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《团圆》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a85fa00443d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>余丽琼 著，朱成梁 绘</p>  
+<p><b>出版社：</b>明天出版</p>
+<p><b>主题：</b>成长世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《团圆》讲的是过年的故事。年是中国人的传统节日，是一个团圆的日子。过年了，爸爸回家了，他为家人带来了快乐与温暖。故事中的“我”享受着爸爸特有的关爱，去高高的屋顶看龙灯，在汤圆里包入一枚好运硬币。但好运硬币却被搞丢了……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《世界音乐大师系列套装-施特劳斯》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a72f19d0228.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>恩斯特•埃克 著,多丽丝•艾森布格尔 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>艺术世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《世界音乐大师系列:施特劳斯》中精美的图画、优美的文字、制作精良的光盘可以让孩子们亲近音乐大师，感受古典音乐之美。一边阅读大师的故事，一边聆听大师的杰作，所有喜欢音乐和学习音乐的孩子们都能够在阅读中感受音乐带来的快乐！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《从小爱音乐-彼得与狼》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a888468de83.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>文/(韩)李美玉 尹智延等</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>艺术世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《从小爱音乐》是最全面、最权威、最美的古典音乐启蒙丛书。其中选取了古典音乐史上最为经典的23大音乐剧目，俯拾勇敢、责任、坚韧、独立、尊重与爱。每一个或温情洋溢、或美妙哀伤或荒诞诙谐的故事中，都有关于成长的命题，追寻古典音乐大师的足迹，体味他们不同寻常的人生；攫览古典音乐流派，领悟其思想精华。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《世界音乐大师系列套装-莫扎特》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a72ec996ba1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>恩斯特•埃克 著,多丽丝•艾森布格尔 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>艺术世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">音乐是表达个人感情的一种方式。了解音乐家的人生经历以及作品的创作背景，可以更好地了解音乐家的个人风格，听出音乐中包含的丰富情感。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《从小爱音乐-西方音乐之父巴赫》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a888f17a769.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>文/(韩)李美玉 尹智延等</p>  
+<p><b>出版社：</b>湖南少年儿童出版社</p>
+<p><b>主题：</b>艺术世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《从小爱音乐》是最全面、最权威、最美的古典音乐启蒙丛书。其中选取了古典音乐史上最为经典的16大音乐剧目，俯拾勇敢、责任、坚韧、独立、尊重与爱。每一个或温情洋溢、或美妙哀伤或荒诞诙谐的故事中，都有关于成长的命题，追寻古典音乐大师的足迹，体味他们不同寻常的人生；攫览古典音乐流派，领悟其思想精华。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《植物也可以这么玩・创意标本系列-魔豆杰克的魔力植物标本集》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574be5dedcd5c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>奥都因</p>  
+<p><b>出版社：</b>山东文艺出版社</p>
+<p><b>主题：</b>植物世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“植物也可以这么玩 创意标本系列”包含这样四本书：《小拇指的树叶标本集》《灰姑娘的花草标本集》《魔豆杰克的魔力植物标本集》《小红帽的野花标本集》，其中有最美丽的花草标本，有最好玩的植物知识，有最经典的童话故事。既是科学又是游戏，是让小朋友爱不释手的植物标本书。每一本都有留给小朋友的足够空间，每个小朋友都可以动手，制作一本专属于自己的、独一无二的植物书《魔豆杰克的魔力植物标本集》教小朋友应用一些植物的神奇功效，这些植物都有自己的魔力，可以起到了不起的作用。                                              </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《植物也可以这么玩・创意标本系列-小红帽的野花标本集》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574be5d3269df.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>奥都因</p>  
+<p><b>出版社：</b>山东文艺出版社</p>
+<p><b>主题：</b>植物世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“植物也可以这么玩 创意标本系列”包含这样四本书：《小拇指的树叶标本集》《灰姑娘的花草标本集》《魔豆杰克的魔力植物标本集》《小红帽的野花标本集》，其中有最美丽的花草标本，有最好玩的植物知识，有最经典的童话故事。既是科学又是游戏，是让小朋友爱不释手的植物标本书。每一本都有留给小朋友的足够空间，每个小朋友都可以动手，制作一本专属于自己的、独一无二的植物书。《小红帽的野花标本集》教小朋友们用各种植物来打败大灰狼，小朋友们发挥了很多奇思妙想战胜了邪恶力量。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《一粒种子的旅行》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a85f62b4ca7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(德) 安妮·默勒</p>  
+<p><b>出版社：</b>南海出版公司</p>
+<p><b>主题：</b>植物世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">我们常常会在很多不可思议的地方发现植物的影子，比如在石墙的缝隙里、高高的房顶上、广场的角落里……植物没有脚，也没有交通工具，它们究竟是怎样到达这些地方的呢？在这本书里，安妮?默勒向我们介绍了植物的种种“旅行”手段，例如老鹤草的“小勺子”、田蓟的“小伞”、草莓的匍匐茎……种种奇妙的方法，让人大开眼界。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《树木和森林的世界    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574be6806b298.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>勒内・梅特莱尔</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>植物世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">自远古时代起，树木就是人类生活中的一部分。它们既是能量来源、原材料，同时，也在人们的日常生活、神话传说和世界各民族文化传统中，占据着一席之地。森林覆盖了地球上26%的陆地，是调节气候的重要保障。森林里栖息着形形色色的植物种群和动物种群，是无与伦比的宝藏.本书有三个部分。 第一部分讲树 ：树的结构 、树的循环系统、光合作用、树的种类等；第二部分讲森林：涵盖温带森林、热带雨林、非洲大草原等区域，以及各区域森林中存在的树种和动物； 第三部分讲树木和森林的衍生品：木材、水果、关于树木的名画、神话传说及民间故事等。  </span></p>
+</div>
+</div>
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p style="text-indent:2em; line-height:1.5;font-family:华文楷体;font-size:20px;">除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<!-- <div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《彭懿热闹童话Ha Ha！-橡皮泥大盗》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a71dbf9b3e1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>彭懿 著,沈苑苑 绘</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>《橡皮泥大盗》是“彭懿热闹童话”系列之一。讲述了为了挽救濒临死亡的橡皮泥星球，橡皮泥国王决定让无情的船长带队对地球发动掠夺攻击。在抢掠的过程中，哆哆和嗦嗦救了小王子姆姆，三人成为好朋友，而姆姆也因此陷入了两难境地。哆哆和嗦嗦最后能不能粉碎船长的阴谋？而姆姆又做出了什么选择呢？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《老鼠牙医生》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82cd78cdf1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)威廉•史塔克(William Steig)</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>德索托医生是一位医术高明的牙医，在能干的助手德索托太太的帮助下，他为大大小小的动物看牙病。他的技术高超，病人们一点儿都不会觉得疼痛。德索托医生是一位老鼠牙医生，因此从不给吃老鼠的“危险”动物看牙。可是有一天，一只狐狸出现了，他牙疼得要命，乞求德索托医生帮他治病。善良的德索托夫妇怎样打发他？又怎样确保给狐狸装上假牙后他不会露出本性？聪明的德索托医生和太太找到了一个办法……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《穿越时空(超视觉震撼科学绘本 全球畅销10周年珍藏版)-城堡风云 》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7311f50f0d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)尼古拉斯•哈里斯 著,(英)彼得•丹尼斯 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>《城堡风云》讲述的故事好像一次旅行，但这不是一次普通的旅行，你不用乘坐飞机、汽车或者轮船。事实上，你足不出户，就可以穿越时空！打开书本，时光在指尖飞跃：几天、几年甚至几百年。你在原地不动，变化却在不断发生。每个时刻——也就是你旅行中的每一站——都是故事新的一章：早期的堡垒，石头城堡的建造过程，保卫城堡的各种准备活动，城堡被围攻、重建、倒塌以及成为废墟。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我的第一本彩绘科学史 陆地交通》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a873c81a5ec.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)彭妮·克拉克 著，(英)大卫· 安契姆 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>一口气读完人类陆地交通史。世界上的第一个轮子是怎样出现的？人类可以达到多快的陆地速度？未来的汽车长什么样儿……在详细介绍交通工具发明的同时，书中还附有相关的历史事件与制造技术的知识，带领小读者一起探索陆地交通变革的奥秘。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《西顿动物记6：吉吉的回家路》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a731bbdcd39.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(加)欧内斯特•汤普森•西顿 著,(韩)咸泳莲 改编,(韩)李皴燮 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>根据《西顿动物记》改编而成，以童话般的叙述方式、拟人化的描写手法以及清新淡雅的插图设计，将原著中人性深处迸发出的动人情感刻画得淋漓尽致。豁豁耳为了保护妈妈和家园，勇敢地与敌人作斗争；小猫吉吉突破艰难险阻，终于过上了自己向往的自由自在的生活；淘气色毛毛经历了冈雨之后成为了负责任的爸爸……这些或鲜活或悲惨的小生命，不仅仅是在诉说着一个真实的动物世界，更让小朋友们从中体会到生命的尊严和价值！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《动物之美-海洋天堂》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6d10f100cd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)芬塔内尔</p>  
+<p><b>出版社：</b>电子工业出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>这里是水生物的神奇王国、海洋里的美丽天堂，更是水生物们的自由世界：烟花般的水母触角、胆小鬼海葵、花瓶海绵、水下刺猬、会动的瓶子、好色的乌贼、优雅的海百合……活灵活现，款款而来，展现着海洋天堂里最美的瞬间。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《心灵修行图画书·只有你》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8332589b8b.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)道格拉斯·伍德 著，(英) P. J. 林奇 绘</p>  
+<p><b>出版社：</b>希望出版社</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>这世界充满神奇，有太多重要的东西需要别人教你、展示给你。但是那些最美好、也最重要的东西，其他人却不能教、不能展示、也无法解释给你。没有人可以发觉它们，只有你。只有你，可以感知雨在你皮肤上的亲吻，风轻抚你的头发。只有你，可以用你的小脚丫踩过雨后的水洼。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《百年百首优秀儿童诗1》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d37e24fbad.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>樊发稼</p>  
+<p><b>出版社：</b>河北少儿</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>《百年百首优秀儿童诗》系列是国内第一套由权威专家系统编选的儿童诗集，收入了五四运动至今近百首最优秀的作品，作者包括现代儿童诗的开拓者，如胡适，徐志摩，林徽因等，还有将儿童诗发扬光大并提高到一个新水平的作家，如圣野，金波，张秋生等，还有徐鲁，郑春华等继往开来的诗人,90后优秀青年诗人张牧笛,慈琪,吴正阳等的作品也悉数收入。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《走进奇妙的几何世界-奇妙的三角   》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574be191488f7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>格里贝利</p>  
+<p><b>出版社：</b>浙江教育出版社</p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《奇妙的三角》 三角形是一种美丽而奇妙的图形。它很醒目，常被用作标志起警示作用；它非常稳固，常被用在建筑中，斜拉桥、桁架、埃菲尔铁塔、山形墙，都用了三角形结构做支撑。生活中的三角形数不胜数：衣架、三脚架、船帆、三角铁；大自然中同样如此：犰狳身上的鳞甲是三角形的，鸟群迁徙时飞成的“人”字形，也非常接近三角形。三角形为什么如此稳固？它还有哪些奥秘？如何区分等边、等腰和不等边三角形，以及直角、锐角和钝角三角形呢？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《小凯特的大收藏数学概念：加法》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574bdc0e37e86.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>达芙妮・斯金纳</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>“数学帮帮忙”系列全套共25册，分为“数字与运算”、“量与计量”、“图形与几何”、“探索规律”和“统计与概率”共五部分内容，几乎涵盖了小学阶段所有重要的数学知识。“数学帮帮忙”系列的每一本书都会讲述一个发生在孩子身边的故事，由故事中出现的问题自然地引入一个数学知识，然后通过运用数学知识解决问题。比如，从帮助外婆整理散落的纽扣引出分类，从为小狗记录藏骨头的地点引出空间方位，从办校报的活动讨论象形统计图的作用和制作方法，从为造一座糖果小屋找材料学习加减法的计算等等。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《哲学鸟飞罗-要是我不去上学?》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a86a4fbd08c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬·拉贝 著，(法)埃里克·加斯特 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>《要是我不去上学？》是写给六岁左右的小朋友的。书中的主人公是六岁的菲卢和哲学鸟飞罗。通过日常生活中的一个个小故事，而非哲学主题词来穿针引线。在引导讨论的同时，也鼓励独立思考。 爸爸厌倦了自己的工作，考虑是不是该去做点别的事情。菲卢趁机说：“我也是！我也厌倦学校了，我也想去干些别的事情！”可以吗？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《365科学成长系列：《365个创意手工》》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a88117ca535.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)萨恩，(德)图斯特 著，(德)马吉尔斯基 绘</p>  
+<p><b>出版社：</b>江苏少儿</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>雨雪天，待在家里无聊怎么办?《365个创意手工》帮你解决这一切!四季都有适宜的玩法，不同的难度，不同的选择，总有一些适合你!所有手工都按照季节和主题分类。365个创意，美好的手工时间!不同的季节。不同的环境，做不同的事情!自己做漂亮的礼物送给朋友!开发想象力和创造力!400多幅有趣的说明图片!</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《数学创新思维训练  二年级（2版3次）    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/20160520152830.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>黄敏</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>本书以《数学课程标准》为依托，集学案、教案、练习综合于一体。力求体现创新的元素：内容创新体现数学来源于现实生活；呈现方式创新体现让学生自主探究；结构创新体现不同的人学习不同的数学。本教材通过专题讲解，激发学生的学习兴趣，拓展学生的知识视野，开发学生的思维能力，提高学生的解题技巧，培养学生的创新精神。                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《大师中国绘・传统故事系列-司马光砸缸    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/574416f72ef24.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>杨永青</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>这一辑精选国画大师杨永青先生的作品，古老的儿童智慧故事、质朴的真情、气韵生动的国画，优雅的中国风中洋溢着浓浓的童趣，杨老在丹青水墨间描绘出一个美丽睿智大气的传统中国。
+和孩子一起，欣赏杨老的画，享受国画艺术的盛宴
+和孩子一起，跟随杨老的画，步入传统文化的“博物馆”
+和孩子一起，分享英雄少年的传奇故事，与他们共同成长
+</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《真假爱克斯探长   李毓佩数学童话总动员 爱克斯探长系列 2    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ebe9005bcf.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>李毓佩</p>  
+<p><b>出版社：</b>２１世纪出版社</p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>在这个数学王国里，充满了扣人心弦的历险和侦探故事，主人公们要想脱离险境，必先解决数学难题！而难题的解决，也需要小读者的参与。但是，重要的解题步骤和答案都被加密了，小读者可以自己动脑筋解决问题，也可以借助数学解密卡来帮助自己，大大地提高了小读者的阅读兴趣与参与程度！                                             </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《防近视版小学生国学文库 千字文   彩图版》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56960788a3af9.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(南北朝)周兴嗣</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《鱼就是鱼    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d748f07d52.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>李欧・李奥尼</p>  
+<p><b>出版社：</b>南海出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>池塘里有一条小鱼和一只蝌蚪，他们形影不离。慢慢地，蝌蚪变成了青蛙，并且离开池塘看到了外面的世界。他跟鱼讲述了自己新奇的见闻，鱼也开始憧憬起外面的世界来。有一天，他终于鼓足勇气，爬上岸……                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《哲学鸟飞罗-我可以永远不死吗?》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a86a628e52a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)碧姬·拉贝 著，(法)埃里克·加斯特 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>《我可以永远不死吗？》是写给六岁左右的小朋友的。书中的主人公是六岁的菲卢和哲学鸟飞罗。通过日常生活中的一个个小故事，而非哲学主题词来穿针引线。在引导讨论的同时，也鼓励独立思考。爸爸从修理厂回来，伤心地说自己的汽车完蛋了，彻底“死”掉了。菲卢不明白为什么汽车会“死”。在菲卢的想象里，人应该不死、永远不死！</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《彭懿热闹童话Ha Ha！-橡皮泥大盗》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a71dbf9b3e1.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>彭懿 著,沈苑苑 绘</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《橡皮泥大盗》是“彭懿热闹童话”系列之一。讲述了为了挽救濒临死亡的橡皮泥星球，橡皮泥国王决定让无情的船长带队对地球发动掠夺攻击。在抢掠的过程中，哆哆和嗦嗦救了小王子姆姆，三人成为好朋友，而姆姆也因此陷入了两难境地。哆哆和嗦嗦最后能不能粉碎船长的阴谋？而姆姆又做出了什么选择呢？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《老鼠牙医生》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82cd78cdf1.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)威廉•史塔克(William Steig)</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">德索托医生是一位医术高明的牙医，在能干的助手德索托太太的帮助下，他为大大小小的动物看牙病。他的技术高超，病人们一点儿都不会觉得疼痛。德索托医生是一位老鼠牙医生，因此从不给吃老鼠的“危险”动物看牙。可是有一天，一只狐狸出现了，他牙疼得要命，乞求德索托医生帮他治病。善良的德索托夫妇怎样打发他？又怎样确保给狐狸装上假牙后他不会露出本性？聪明的德索托医生和太太找到了一个办法……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《穿越时空(超视觉震撼科学绘本 全球畅销10周年珍藏版)-城堡风云 》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7311f50f0d.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)尼古拉斯•哈里斯 著,(英)彼得•丹尼斯 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《城堡风云》讲述的故事好像一次旅行，但这不是一次普通的旅行，你不用乘坐飞机、汽车或者轮船。事实上，你足不出户，就可以穿越时空！打开书本，时光在指尖飞跃：几天、几年甚至几百年。你在原地不动，变化却在不断发生。每个时刻——也就是你旅行中的每一站——都是故事新的一章：早期的堡垒，石头城堡的建造过程，保卫城堡的各种准备活动，城堡被围攻、重建、倒塌以及成为废墟。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我的第一本彩绘科学史 陆地交通》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a873c81a5ec.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)彭妮·克拉克 著，(英)大卫· 安契姆 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">一口气读完人类陆地交通史。世界上的第一个轮子是怎样出现的？人类可以达到多快的陆地速度？未来的汽车长什么样儿……在详细介绍交通工具发明的同时，书中还附有相关的历史事件与制造技术的知识，带领小读者一起探索陆地交通变革的奥秘。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《西顿动物记6：吉吉的回家路》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a731bbdcd39.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(加)欧内斯特•汤普森•西顿 著,(韩)咸泳莲 改编,(韩)李皴燮 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">根据《西顿动物记》改编而成，以童话般的叙述方式、拟人化的描写手法以及清新淡雅的插图设计，将原著中人性深处迸发出的动人情感刻画得淋漓尽致。豁豁耳为了保护妈妈和家园，勇敢地与敌人作斗争；小猫吉吉突破艰难险阻，终于过上了自己向往的自由自在的生活；淘气色毛毛经历了冈雨之后成为了负责任的爸爸……这些或鲜活或悲惨的小生命，不仅仅是在诉说着一个真实的动物世界，更让小朋友们从中体会到生命的尊严和价值！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《动物之美-海洋天堂》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6d10f100cd.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)芬塔内尔</p>  
+<p><b>出版社：</b>电子工业出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这里是水生物的神奇王国、海洋里的美丽天堂，更是水生物们的自由世界：烟花般的水母触角、胆小鬼海葵、花瓶海绵、水下刺猬、会动的瓶子、好色的乌贼、优雅的海百合……活灵活现，款款而来，展现着海洋天堂里最美的瞬间。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《心灵修行图画书·只有你》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8332589b8b.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)道格拉斯·伍德 著，(英) P. J. 林奇 绘</p>  
+<p><b>出版社：</b>希望出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这世界充满神奇，有太多重要的东西需要别人教你、展示给你。但是那些最美好、也最重要的东西，其他人却不能教、不能展示、也无法解释给你。没有人可以发觉它们，只有你。只有你，可以感知雨在你皮肤上的亲吻，风轻抚你的头发。只有你，可以用你的小脚丫踩过雨后的水洼。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《百年百首优秀儿童诗1》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d37e24fbad.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>樊发稼</p>  
+<p><b>出版社：</b>河北少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《百年百首优秀儿童诗》系列是国内第一套由权威专家系统编选的儿童诗集，收入了五四运动至今近百首最优秀的作品，作者包括现代儿童诗的开拓者，如胡适，徐志摩，林徽因等，还有将儿童诗发扬光大并提高到一个新水平的作家，如圣野，金波，张秋生等，还有徐鲁，郑春华等继往开来的诗人,90后优秀青年诗人张牧笛,慈琪,吴正阳等的作品也悉数收入。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《走进奇妙的几何世界-奇妙的三角   》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574be191488f7.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>格里贝利</p>  
+<p><b>出版社：</b>浙江教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《奇妙的三角》 三角形是一种美丽而奇妙的图形。它很醒目，常被用作标志起警示作用；它非常稳固，常被用在建筑中，斜拉桥、桁架、埃菲尔铁塔、山形墙，都用了三角形结构做支撑。生活中的三角形数不胜数：衣架、三脚架、船帆、三角铁；大自然中同样如此：犰狳身上的鳞甲是三角形的，鸟群迁徙时飞成的“人”字形，也非常接近三角形。三角形为什么如此稳固？它还有哪些奥秘？如何区分等边、等腰和不等边三角形，以及直角、锐角和钝角三角形呢？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《小凯特的大收藏数学概念：加法》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574bdc0e37e86.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>达芙妮・斯金纳</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“数学帮帮忙”系列全套共25册，分为“数字与运算”、“量与计量”、“图形与几何”、“探索规律”和“统计与概率”共五部分内容，几乎涵盖了小学阶段所有重要的数学知识。“数学帮帮忙”系列的每一本书都会讲述一个发生在孩子身边的故事，由故事中出现的问题自然地引入一个数学知识，然后通过运用数学知识解决问题。比如，从帮助外婆整理散落的纽扣引出分类，从为小狗记录藏骨头的地点引出空间方位，从办校报的活动讨论象形统计图的作用和制作方法，从为造一座糖果小屋找材料学习加减法的计算等等。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《哲学鸟飞罗-要是我不去上学?》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a86a4fbd08c.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)碧姬·拉贝 著，(法)埃里克·加斯特 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《要是我不去上学？》是写给六岁左右的小朋友的。书中的主人公是六岁的菲卢和哲学鸟飞罗。通过日常生活中的一个个小故事，而非哲学主题词来穿针引线。在引导讨论的同时，也鼓励独立思考。 爸爸厌倦了自己的工作，考虑是不是该去做点别的事情。菲卢趁机说：“我也是！我也厌倦学校了，我也想去干些别的事情！”可以吗？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《365科学成长系列：《365个创意手工》》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a88117ca535.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)萨恩，(德)图斯特 著，(德)马吉尔斯基 绘</p>  
+<p><b>出版社：</b>江苏少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">雨雪天，待在家里无聊怎么办?《365个创意手工》帮你解决这一切!四季都有适宜的玩法，不同的难度，不同的选择，总有一些适合你!所有手工都按照季节和主题分类。365个创意，美好的手工时间!不同的季节。不同的环境，做不同的事情!自己做漂亮的礼物送给朋友!开发想象力和创造力!400多幅有趣的说明图片!</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《数学创新思维训练  二年级（2版3次）    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_20160520152830.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>黄敏</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书以《数学课程标准》为依托，集学案、教案、练习综合于一体。力求体现创新的元素：内容创新体现数学来源于现实生活；呈现方式创新体现让学生自主探究；结构创新体现不同的人学习不同的数学。本教材通过专题讲解，激发学生的学习兴趣，拓展学生的知识视野，开发学生的思维能力，提高学生的解题技巧，培养学生的创新精神。                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《大师中国绘・传统故事系列-司马光砸缸    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_574416f72ef24.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>杨永青</p>  
+<p><b>出版社：</b>新蕾出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这一辑精选国画大师杨永青先生的作品，古老的儿童智慧故事、质朴的真情、气韵生动的国画，优雅的中国风中洋溢着浓浓的童趣，杨老在丹青水墨间描绘出一个美丽睿智大气的传统中国。
+和孩子一起，欣赏杨老的画，享受国画艺术的盛宴
+和孩子一起，跟随杨老的画，步入传统文化的“博物馆”
+和孩子一起，分享英雄少年的传奇故事，与他们共同成长
+</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《真假爱克斯探长   李毓佩数学童话总动员 爱克斯探长系列 2    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ebe9005bcf.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>李毓佩</p>  
+<p><b>出版社：</b>２１世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">在这个数学王国里，充满了扣人心弦的历险和侦探故事，主人公们要想脱离险境，必先解决数学难题！而难题的解决，也需要小读者的参与。但是，重要的解题步骤和答案都被加密了，小读者可以自己动脑筋解决问题，也可以借助数学解密卡来帮助自己，大大地提高了小读者的阅读兴趣与参与程度！                                             </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《防近视版小学生国学文库 千字文   彩图版》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56960788a3af9.png" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(南北朝)周兴嗣</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《鱼就是鱼    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d748f07d52.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>李欧・李奥尼</p>  
+<p><b>出版社：</b>南海出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">池塘里有一条小鱼和一只蝌蚪，他们形影不离。慢慢地，蝌蚪变成了青蛙，并且离开池塘看到了外面的世界。他跟鱼讲述了自己新奇的见闻，鱼也开始憧憬起外面的世界来。有一天，他终于鼓足勇气，爬上岸……                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《哲学鸟飞罗-我可以永远不死吗?》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a86a628e52a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)碧姬·拉贝 著，(法)埃里克·加斯特 绘</p>  
+<p><b>出版社：</b>接力出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《我可以永远不死吗？》是写给六岁左右的小朋友的。书中的主人公是六岁的菲卢和哲学鸟飞罗。通过日常生活中的一个个小故事，而非哲学主题词来穿针引线。在引导讨论的同时，也鼓励独立思考。爸爸从修理厂回来，伤心地说自己的汽车完蛋了，彻底“死”掉了。菲卢不明白为什么汽车会“死”。在菲卢的想象里，人应该不死、永远不死！</span></p>
+</div>
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

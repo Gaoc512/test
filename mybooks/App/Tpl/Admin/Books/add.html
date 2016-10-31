@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../Public/js/jquery-1.8.2.min.js"></script>
+ <script language="javascript" type="text/javascript" src="__PUBLIC__/js/My97DatePicker/WdatePicker.js"></script>
+    <script type="text/javascript">
+        var c = new Calendar("c");
+        document.write(c);
+    </script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $("#add").click(function(e){
+		var content="<p><span>标签：</span><input type='text' name='tags[]' class='text'  /></p>";
+		$(this).before(content);
+		})
+});
+
+</script>
+
+</head>
+
+<body>
+
+ <div class="xt-bt">图书管理 > 录入图书</div>
+ 
+  <form name="f1" method="post" action="{:U('Admin/Books/add')}" enctype="multipart/form-data">
+    
+    <div class="xt-input" style="background:#FFF;">
+        <p><span>书名：</span>
+       <input type="text" name="book_name" class="text" /></p>
+        <p> <span>书号：</span>
+       <input type="text" name="book_code" class="text" /></p>
+        <p> <span>作者：</span>
+       <input type="text" name="book_author" class="text" /></p>
+        <p> <span>译者：</span>
+       <input type="text" name="book_translater" class="text" /></p>
+        <p> <span>出版社：</span>
+       <input type="text" name="book_publiser"  class="text" /></p>
+        <p> <span>出版年月：</span>
+       <input type="text" name="book_publishtime" readonly="readonly"   onfocus="WdatePicker({dateFmt:'yyyy-MM-dd'})"  class="text" /></p>
+         <p> <span>价格：</span>
+       <input type="text" name="book_price" class="text" />元</p>
+         <p> <span>内容简介：</span>
+       <textarea name="book_summary" class="textarea"></textarea></p>
+         <p> <span>分级：</span>
+       <input type="number" name="book_level" class="text" /></p>
+       <p> <span>网络链接：</span>
+       <input type="text" name="book_link" class="text" style="width:450px;" /></p>
+        <p> <span>分类：</span>
+        <select name="book_class" style="border:1px solid #CCC;">
+        <foreach name="class" item="vo">
+        <option value="{$vo.typename}">{$vo.typename}</option>
+        </foreach>
+        </select>
+      <!-- <input type="text" name="book_class" class="text"  />--></p>
+       
+         <p>
+        <span>封面图片:</span>
+       
+        <input type="file" name="book_picimg" />
+        
+        </p>
+       
+        <p> <span>主题：</span>
+         <select name="book_topic" style="border:1px solid #CCC;">
+        <foreach name="topics" item="vo">
+        <option value="{$vo.title}">{$vo.title}</option>
+        </foreach>
+        </select>
+        
+       </p>
+        <p> <span>标签：</span>
+       <select name="tags[]" style="border:1px solid #CCC;">
+        <foreach name="labels" item="vo">
+        <option value="{$vo.title}">{$vo.title}</option>
+        </foreach>
+        </select>
+       </p>
+       <a id="add" href="javascript:;" style="color:#900;">添加一个标签</a>
+       <p style="margin-top:15px; padding-left:40px;"> <input type="submit" value="录入" class="green-int" /></p>
+       
+    </div>
+    
+ </form>
+
+</body>
+</html>

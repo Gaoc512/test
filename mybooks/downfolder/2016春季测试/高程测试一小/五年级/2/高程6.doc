@@ -1,0 +1,668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; font-size:17px; line-height:60px;">
+<p>姓名：高程6</p>
+<p>班级：五年级2</p>
+<p>学校：高程测试一小</p>
+<p>日期：2016-09-28 17:46:23</p>
+</div>
+</div>
+
+<div style="width:40%; float:right;"><img  src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/1.jpg" /></div>
+
+</div>
+
+<div style=" width:100%; clear:both;font-family:华文楷体;  margin-top:15px; font-size:20px; color:#363636;">
+<h1 style="font-size:21px;font-family:华文楷体; color:#000;">亲爱的高程6同学：</h1>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们发现你最喜欢历史类的书籍，这类书籍可以带你穿越到任何你想去的年代，感受那个时代人类的生活气息；还可以带你领略各国的文明发展，让你饱览人类文化的魅力。</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们还发现你比较喜欢数学类的书籍，这类书籍不仅有各种各样的数学知识，更有教会我们如何在生活中应用数学解决问题的小故事呢，让我们一起走进数学的殿堂吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">  最后我们发现你对推理悬疑类的书籍也感兴趣，这类书籍里不仅有错综复杂的故事，还有各种让你绞尽脑汁才能想明白的推理情节，它们绝对不只是“柯南”、“福尔摩斯”那么简单哟！赶紧开动你的大脑吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">
+	现在，快看看有哪些你感兴趣的书正在等着你呢，你是不是已经迫不及待了呢？</p>
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;font-family:隶书">我最感兴趣的图书推荐</h1>
+<!-- 
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：古老的城堡(精)》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a875f3b5162.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)雷纳·科特 著，(德)埃贝尔哈尔德·埃曼 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>城堡是中世纪最令人着迷的建筑，也是各种各样的传奇故事和动人电影情节的发生之地。但是，在这样宏伟和森严的住所中，骑士们究竟是怎样生活的呢？德国著名历史学家、儿童文学作家和多次获得奖项的科学记者汉斯-皮特·冯·派希克博士，在本书中描述了建造城堡的过程，介绍了城堡里住着哪些人，那里的居住环境究竟怎么样，城堡里的日常生活是什么样子的，当时怎样对城堡发起进攻以及如何防守等。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《二十一世纪少年文学必读经典—东周列国志》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7175095ee1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>冯梦龙</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《少年阅读新视野(11册)-《古代文明》》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a867fd59c5e.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)贝卢丹 著，勒梅埃尔，阿吕尼 绘</p>  
+<p><b>出版社：</b>明天出版</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>美索不达米亚、美丽的巴比伦城、敬重神灵、吉尔伽美什史诗、最初的文字、古埃及人、古埃及人的神灵、法老、辉煌的拉美西斯二世时期、古埃及的建筑、死后的生命、誊写员的重要性、象形文字、古埃及的艺术等内容。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《小学生最着迷的穿越之旅-人类历史》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5695bc463eea0.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《人类历史》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《伏尔泰小巷之谜-行李箱里的男爵夫人》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed396d12c7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>杜洛克男爵夫人死在了一个旧行李箱里，警方在犯罪现场发现了维克多・科莫雷斯――伏尔泰小巷侦探中的一员。这个受人尊敬的邮差，几年前曾是巴黎一个有名的小偷是抢劫，还是报复？是一时失手，还是另有隐情？伏尔泰小巷的侦探能否找出真凶？又能否将自己的伙伴从麻烦中解救出来？                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《 林格伦作品集・美绘版――大侦探小卡莱    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed2f517f34.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>血！此事千真万确！他用放大镜看着那滴红色的血迹，随后他把烟斗移到嘴的另一边，吸了口气，“这是亨利先生杀妻害命的铁证，手段极其残忍！”可惜，这些只是这位业余侦探小卡莱的幻想。这位训练有素的侦探在这里看不到一点儿犯罪的蛛丝马迹。在这样一座城市里当侦探确实是一桩没希望的差事！他长大以后，一旦有可能，非得去伦敦的贫民窟不可。也许去芝加哥吧？那里的杀人犯和坏蛋，任意杀人放火，却无人追捕他们。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《伏尔泰小巷之谜-弗拉芒画像神秘案件》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed3ec6ce03.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>一家著名艺术画廊的仓库被盗了，可是，被偷走的却只是一幅不值钱的小画儿。是小偷一时糊涂，还是有人故意设计，抑或是画里暗藏玄机？……神秘的盗窃案疑团重重！出击吧，伏尔泰小巷的侦探们!                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《世界文学名著宝库·青少版：福尔摩斯探案选集》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a730091692d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>（英）亚瑟·柯南道尔 著，李明 编</p>  
+<p><b>出版社：</b>长江少年儿童出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>《福尔摩斯探案集》是阿瑟·柯南道尔侦探小说的集大成，也是世界文坛中脍炙人口的探案佳作。小说出版后，其主人公福尔摩斯成为大侦探的代称、众人崇拜的英雄，也是英国小说中刻画最生动的人物之一。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·经典数学系列 要命的数学》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8222dcf3ed.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗/特雷弗•邓顿 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学 经典数学系列 玩转几何》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82024ce137.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲得浦•瑞弗 绘 </p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《科学家讲的科学故事050-图灵讲的密码的故事》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a731f0ad526.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(韩)吴莱焕　</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>“密码”一词对我们来说再熟悉不过了，人们可以举出许多现实生活中使用密码的例子，如保密通信设备中使用“密码”、个人在银行取款时使用“密码”、在计算机登录和屏幕保护中使用“密码”、开启保险箱使用“密码”，儿童玩电子游戏时使用“密码”等。可对于具体解释密码概念的学问——“密码学”，许多人却没有听说过，那让我们走进本书，了解“密码”的知识吧！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·经典数学系列 绝望的分数》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a821abd368f.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：古老的城堡(精)》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a875f3b5162.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(德)雷纳·科特 著，(德)埃贝尔哈尔德·埃曼 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b>历史</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">城堡是中世纪最令人着迷的建筑，也是各种各样的传奇故事和动人电影情节的发生之地。但是，在这样宏伟和森严的住所中，骑士们究竟是怎样生活的呢？德国著名历史学家、儿童文学作家和多次获得奖项的科学记者汉斯-皮特·冯·派希克博士，在本书中描述了建造城堡的过程，介绍了城堡里住着哪些人，那里的居住环境究竟怎么样，城堡里的日常生活是什么样子的，当时怎样对城堡发起进攻以及如何防守等。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《二十一世纪少年文学必读经典—东周列国志》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7175095ee1.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>冯梦龙</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>历史故事</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;"></span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《少年阅读新视野(11册)-《古代文明》》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a867fd59c5e.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)贝卢丹 著，勒梅埃尔，阿吕尼 绘</p>  
+<p><b>出版社：</b>明天出版</p>
+<p><b>主题：</b>百科</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">美索不达米亚、美丽的巴比伦城、敬重神灵、吉尔伽美什史诗、最初的文字、古埃及人、古埃及人的神灵、法老、辉煌的拉美西斯二世时期、古埃及的建筑、死后的生命、誊写员的重要性、象形文字、古埃及的艺术等内容。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《小学生最着迷的穿越之旅-人类历史》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5695bc463eea0.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b>历史</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《人类历史》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《伏尔泰小巷之谜-行李箱里的男爵夫人》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed396d12c7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b>悬疑</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">杜洛克男爵夫人死在了一个旧行李箱里，警方在犯罪现场发现了维克多・科莫雷斯――伏尔泰小巷侦探中的一员。这个受人尊敬的邮差，几年前曾是巴黎一个有名的小偷是抢劫，还是报复？是一时失手，还是另有隐情？伏尔泰小巷的侦探能否找出真凶？又能否将自己的伙伴从麻烦中解救出来？                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《 林格伦作品集・美绘版――大侦探小卡莱    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed2f517f34.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>林格伦</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>推理</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">血！此事千真万确！他用放大镜看着那滴红色的血迹，随后他把烟斗移到嘴的另一边，吸了口气，“这是亨利先生杀妻害命的铁证，手段极其残忍！”可惜，这些只是这位业余侦探小卡莱的幻想。这位训练有素的侦探在这里看不到一点儿犯罪的蛛丝马迹。在这样一座城市里当侦探确实是一桩没希望的差事！他长大以后，一旦有可能，非得去伦敦的贫民窟不可。也许去芝加哥吧？那里的杀人犯和坏蛋，任意杀人放火，却无人追捕他们。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《伏尔泰小巷之谜-弗拉芒画像神秘案件》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed3ec6ce03.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b>悬疑</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">一家著名艺术画廊的仓库被盗了，可是，被偷走的却只是一幅不值钱的小画儿。是小偷一时糊涂，还是有人故意设计，抑或是画里暗藏玄机？……神秘的盗窃案疑团重重！出击吧，伏尔泰小巷的侦探们!                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《世界文学名著宝库·青少版：福尔摩斯探案选集》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a730091692d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>（英）亚瑟·柯南道尔 著，李明 编</p>  
+<p><b>出版社：</b>长江少年儿童出版社</p>
+<p><b>主题：</b>侦探小说</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《福尔摩斯探案集》是阿瑟·柯南道尔侦探小说的集大成，也是世界文坛中脍炙人口的探案佳作。小说出版后，其主人公福尔摩斯成为大侦探的代称、众人崇拜的英雄，也是英国小说中刻画最生动的人物之一。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·经典数学系列 要命的数学》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8222dcf3ed.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗/特雷弗•邓顿 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>数学世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学 经典数学系列 玩转几何》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82024ce137.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲得浦•瑞弗 绘 </p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>数学世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《科学家讲的科学故事050-图灵讲的密码的故事》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a731f0ad526.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(韩)吴莱焕　</p>  
+<p><b>出版社：</b>云南教育                                                    </p>
+<p><b>主题：</b>数学</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“密码”一词对我们来说再熟悉不过了，人们可以举出许多现实生活中使用密码的例子，如保密通信设备中使用“密码”、个人在银行取款时使用“密码”、在计算机登录和屏幕保护中使用“密码”、开启保险箱使用“密码”，儿童玩电子游戏时使用“密码”等。可对于具体解释密码概念的学问——“密码学”，许多人却没有听说过，那让我们走进本书，了解“密码”的知识吧！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·经典数学系列 绝望的分数》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a821abd368f.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>数学世界</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</span></p>
+</div>
+</div>
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p style="text-indent:2em; line-height:1.5;font-family:华文楷体;font-size:20px;">除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<!-- <div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《HELLO世界经典02：傲慢与偏见》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7400bc194d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)简•奥斯汀 著,(韩)姜炅炅 改编,(韩)林津我 绘</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>《傲慢与偏见》是一部关于爱情与婚姻的小说，男主人公达西因为行为傲慢，使得女主人公伊丽莎白一直对他怀有偏见，造成他们之间磨难重重。好在，伊丽莎白最终了解了达西的为人，达西也因为伊丽莎白而改变了自己傲慢的态度，有情人终成眷属。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《蓝眼睛德国大奖小说书系—夏洛特的梦 》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82fc52f684.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)加比•克瑞斯蕾娜</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>爱情有时能带来无尽的痛苦，15岁的夏洛特在父母离异时深刻地体会到了这一点。爸爸现在有了芭比熙，妈妈也有邻居马里奥来安慰。新公寓、新学校和新的代理爸爸，这一切让夏洛特稍微喘口气了，可是这时，苏茨和卡罗闯进了她的生活。爱情突然撞上门，而且又是那么的美妙和疯狂！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《刘志丹   少年红色经典革命先驱系列》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a71cf1dc153.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>马辂</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b>&nbsp;&nbsp;&nbsp;小时候，瞿秋白叫瞿双，因为他生下来头顶有两个旋。据说，头上有两个旋的人不同寻常――从青年学者、文人到一个坚定的马克思主义者、无产阶级革命家和理论家。瞿秋白确实走过了他不寻常的同时又是光辉不朽的一生。&nbsp;&nbsp;&nbsp;许多红色经典影片中．革命者就义时常常会响起悲壮激昂的《国际歌》，《国际歌》的歌词就是瞿秋白译成中文的。三十六岁那年，他也唱着这首歌饮弹洒血，慷慨就义。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·自然探秘系列 地震了！快跑！》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8203631055.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)阿尼塔•加纳利 著,(英)迈克•菲利普斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>《可怕的科学•自然探秘系列:地震了快跑》所要讨论的主题是地震。它强大到可以在几秒钟内把一座城市夷为平地，其破坏性之大足以使地球裂开，比一颗原子弹更具有破坏力。地震是自然界最具有颠覆力的力量。在这本书中，你可以发现地震是如何发生的，学会如何辨认地震的警示标志。 </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《写给小学生看的相对论-黑洞谜团》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7323151d7d.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(日)福江纯 著,(日)北原菜里子 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>宇宙中真的有黑洞吗？黑洞真的会吞掉所有的东西吗？谜一样的黑洞到底有哪些奇特的性质呢？相对论会为你揭开它的神秘面纱。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《放大千万倍的世界    惊险的外太空之旅》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7418489fbf.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)吉勒斯•斯帕罗</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>宇宙会越长越大吗？星系会被黑洞吃掉吗？孩子们的小脑袋里总是充斥着许许多多稀奇古怪又天真烂漫的问题。
+《惊险的外太空之旅》就像是一本新奇有趣的宇宙导览手册，用史无前例的高清图片以及深入浅出的专业解说，告诉孩子们：矮星系也会跳华尔兹吗？神秘的暗能量会不会主宰整个宇宙？
+本书通过300多张绝无仅有的珍贵图片，以及著名天文学教授深入浅出的专业解说，</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-性别与平等》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/572993cf983b0.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>[ 自我 ] 《性别与平等》</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《防近视版小学生国学文库 孟子     彩图版》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5696077002f8c.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(战国)孟轲</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我的第一本艺术启蒙书》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6cd2565115.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)贝亚特丽斯·丰塔内尔</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>　在这本书里，你可以了解到西方艺术史长河中最伟大的艺术家：达•芬奇、拉斐尔、丢勒、伦勃朗、高更、沃霍尔……通过法国童书作家贝亚特丽斯•丰塔内尔的娓娓讲述，他们不再是遥不可及的巨匠，而是像孩子一样，本能地喜欢涂涂画画，对一切事物充满好奇的人，读着他们的故事，如同拜访老朋友一样亲切。这本书就是以这样生动、有趣的口吻讲述着他们的故事，带领读者在画中细细体会颜色、形状、光线和气氛。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《美国国家地理大探索系列-如果石头会说话》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a724dce9117.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)马克•阿伦森</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b>我爱地理</p>
+<p><b>简介：</b>《如果石头会说话:揭开巨石阵的秘密》讲述了巨石阵究竟隐藏着什么秘密？究竟是谁在英格兰的索尔兹伯里城附近竖起了一圈巨石？4500年前的人们为何要千里迢迢地运来一块块重达35吨的巨石，把它们排列得能在一年中特殊的两天里与太阳光连成一线？许多世纪以来，人们一直被巨石阵所迷惑一他们把它看成是魔法师梅林、德鲁伊特教徒，甚至是外星人的杰作。然而就在不久之前，考古学家迈克·帕克·皮尔森与河畔项目团队提出了一个全新的观点：巨石阵是一对标志着生死疆界的圆环的一半。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中小学生必读丛书：最美古诗文绘本：中国经典古诗文彩绘读本（高年级）     》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ecffb4c69f.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>陈雪梅</p>  
+<p><b>出版社：</b>新世界出版社</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>中国古诗文以其隽永的文化韵味，凝练的语言形式，深刻的文化内涵和人文精神历经千年沉淀至今，已经成文中华优秀传统文化中的代表。本书专为小学生编著，主要针对小学五六年级，精选出脍炙人口的唐诗、宋词、寓言故事等，充分考虑到小学生理解力和阅读兴趣的培养，配以拼音、注解、插图，采用漫画形式，以古诗文意境入画，便于学生更好地理解古诗文的优美意境，便于背诵和记忆，使学生在愉快的阅读中增长知识，开拓想象思维和创新思维。                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《猫武士(1)—呼唤野性》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e6d69fdcc.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)艾琳·亨特</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>奇幻世界</p>
+<p><b>简介：</b>宠物猫拉斯特没有想到，在主人的花园外面，在幽静的森林深处，存在着雷、风、影、河四个由野猫组成的族群，他们秉承武士祖先的遗训共同统治森林，为了生存而彼此竞争。更上让想不到的是，这只变通的宠物猫竟成为雷族的学徒，得名火爪(成为武士后，得名火心)。火爪将如何运用勇气和智慧，克服种种困难，完成预言中的伟大冒险？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：木乃伊的秘密》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a869378044c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)内阿特·吉尔梅尔 著，(德)普勒萨尔·埃斯图迪奥 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>古埃及人是什么样子的？他们的主要食物是什么？他们为什么要对死者进行防腐处理？关于奥茨冰人，我们又知道些什么？这些读者们关心的问题，著名古埃及学家内阿特·吉尔梅尔博士在本书中会为我们一一作答，一层层揭开木乃伊古老而又神秘的面纱。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《空想科学5》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e5ec4938a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>这本由柳田理科雄创作的《空想科学(5)》讲述了：迄今为止，尽管已反复考察了众多的怪兽和英雄，但在空想科学的世界里，还有着一些让人“放不下”的角色啊！ 阳光帅气的而包超人、可爱的龙猫和多啦A梦。 作为纯真的儿童世界里的居民，在科学上又是怎样的存在呢？ 打出龟派气功的孙悟空、北斗神拳的传承者健次郎。舍命战斗的他们，作为人类又是多么的不可思议呢？ </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《空想科学2》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e5b1a6b47.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>这本由柳田理科雄创作的《空想科学(2)》讲述了：空想科学的世界中，经常会出现让人难以想象的“数值”。 2万岁的英雄、2倍音速游泳的怪兽、5倍音速奔跑的外星人。虽然明知是需要脑补的内容，但到底有多夸张呢?还是缺乏真实的感受。 在此，好奇的“科学之子”将用崭新的视角，去奥特曼、魔神z以及怪兽们生存的世界一探究竟。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《生命价值第三辑7:汽车成长记    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/57440872dfef4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>《汽车成长记》  从19 世纪末法国“进取号”汽车约105 千米的*高时速，到如今西尔贝超级跑车“大蜥蜴”（SSC Tuatara） 时速443 千米的世界纪录，想想就让人热血沸腾！汽车的“成长”已经到达极限了吗？让未来时速达6500千米的真空管道车来告诉你。                                             </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：邮票的故事(精)》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8746f853d4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)汉斯·埃希尔德特，沃尔夫冈·马森 著，(德)乌岛·克鲁瑟-舒尔茨 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>方寸邮票，魅力无限！小小的邮票吸引着全世界集邮爱好者的目光。世界著名杂志《集邮》的主编沃尔夫冈·马森先生，在本书中引领我们走进了这个小小的艺术品所包含的大世界。通过这本书，集邮新手们也能够了解到一些集邮的专业知识，邮票的历史和种类，以及第一枚邮票的诞生、邮票的伪造、珍稀邮票，甚至因邮票而起的谋杀案等邮票秘闻。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《生命价值第三辑3:非常角度说健康    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/57440764711b8.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>《非常角度说健康》  我们的身体时刻都在战斗，但“敌人”永远躲在暗处。请不要怕，聪明的医学家就像大侦探，孜孜不倦地寻找夺走人们健康的“元凶”——霍乱弧菌、鼠疫杆菌、天花病毒……同时，我们自己也需要了解自己的身体：为什么会发烧、为什么会感到疼痛、为什么要打针吃药、为什么要刷牙、体检做什么，还等什么，快翻开本书吧。                                             </p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《HELLO世界经典02：傲慢与偏见》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7400bc194d.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)简•奥斯汀 著,(韩)姜炅炅 改编,(韩)林津我 绘</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《傲慢与偏见》是一部关于爱情与婚姻的小说，男主人公达西因为行为傲慢，使得女主人公伊丽莎白一直对他怀有偏见，造成他们之间磨难重重。好在，伊丽莎白最终了解了达西的为人，达西也因为伊丽莎白而改变了自己傲慢的态度，有情人终成眷属。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《蓝眼睛德国大奖小说书系—夏洛特的梦 》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82fc52f684.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)加比•克瑞斯蕾娜</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">爱情有时能带来无尽的痛苦，15岁的夏洛特在父母离异时深刻地体会到了这一点。爸爸现在有了芭比熙，妈妈也有邻居马里奥来安慰。新公寓、新学校和新的代理爸爸，这一切让夏洛特稍微喘口气了，可是这时，苏茨和卡罗闯进了她的生活。爱情突然撞上门，而且又是那么的美妙和疯狂！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《刘志丹   少年红色经典革命先驱系列》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a71cf1dc153.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>马辂</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;小时候，瞿秋白叫瞿双，因为他生下来头顶有两个旋。据说，头上有两个旋的人不同寻常――从青年学者、文人到一个坚定的马克思主义者、无产阶级革命家和理论家。瞿秋白确实走过了他不寻常的同时又是光辉不朽的一生。&nbsp;&nbsp;&nbsp;许多红色经典影片中．革命者就义时常常会响起悲壮激昂的《国际歌》，《国际歌》的歌词就是瞿秋白译成中文的。三十六岁那年，他也唱着这首歌饮弹洒血，慷慨就义。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·自然探秘系列 地震了！快跑！》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8203631055.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)阿尼塔•加纳利 著,(英)迈克•菲利普斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学•自然探秘系列:地震了快跑》所要讨论的主题是地震。它强大到可以在几秒钟内把一座城市夷为平地，其破坏性之大足以使地球裂开，比一颗原子弹更具有破坏力。地震是自然界最具有颠覆力的力量。在这本书中，你可以发现地震是如何发生的，学会如何辨认地震的警示标志。 </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《写给小学生看的相对论-黑洞谜团》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7323151d7d.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(日)福江纯 著,(日)北原菜里子 绘</p>  
+<p><b>出版社：</b>北京科学技术</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">宇宙中真的有黑洞吗？黑洞真的会吞掉所有的东西吗？谜一样的黑洞到底有哪些奇特的性质呢？相对论会为你揭开它的神秘面纱。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《放大千万倍的世界    惊险的外太空之旅》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7418489fbf.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)吉勒斯•斯帕罗</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">宇宙会越长越大吗？星系会被黑洞吃掉吗？孩子们的小脑袋里总是充斥着许许多多稀奇古怪又天真烂漫的问题。
+《惊险的外太空之旅》就像是一本新奇有趣的宇宙导览手册，用史无前例的高清图片以及深入浅出的专业解说，告诉孩子们：矮星系也会跳华尔兹吗？神秘的暗能量会不会主宰整个宇宙？
+本书通过300多张绝无仅有的珍贵图片，以及著名天文学教授深入浅出的专业解说，</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-性别与平等》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_572993cf983b0.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">[ 自我 ] 《性别与平等》</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《防近视版小学生国学文库 孟子     彩图版》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5696077002f8c.png" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(战国)孟轲</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我的第一本艺术启蒙书》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6cd2565115.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)贝亚特丽斯·丰塔内尔</p>  
+<p><b>出版社：</b>广西师范大学出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">　在这本书里，你可以了解到西方艺术史长河中最伟大的艺术家：达•芬奇、拉斐尔、丢勒、伦勃朗、高更、沃霍尔……通过法国童书作家贝亚特丽斯•丰塔内尔的娓娓讲述，他们不再是遥不可及的巨匠，而是像孩子一样，本能地喜欢涂涂画画，对一切事物充满好奇的人，读着他们的故事，如同拜访老朋友一样亲切。这本书就是以这样生动、有趣的口吻讲述着他们的故事，带领读者在画中细细体会颜色、形状、光线和气氛。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《美国国家地理大探索系列-如果石头会说话》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a724dce9117.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)马克•阿伦森</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《如果石头会说话:揭开巨石阵的秘密》讲述了巨石阵究竟隐藏着什么秘密？究竟是谁在英格兰的索尔兹伯里城附近竖起了一圈巨石？4500年前的人们为何要千里迢迢地运来一块块重达35吨的巨石，把它们排列得能在一年中特殊的两天里与太阳光连成一线？许多世纪以来，人们一直被巨石阵所迷惑一他们把它看成是魔法师梅林、德鲁伊特教徒，甚至是外星人的杰作。然而就在不久之前，考古学家迈克·帕克·皮尔森与河畔项目团队提出了一个全新的观点：巨石阵是一对标志着生死疆界的圆环的一半。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中小学生必读丛书：最美古诗文绘本：中国经典古诗文彩绘读本（高年级）     》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ecffb4c69f.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>陈雪梅</p>  
+<p><b>出版社：</b>新世界出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">中国古诗文以其隽永的文化韵味，凝练的语言形式，深刻的文化内涵和人文精神历经千年沉淀至今，已经成文中华优秀传统文化中的代表。本书专为小学生编著，主要针对小学五六年级，精选出脍炙人口的唐诗、宋词、寓言故事等，充分考虑到小学生理解力和阅读兴趣的培养，配以拼音、注解、插图，采用漫画形式，以古诗文意境入画，便于学生更好地理解古诗文的优美意境，便于背诵和记忆，使学生在愉快的阅读中增长知识，开拓想象思维和创新思维。                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《猫武士(1)—呼唤野性》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e6d69fdcc.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)艾琳·亨特</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">宠物猫拉斯特没有想到，在主人的花园外面，在幽静的森林深处，存在着雷、风、影、河四个由野猫组成的族群，他们秉承武士祖先的遗训共同统治森林，为了生存而彼此竞争。更上让想不到的是，这只变通的宠物猫竟成为雷族的学徒，得名火爪(成为武士后，得名火心)。火爪将如何运用勇气和智慧，克服种种困难，完成预言中的伟大冒险？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：木乃伊的秘密》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a869378044c.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)内阿特·吉尔梅尔 著，(德)普勒萨尔·埃斯图迪奥 绘</p>  
+<p><b>出版社：</b>湖北教育出版社 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">古埃及人是什么样子的？他们的主要食物是什么？他们为什么要对死者进行防腐处理？关于奥茨冰人，我们又知道些什么？这些读者们关心的问题，著名古埃及学家内阿特·吉尔梅尔博士在本书中会为我们一一作答，一层层揭开木乃伊古老而又神秘的面纱。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《空想科学5》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e5ec4938a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这本由柳田理科雄创作的《空想科学(5)》讲述了：迄今为止，尽管已反复考察了众多的怪兽和英雄，但在空想科学的世界里，还有着一些让人“放不下”的角色啊！ 阳光帅气的而包超人、可爱的龙猫和多啦A梦。 作为纯真的儿童世界里的居民，在科学上又是怎样的存在呢？ 打出龟派气功的孙悟空、北斗神拳的传承者健次郎。舍命战斗的他们，作为人类又是多么的不可思议呢？ </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《空想科学2》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e5b1a6b47.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这本由柳田理科雄创作的《空想科学(2)》讲述了：空想科学的世界中，经常会出现让人难以想象的“数值”。 2万岁的英雄、2倍音速游泳的怪兽、5倍音速奔跑的外星人。虽然明知是需要脑补的内容，但到底有多夸张呢?还是缺乏真实的感受。 在此，好奇的“科学之子”将用崭新的视角，去奥特曼、魔神z以及怪兽们生存的世界一探究竟。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《生命价值第三辑7:汽车成长记    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_57440872dfef4.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《汽车成长记》  从19 世纪末法国“进取号”汽车约105 千米的*高时速，到如今西尔贝超级跑车“大蜥蜴”（SSC Tuatara） 时速443 千米的世界纪录，想想就让人热血沸腾！汽车的“成长”已经到达极限了吗？让未来时速达6500千米的真空管道车来告诉你。                                             </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：邮票的故事(精)》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8746f853d4.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)汉斯·埃希尔德特，沃尔夫冈·马森 著，(德)乌岛·克鲁瑟-舒尔茨 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">方寸邮票，魅力无限！小小的邮票吸引着全世界集邮爱好者的目光。世界著名杂志《集邮》的主编沃尔夫冈·马森先生，在本书中引领我们走进了这个小小的艺术品所包含的大世界。通过这本书，集邮新手们也能够了解到一些集邮的专业知识，邮票的历史和种类，以及第一枚邮票的诞生、邮票的伪造、珍稀邮票，甚至因邮票而起的谋杀案等邮票秘闻。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《生命价值第三辑3:非常角度说健康    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_57440764711b8.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《非常角度说健康》  我们的身体时刻都在战斗，但“敌人”永远躲在暗处。请不要怕，聪明的医学家就像大侦探，孜孜不倦地寻找夺走人们健康的“元凶”——霍乱弧菌、鼠疫杆菌、天花病毒……同时，我们自己也需要了解自己的身体：为什么会发烧、为什么会感到疼痛、为什么要打针吃药、为什么要刷牙、体检做什么，还等什么，快翻开本书吧。                                             </span></p>
+</div>
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

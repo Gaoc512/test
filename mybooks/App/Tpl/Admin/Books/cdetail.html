@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+ $(document).ready(function () {
+
+        $("#checkedAll").click(function () {
+
+            //alert("aa");
+
+
+            if ($(this).attr("checked")) { // 全选 
+
+                $("input[name='checkbox_name[]']").each(function () {
+                    $(this).attr("checked", true);
+                });
+            }
+            else { // 取消全选 
+
+                $("input[name='checkbox_name[]']").each(function () {
+                    $(this).attr("checked", false);
+                });
+            }
+        });
+       
+	   $("#pldel").click(function(e){
+		   var ids = new Array();
+		    $(".checked").each(function(){
+		    	if($(this).attr('checked')) {
+		    		ids.push($(this).val());
+		    	}
+		    })
+		    if(ids.length >0 ){
+		    	var delurl = "{:U('Books/dellists')}";
+		    	$.ajax({
+		    		type:'POST',
+		    		url: delurl,
+		    		data:{id:ids},
+		    		success:function(data){
+		    			if(data.status == '1') {
+		    				 alert('删除成功！');
+		    				 location.reload();
+		    			} else if(data.status == '0')  {
+		    				alert('删除失败!');
+		    			}
+		    		},
+		    		dataType:'json'
+		    	})
+		    }else{
+				alert("错误操作");
+				}
+		   
+		   
+		   })
+     
+    }); 
+</script>
+
+</head>
+
+<body>
+
+ <div class="xt-bt">图书管理 > 图书管理</div>
+ 
+ 
+    <div class="xt-table">
+    
+        <table cellpadding="0" cellspacing="0" border="0" bgcolor="#dcdcdc" width="100%">
+            <tr>
+              <th><input type="checkbox" class="selectall" id="checkedAll" /></th>
+            <th>书名</th>
+            <th>书号</th>
+            <th>作者</th>
+            <th>译者</th>
+            <th>出版社</th>
+            <th>出版年月</th>
+            <th>价格</th>
+            <th>分类</th>
+            <th>主题</th>
+            <th>创建时间</th>
+          
+            <th>操作</th>
+            </tr>
+            <empty name="data">
+            <tr><td colspan="12">暂无记录</td></tr>
+            <else />
+            <tr>
+            <foreach name="data" item="vo">
+            <td><input type="checkbox" class="checked" name="checkbox_name[]" value="{$vo.id}" /></td>
+                <td>{$vo.book_name}</td>
+                <td>{$vo.book_code}</td>
+                <td>{$vo.book_author}</td>
+                <td>{$vo.book_translater}</td>
+                <td>{$vo.book_publiser}</td>
+                <td>{$vo.book_publishtime}</td>
+                <td>{$vo.book_price}</td>
+                <td>{$vo.book_class}</td>
+                <td>{$vo.book_topic}</td>
+                <td>{$vo.createtime}</td>
+               
+                <td><a href="{:U('Admin/Books/edit',array('id'=>$vo[id]))}" class="yellow-xt">编辑</a><a  onclick="return window.confirm('是否确认删除该条信息？？');" href="{:U('Admin/Books/del',array('id'=>$vo[id],'type'=>1))}" class="blue-xt">删除</a></td>
+            </tr>
+           </foreach>
+           <tr><td colspan="12" align="left" style="text-align:left;"><a href="javascript:;" id="pldel" class="blue-xt">批量删除</a></td></tr>
+</empty>
+        </table>
+    </div>
+    <!--<div class="xt-fenye">
+    {$page}
+        <!--<div class="xt-fenye-left">当前第 1 / 270 页,每页10条，共 2696条记录</div>
+        <div class="xt-fenye-right">
+            <a href="#">首页</a>
+            <a href="#">上一步</a>
+            <a href="#">下一步</a>
+            <a href="#">尾页</a>
+            <input type="text" name="text" />
+            <a href="#" class="xt-link">跳转</a>
+        </div>
+    </div>-->
+
+
+</body>
+</html>

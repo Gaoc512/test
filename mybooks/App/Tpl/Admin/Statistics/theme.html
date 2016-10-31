@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+ <div class="xt-bt">图书统计 > 主题统计</div>
+ 
+<div class="tab" style="height:30px;">
+    <select style="display:block; margin-left:20px; margin-bottom:10px;text-align:center; float:left;" class="yellow-int" onchange="if(this.value!='')location.href=this.value;this.options[0].selected=true" size="1">
+        <option value="{:U('Statistics/classification')}" >类别统计</option>
+        <option value="{:U('Statistics/theme')}" selected/>主题统计</option>
+        <option value="{:U('Statistics/label')}"/>标签1统计</option>
+    </select> 
+    <a class="green-int"  style="display:block; margin-left:20px; margin-bottom:10px;text-align:center; float:left; width:110px;" href="{:U('Statistics/expTheme')}">导出excel</a> 
+ </div>
+    <!-- <div class="xt-input" style="clear:both;">
+     <form name="f1" method="post" action="{:U('Admin/Books/lists')}">
+        <span>书名</span>
+        <input type="text" class="int-text" name="book_name" />
+        <span>书号</span><input type="text" class="int-text" name="book_code" />
+        <span>出版社</span>
+        <input type="text" class="int-text" name="book_publiser" />
+       
+        <input type="submit" value="确 定" class="yellow-int" />
+        </form>
+    </div>-->
+    <div class="xt-table">
+    
+        <table cellpadding="0" cellspacing="0" border="0" bgcolor="#dcdcdc" width="100%">
+            <tr>
+                <th rowspan="2">主题</th>
+                <th colspan="2">四年级</th>
+                <th colspan="2">五年级</th>
+                <th colspan="2">六年级</th>
+            </tr>
+            <tr>
+                <th>实际数量</th>
+                <th>缺少数量</th>
+                <th>实际数量</th>
+                <th>缺少数量</th>
+                <th>实际数量</th>
+                <th>缺少数量</th>
+            </tr>
+
+
+            <empty name="data">
+                <tr><td colspan="7">暂无内容</td></tr>
+                <else />
+                
+                <foreach name="data" item="vo">
+                    <tr>
+                        <td>{$vo.title}</td>
+                        <td>{$vo.count1}</td>
+                        <if condition="$vo.lack1 gt 0">
+                            <td style="background:yellow;">{$vo.lack1}</td>
+                        <else />
+                            <td>{$vo.lack1}</td>
+                        </if>
+                        <td>{$vo.count2}</td>
+                        <if condition="$vo.lack2 gt 0">
+                            <td style="background:yellow;">{$vo.lack2}</td>
+                        <else />
+                            <td>{$vo.lack2}</td>
+                        </if>
+                        <td>{$vo.count3}</td>
+                        <if condition="$vo.lack3 gt 0">
+                            <td style="background:yellow;">{$vo.lack3}</td>
+                        <else />
+                            <td>{$vo.lack3}</td>
+                        </if>
+                    </tr>  
+                </foreach>
+                
+
+               <!--tr><td colspan="4">{$page}</td></tr-->
+            </empty>
+        </table>
+    </div>
+    <!--<div class="xt-fenye">
+    {$page}
+        <!--<div class="xt-fenye-left">当前第 1 / 270 页,每页10条，共 2696条记录</div>
+        <div class="xt-fenye-right">
+            <a href="#">首页</a>
+            <a href="#">上一步</a>
+            <a href="#">下一步</a>
+            <a href="#">尾页</a>
+            <input type="text" name="text" />
+            <a href="#" class="xt-link">跳转</a>
+        </div>
+    </div>-->
+
+
+</body>
+</html>

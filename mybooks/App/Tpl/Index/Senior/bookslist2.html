@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>小学生图书推荐</title>
+<link rel="stylesheet" id="sc" type="text/css" href="__PUBLIC__/css/style.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/animation.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/1.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+    var sc=document.getElementById("sc");
+   
+    if(screen.width<1400)  //获取屏幕的的宽度
+    {
+      sc.setAttribute("href","__PUBLIC__/css/style1.css");   //设置css引入样式表的路径
+     
+    }
+   
+}
+$(function(){
+  $(".btn p label").click(function(){
+    $(this).toggleClass("selected");
+  });
+});   
+</script>
+
+<style>
+    a:hover a:visited{ color::#666;}
+     .check_box{
+  
+ 
+  background: url(/App/Tpl/Index/Public/img/dagou.png)  no-repeat center;
+  background-size: cover;
+}
+.selected {
+  
+  
+  background: url(/App/Tpl/Index/Public/img/dg.png) no-repeat center;
+  background-size: 30%;
+}
+</style>
+</head>
+
+<body>
+    <div class="top">
+        <h1>同学，你好！恭喜你已经完成了这个小测试。</h1>
+        <p style="width:70%;margin:0 auto;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在你看到的是我们为你推荐的书单。请你看一看这些书中有没有你已读过的，如果有请你勾选出来，并点击页面最下方的“重新生成”，最后请点击“完成”，之后我们会通过其它方式将这份书单送到你身边，希望它能带你畅游阅读天地。</p>
+    </div>
+    <div class="foot">
+        <div class="div">
+            <ul>
+                
+                <foreach name="data" item="vo" key="k">
+                    <li id="zhu{$k}">
+                        <h2 style="font-weight:bolder;font-size:16px;">《{$vo.book_name}》</h2>
+                        <div  id="list_li{$k}">
+                        <div class="div1">
+                            <img src="http://106.38.65.206:8010/Upload/picimg/{$vo['book_picimg']}" width="100%" height="100%"/>
+                        </div>
+                        <div class="div2">
+                            <p class="p1" style="font-family:宋体"><strong style="font-family:宋体">作者：</strong>{$vo.book_author}</p>
+                            <p class="p2" style="font-family:宋体"><strong style="font-family:宋体">出版社：</strong>{$vo.book_publiser}</p>
+                            <p class="jj" style="font-family:宋体"><strong style="font-family:宋体">内容：</strong>{$vo.book_summary}</p>
+                            <a href="javascript:dianji({$k})">点击查看内容简介</a>
+                            <div class="btn">
+                               
+                                <p >
+                                    <label for="dui" class="check_box" style="width:90px;height:20px;display:inline-block;"><input type="checkbox" name="dui" style="width:90px;height:20px;opacity: 0;" class="aid" value="{$vo.id}" /></label>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        
+                         </div>
+                    </li>
+
+                    <div id="last_li{$k}" style="display:none;width:100%;height: 300px;">
+                
+                    <div>
+                        <p class="p" id="x{$k}" onclick="guanbi({$k})">X</p>
+                        <p class="jianjie" style="font-family:宋体">{$vo.book_summary}</p>
+                    </div>
+                </div>
+                </foreach>
+                
+                
+            </ul>
+        </div>
+    </div>
+    <foot>
+        <a id="opt-delall"  href="">
+            <img src="/App/Tpl/Index/Public/img/again.png" alt=""/>
+        </a>
+        <a href={:U('Senior/download')}>
+            <img src="/App/Tpl/Index/Public/img/xia.png" alt=""/>
+        </a>
+    </foot>
+</body>
+<script>
+	function dianji(id){
+        
+        
+		$("#list_li"+id).hide();
+         $("#last_li"+id).appendTo($("#zhu"+id));   
+         $("#last_li"+id).show();
+        
+	}
+	function guanbi(id){
+		$("#last_li"+id).hide();
+        $("#list_li"+id).show();
+	}
+	$("#opt-delall").click(function(){
+            var id = [];
+            $(".aid").each(function(){
+                if($(this).prop('checked')) id.push($(this).val());
+            });
+            
+            if(id.length > 0)
+            {
+                var flag = confirm('您确定删要删除所选的书籍并重新生成书单吗？');
+                if(flag)
+                {
+                    var params = {};
+                    params.id = id.join(',');
+                    $.getJSON('{:U("Child/ajaxFinishedbooks")}', params, function(json){
+                        alert(json.msg);
+                        if(json.status)
+                        {
+                            location.reload();
+                        }
+                    });
+                }
+            }
+            else
+            {
+                alert('若想重新生成书单，请先选择已读书籍！');
+                return false;
+            }
+        });
+</script>
+</html>

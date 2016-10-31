@@ -1,0 +1,70 @@
+
+/******* EXAMPLE E *******/
+.br-wrapper-e .br-widget {
+  height: 65px;
+}
+html{ font-size:12px;}
+
+.br-wrapper-e .br-widget a {
+  padding:2% 3.4%;
+  background-color: #eaf9ce;
+  color: #8fbd3e;
+  text-decoration: none;
+  font-size: 26px;
+  line-height: 3;
+  text-align: center;
+  font-weight: 600;
+  font-family:dh;
+  font-weight:700;
+}
+.br-wrapper-e .br-widget a:first-child {
+  -webkit-border-top-left-radius: 999px;
+  -webkit-border-bottom-left-radius: 999px;
+  -moz-border-radius-topleft: 999px;
+  -moz-border-radius-bottomleft: 999px;
+  border-top-left-radius: 999px;
+  border-bottom-left-radius: 999px;
+}
+.br-wrapper-e .br-widget a:last-child {
+  -webkit-border-top-right-radius: 999px;
+  -webkit-border-bottom-right-radius: 999px;
+  -moz-border-radius-topright: 999px;
+  -moz-border-radius-bottomright: 999px;
+  border-top-right-radius: 999px;
+  border-bottom-right-radius: 999px;
+}
+.br-wrapper-e .br-widget a.br-active,
+.br-wrapper-e .br-widget a.br-selected {
+  background-color: #8fbd3e;
+  color: white;
+}
+.br-wrapper-e .br-widget .br-current-rating {
+  clear: both;
+  width: 330px;
+  text-align: center;
+  font-weight: 600;
+  display: block;
+  padding: .5em 0;
+  color: #646464;
+}
+.br-wrapper-e .br-readonly a.br-active,
+.br-wrapper-e .br-readonly a.br-selected {
+  background-color: #8fbd3e;
+}
+/* Center in container 50e3c2 */
+.br-wrapper-e {
+  width: 85%;
+  position: absolute;
+  margin: 15px 0 0 -125px;
+  left: 18%;
+}
+
+/*xinf*/
+.anniu1{ display:block; width:30%; margin:0 auto; text-align:center; padding:2%; color:#fff; background:#fc7c15; height:3rem; font-size:30px; border-radius:8px; margin-top:5rem; }
+.sn-content{max-width:90%; background-color:#fff; margin:0 auto; height:auto; position:relative; text-align:center; padding-bottom:10%;}
+.duze{width:88%;text-align:center;  margin:0 auto;}
+.du{position:absolute; left:8%; right:8%; top:2.8rem;width:85%;text-align:left; color:#3a3a3a; font-size:26px; font-family:yb; line-height:45px;}
+.tips1{left:8%; right:8%; padding-top:2%; width:88%;text-align:left; font-size:26px;  font-family:dh; line-height:45px;margin:0 auto;}
+.top1{width:98%; background:url(../img/tiao.png) repeat-x; color:#fff; font-size:20px; padding-left:2%;font-weight:700; margin:0 auto; margin-top:5rem;}
+.timu{width:98%;  color:#3a3a3a; font-size:20px; padding-left:2%; margin:0 auto; margin-top:20px;}
+.box-body{ height:100px;}

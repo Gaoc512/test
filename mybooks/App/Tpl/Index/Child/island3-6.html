@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>小学生图书推荐</title>
+<link rel="stylesheet" id="sc" type="text/css" href="__PUBLIC__/css/style.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/animation.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+	var cnum=1;
+    $(".check").click(function(e){
+		
+		var val=$(this).attr('attr-id');
+		if(cnum==1){
+		if(val==1){
+			var str="<img class='dq animated3 infinite zoomInDown1' src='__PUBLIC__/img/dq.png'/>";
+		}else if(val==2){
+		    var str="<img class='dq animated3 infinite zoomInDown1' src='__PUBLIC__/img/xrk.png'/>";
+		}else if(val==3){
+		    var str="<img class='dq animated3 infinite zoomInDown1' src='__PUBLIC__/img/dx.png'/>";
+		}
+		 $("#key1").val(val);
+    
+		}else if(cnum==2){
+			if(val==1){
+			var str="<img class='xrk animated3 infinite zoomInDown1' src='__PUBLIC__/img/dq.png'/>";
+		}else if(val==2){
+			
+		    var str="<img class='xrk animated3 infinite zoomInDown2' src='__PUBLIC__/img/xrk.png'/>";
+		}else if(val==3){
+		    var str="<img class='xrk animated3 infinite zoomInDown3' src='__PUBLIC__/img/dx.png'/>";
+		}
+		$("#key2").val(val);
+		}else{
+			if(val==1){
+			var str="<img class='daxiang animated3 infinite zoomInDown1' src='__PUBLIC__/img/dq.png'/>";
+		}else if(val==2){
+			
+		    var str="<img class='daxiang animated3 infinite zoomInDown2' src='__PUBLIC__/img/xrk.png'/>";
+		}else if(val==3){
+		    var str="<img class='daxiang animated3 infinite zoomInDown3' src='__PUBLIC__/img/dx.png'/>";
+		}
+		$("#key3").val(val);
+		$(".next").addClass("next1");
+			}
+		$(this).find('img').removeClass("shake animated2");
+		$(this).find('img').addClass("bounceOut animated6");
+		$(this).find('img').hide();
+		$(".s-content").append(str);
+		$(this).removeAttr("class");
+		$(this).removeAttr('href');
+		cnum++;
+	//	alert(str);
+		})
+		$(".next").click(function(e){
+			
+			if($(this).hasClass('next1')){
+				$("#f1").submit();
+			}else{
+				alert("请把三把钥匙根据你的喜好排一下顺序哦");
+				
+			}
+			
+			})
+			$("#cf").click(function(e){
+		 $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/013.mp3" type="audio/mpeg"/></audio>');
+		})
+});
+</script>
+<script type="text/javascript">
+window.onload=function(){
+    var sc=document.getElementById("sc");
+   
+    if(screen.width<1400)  //获取屏幕的的宽度
+    {
+      sc.setAttribute("href","__PUBLIC__/css/style1.css");   //设置css引入样式表的路径
+     
+    }
+	 $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/013.mp3" type="audio/mpeg"/></audio>');
+   $("#key1").val('');
+    $("#key3").val('');
+	 $("#key2").val('');
+    
+	}
+</script>
+<style>
+a:hover a:visited{ color::#666;}
+</style>
+</head>
+
+<body  style=" background:url(__PUBLIC__/img/s-bg2.png) repeat #f8e8c3;">
+<div id="newMessageDIV" style="display:none"></div>
+<div class="wapper">
+    <div class="s-book">
+        <div class="s-content">
+            <img class="s-width" src="__PUBLIC__/img/s-shu.png"/>
+            <img class="s-img2" src="__PUBLIC__/img/island3-6.jpg"/> 
+             <!--<a href="javascript:location.reload();"><img class="s-w" src="__PUBLIC__/img/cx.png"/></a>-->
+            <div class="s-title">
+               <!-- <img style=" width:74.5%; margin-top:3%;" src="__PUBLIC__/img/scientist.png" />-->
+                <p>第{$num}座小岛</p>
+               <!-- <p>《小小科学家》</p>-->
+            </div>
+            <a href="javascript:;" class="check" attr-id="1"><img class="onekey 
+ shake1 animated2 infinite" src="__PUBLIC__/img/one.png"/></a>
+            <a href="javascript:;" class="check" attr-id="2"><img class="twokey  
+ shake2 animated2 infinite" src="__PUBLIC__/img/two.png"/></a>
+            <a href="javascript:;" class="check" attr-id="3"><img class="treekey 
+ shake3 animated2 infinite" src="__PUBLIC__/img/tree.png"/></a>
+          <!-- <a href=""><img class="daxiang animated3 infinite zoomInDown1" src="__PUBLIC__/img/dx.png"/></a>
+            <a href=""><img class="xrk animated3 infinite zoomInDown2" src="__PUBLIC__/img/xrk.png"/></a>
+            <a href=""><img class="dq animated3 infinite zoomInDown3" src="__PUBLIC__/img/dq.png"/></a>-->
+        </div>
+    </div>
+    <div class="footer">
+        <div style=" width:76%; height:30%; margin:0 auto;">
+        
+        <a href="javascript:location.reload();"><img class="withed s-paga" src="__PUBLIC__/img/again.png"/></a>
+               <a href="javascript:;" id="cf"><img class="withed c-bo" src="__PUBLIC__/img/cb.png"/></a>
+            <a href="javascript:;" class="next"><img class="withed x-paga" src="__PUBLIC__/img/over.png"/></a>
+        
+            
+        </div>
+    </div>
+    <form name="f1" id="f1" method="post" action="{:U('Child/island')}">
+    <input type="hidden" value="" name="key1" id="key1" />
+     <input type="hidden" value="" name="key2" id="key2" />
+      <input type="hidden" value="" name="key3" id="key3" />
+      <input type="hidden" value="{$p}" name="p">
+    </form>
+    
+</div>
+</body>
+</html>

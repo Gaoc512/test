@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>小学生图书推荐</title>
+<link rel="stylesheet" id="sc" type="text/css" href="__PUBLIC__/css/style.css" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/animation.css" />
+<script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+    var sc=document.getElementById("sc");
+   
+    if(screen.width<1400)  //获取屏幕的的宽度
+    {
+      sc.setAttribute("href","__PUBLIC__/css/style1.css");   //设置css引入样式表的路径
+     
+    }
+    $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/017.mp3" type="audio/mpeg"/></audio>');
+    }
+	$(document).ready(function(e) {
+    $("#cf").click(function(e){
+		 $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="__PUBLIC__/mp3/017.mp3" type="audio/mpeg"/></audio>');
+		})
+	})
+</script>
+<style>
+a:hover a:visited{ color::#666;}
+</style>
+</head>
+
+<body  style=" background:url(__PUBLIC__/img/s-bg2.png) repeat #f8e8c3;">
+<div id="newMessageDIV" style="display:none"></div>
+
+<div class="wapper">
+    <div class="s-book">
+        <div class="s-content">
+            <img class="s-width" src="__PUBLIC__/img/s-shu.png"/>
+            <img class="s-img2" src="__PUBLIC__/img/island5-1.jpg"/>
+            <div class="s-title">
+                <!--<img style=" width:74.5%; margin-top:3%;" src="__PUBLIC__/img/poet.png" />-->
+                <p>第{$num}座小岛</p>
+                <!--<p>《诗人》</p>-->
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div style=" width:76%; height:30%; margin:0 auto;">
+            <a href="javascript:history.go(-1);"><img class="withed s-paga" src="__PUBLIC__/img/s-below.png"/></a>
+               <a href="javascript:;" id="cf"><img class="withed c-bo" src="__PUBLIC__/img/cb.png"/></a>
+               <a href="{:U('Child/land5',array('p'=>$p,'x'=>2))}"><img class="withed x-paga" src="__PUBLIC__/img/s-next.png"/></a>
+           
+        </div>
+    </div>
+</div>
+</body>
+</html>

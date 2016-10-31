@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+ <div class="xt-bt">学校管理 > 学生管理 > 导入学生</div>
+ 
+  <form name="f1" method="post" action="{:U('Admin/Schools/impUser')}" enctype="multipart/form-data">
+    
+    <div class="xt-input" style="background:#FFF;">
+        <span>导入Excel表:</span>
+       <input type="file" name="file_stu" />
+        <input type="hidden" name="tid" value="{$tid}" />
+      <p style="margin-top:15px; padding-left:40px;"> <input type="submit" value="导入" class="green-int" /></p>
+       
+    </div>
+    
+ </form>
+
+</body>
+</html>

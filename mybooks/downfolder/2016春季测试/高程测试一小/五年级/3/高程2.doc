@@ -1,0 +1,668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style >
+.red-int{background: #DA542E none repeat scroll 0% 0%;
+color: #FFF;
+padding: 6px 20px;
+border: medium none;
+border-radius: 3px;
+font-size: 14px; display:block; width:100px; text-align:center; text-decoration:none; margin-left:50px;}
+</style>
+</head>
+
+<body style=" margin:0px; padding:0px; font-family:"宋体";">
+
+<div style=" width:96%; margin:0 auto;">
+<div style="width:100%; float:right; height:800px; margin-top:15px;color:#363636;">
+<div style="width:55%; float:left; padding-top:20px; padding-left:10px; font-size:30px;">
+<p style="font-size:40px; line-height:60px;">小学生</p>
+<p style=" font-size:48px; line-height:70px;">个性化书单</p>
+<div style=" margin-top:180px; font-size:17px; line-height:60px;">
+<p>姓名：高程2</p>
+<p>班级：五年级3</p>
+<p>学校：高程测试一小</p>
+<p>日期：2016-09-27 13:40:56</p>
+</div>
+</div>
+
+<div style="width:40%; float:right;"><img  src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/1.jpg" /></div>
+
+</div>
+
+<div style=" width:100%; clear:both;font-family:华文楷体;  margin-top:15px; font-size:20px; color:#363636;">
+<h1 style="font-size:21px;font-family:华文楷体; color:#000;">亲爱的高程2同学：</h1>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">您好！通过这个小测试，我们更加了解你的阅读兴趣！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们发现你最喜欢中国传统文化类的书籍，这类书籍不仅可以让你感受中华五千年传统文化的魅力，还可以告诉你中国传统节日的风俗和由来，听起来就不错吧？赶紧去看看吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">我们还发现你比较喜欢哲学思考类的书籍，你是否会提出一些大人们都无法回答你的问题？你是否对很多事情抱有不同的观点或看法？那么相信这类书籍会给你带来惊喜，毫不犹豫地去寻找答案吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">  最后我们发现你对幻想冒险类的书籍也感兴趣，从这类书籍中你可以跟着主人公经历一场场惊心动魄的冒险，在每次冒险中你还可以感受到魔法或虚拟高科技的威力，创造出一次次奇迹，赶紧去领略一番吧！</p>
+<p style="text-indent:2em;font-family:华文楷体; line-height:2; font-size:20px;">
+	现在，快看看有哪些你感兴趣的书正在等着你呢，你是不是已经迫不及待了呢？</p>
+</div>
+<div style="width:100%; height:auto; "><img style="width:50%; height:auto; margin-left:25%; text-align:center;" src="http://106.38.65.206:8010/App/Tpl/Admin/Public/img/2.jpg" /></div>
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;font-family:隶书">我最感兴趣的图书推荐</h1>
+<!-- 
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中华民族是一家――中国各民族民间故事（高段版）    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/20160504162621.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>郑土有</p>  
+<p><b>出版社：</b>浙江文艺出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>这是一场中国各民族民间故事的盛会。这场盛会吸引了各民族有名的 故事高手，他们要在这里用语言、用歌声展示民族的智慧，歌颂他们英雄 的祖先，讲述他们生活的世界。这里有许多你意想不到的传说、童话、寓言，令你迫不及待想飞到故 事的发源地，去感受那里的欢歌笑语，了解那里的风土人情。                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《中国地理百科（小学生读本）博学天下系列 全国十佳老师强烈推荐 开拓视野 丰富知识 趣味阅读     》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/20160504153253.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>魏红霞</p>  
+<p><b>出版社：</b>北京教育出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>专为孩子打造的一部自然科学、社会科学和人文科学最佳读本。精选学生最感兴趣、最好奇的各种知识，是一部阅读精品、一座知识宝库、一场视觉饕餮盛宴。《中国地理百科》简介：中国是人类文明的重要发源地之一，历史悠久，文化灿烂，山河壮美，自然资源极为丰富。本书精心选择了中国著名的旅游观光胜地数百处，以轻松简练的笔触，将祖国的青山绿水、名胜古迹，向读者娓娓道来；通过一幅幅精美的实地图片，全景再现了中国著名风景区的绚丽风光与历史文化底蕴，向读者全面而生动地介绍了中国各个旅游胜地悠久的人文历史、绝美的自然风光与浓厚的乡土人情，让读者犹如置身在祖国大好河山的画卷当中，而流连忘返！                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《我爱我的祖国――百年百部中国儿童文学经典书系    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ec4ec45bfc.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>田地</p>  
+<p><b>出版社：</b>湖北少儿出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>文学是人学，儿童文学是人之初的文学。人之初，性本善。儿童文学是人生最早接受的文学，那些曾经深深感动过孩子的儿童文学作品，将使人终生难忘终生受益。在今天这个传媒多元的时代，我们特别需要向广大少年儿童提倡文学阅读。文学阅读不同于知识书、图画书、教科书的阅读。文学是以血肉丰满的人物形象和个性鲜活的人物性格，是以审美的力量、情感的力量、道义的力量、精神的力量打动人、感染人、影响人的。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《防近视版小学生国学文库 孟子     彩图版》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5696077002f8c.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(战国)孟轲</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我爱中国</p>
+<p><b>简介：</b>“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《林汉达中国历史故事集(美绘版)春秋卷》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e61ae8445.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《小学生最着迷的穿越之旅-埃及法老》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5695bba051756.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《埃及法老》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《林汉达中国历史故事集(美绘版)三国卷》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e60b19873.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《林汉达中国历史故事集(美绘版)西汉卷》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e65396302.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>我爱历史</p>
+<p><b>简介：</b>《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-我们将归于何处》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d771d1965c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>[ 融合 ] 《我们将归于何处》</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-我们为什么会害怕大怪兽》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed50b013c2.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>【主题：勇敢】《我们为什么会害怕大怪兽》
+吸血鬼、巫师、尼斯湖水怪、伊甸园毒蛇、九头蛇、海怪……在本书中，哲学家带你一起思考：这些鼎鼎大名的怪兽，哪个最可怕？它们真的存在吗？它们到底是如何被创造出来的呢？</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-什么是真正的自由》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d773786c77.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>[ 自由 ] 《什么是真正的自由》</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《思考的魅力-怎样和别人好好交流》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573d77ac656e4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>我爱思考</p>
+<p><b>简介：</b>[ 沟通 ] 《怎样和别人好好交流》</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中华民族是一家――中国各民族民间故事（高段版）    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_20160504162621.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>郑土有</p>  
+<p><b>出版社：</b>浙江文艺出版社</p>
+<p><b>主题：</b>民族</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这是一场中国各民族民间故事的盛会。这场盛会吸引了各民族有名的 故事高手，他们要在这里用语言、用歌声展示民族的智慧，歌颂他们英雄 的祖先，讲述他们生活的世界。这里有许多你意想不到的传说、童话、寓言，令你迫不及待想飞到故 事的发源地，去感受那里的欢歌笑语，了解那里的风土人情。                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《中国地理百科（小学生读本）博学天下系列 全国十佳老师强烈推荐 开拓视野 丰富知识 趣味阅读     》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_20160504153253.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>魏红霞</p>  
+<p><b>出版社：</b>北京教育出版社</p>
+<p><b>主题：</b>中国</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">专为孩子打造的一部自然科学、社会科学和人文科学最佳读本。精选学生最感兴趣、最好奇的各种知识，是一部阅读精品、一座知识宝库、一场视觉饕餮盛宴。《中国地理百科》简介：中国是人类文明的重要发源地之一，历史悠久，文化灿烂，山河壮美，自然资源极为丰富。本书精心选择了中国著名的旅游观光胜地数百处，以轻松简练的笔触，将祖国的青山绿水、名胜古迹，向读者娓娓道来；通过一幅幅精美的实地图片，全景再现了中国著名风景区的绚丽风光与历史文化底蕴，向读者全面而生动地介绍了中国各个旅游胜地悠久的人文历史、绝美的自然风光与浓厚的乡土人情，让读者犹如置身在祖国大好河山的画卷当中，而流连忘返！                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《我爱我的祖国――百年百部中国儿童文学经典书系    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ec4ec45bfc.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>田地</p>  
+<p><b>出版社：</b>湖北少儿出版社</p>
+<p><b>主题：</b>中国</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">文学是人学，儿童文学是人之初的文学。人之初，性本善。儿童文学是人生最早接受的文学，那些曾经深深感动过孩子的儿童文学作品，将使人终生难忘终生受益。在今天这个传媒多元的时代，我们特别需要向广大少年儿童提倡文学阅读。文学阅读不同于知识书、图画书、教科书的阅读。文学是以血肉丰满的人物形象和个性鲜活的人物性格，是以审美的力量、情感的力量、道义的力量、精神的力量打动人、感染人、影响人的。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《防近视版小学生国学文库 孟子     彩图版》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5696077002f8c.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(战国)孟轲</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>国学</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">“小学生国学文库”系列丛书立足经典国学，加入注解和译文，同时选择性地对文字加注拼音，并配有相关历史故事和典故，每本书中还附有国学小讲堂和单元小测试两个知识模块，既增长知识，又能陶冶情操，从而提高孩子们的文化修养。此外，“小学生国学文库”采用黄底纸，可以有效地保护视力。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《林汉达中国历史故事集(美绘版)春秋卷》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e61ae8445.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>历史故事</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《小学生最着迷的穿越之旅-埃及法老》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5695bba051756.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b>历史</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《埃及法老》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《林汉达中国历史故事集(美绘版)三国卷》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e60b19873.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>历史故事</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《林汉达中国历史故事集(美绘版)西汉卷》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e65396302.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>林汉达</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>历史故事</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《春秋故事》、《战国故事》、《西汉故事》、《东汉故事》和《三国故事》除了内容上未作任何修改以外，林先生在语言上的一些独特用法和处理，也都保持原貌，显的是让大家原原本本地领略其特有的风格。不同的是，原来的刘继卣先生等画的黑白插图这回换成了彩色插图，版式上也做了新的设计，作为一次尝试。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-我们将归于何处》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d771d1965c.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>思考</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">[ 融合 ] 《我们将归于何处》</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-我们为什么会害怕大怪兽》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed50b013c2.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>思考</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">【主题：勇敢】《我们为什么会害怕大怪兽》
+吸血鬼、巫师、尼斯湖水怪、伊甸园毒蛇、九头蛇、海怪……在本书中，哲学家带你一起思考：这些鼎鼎大名的怪兽，哪个最可怕？它们真的存在吗？它们到底是如何被创造出来的呢？</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-什么是真正的自由》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d773786c77.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>思考</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">[ 自由 ] 《什么是真正的自由》</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《思考的魅力-怎样和别人好好交流》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573d77ac656e4.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:14px; font-family:宋体;">
+<p><b>作者：</b>阿兰·富瓦</p>  
+<p><b>出版社：</b>广西科学技术出版社</p>
+<p><b>主题：</b>沟通</p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">[ 沟通 ] 《怎样和别人好好交流》</span></p>
+</div>
+</div>
+</div>
+
+
+<div style=" width:100%;  margin-top:15px; font-size:24px; clear:both; color:#363636;">
+<h1 style="text-align:center; font-size:24px; color:#000;">拓展图书推荐</h1>
+<p style="text-indent:2em; line-height:1.5;font-family:华文楷体;font-size:20px;">除了你所感兴趣的主题之外，我们还想为你打开一扇窗，让你看到更加丰富多彩的世界，也许在以下这些书籍中你会发现意想不到的惊喜哦！</p>
+<!-- <div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《伏尔泰小巷之谜-行李箱里的男爵夫人》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed396d12c7.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b>我是侦探</p>
+<p><b>简介：</b>杜洛克男爵夫人死在了一个旧行李箱里，警方在犯罪现场发现了维克多・科莫雷斯――伏尔泰小巷侦探中的一员。这个受人尊敬的邮差，几年前曾是巴黎一个有名的小偷是抢劫，还是报复？是一时失手，还是另有隐情？伏尔泰小巷的侦探能否找出真凶？又能否将自己的伙伴从麻烦中解救出来？                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《骆驼寻宝记》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a83344ecb04.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>陈伯吹</p>  
+<p><b>出版社：</b>现代出版</p>
+<p><b>主题：</b>故事经典</p>
+<p><b>简介：</b>当得知某个地方有宝藏后，在飞禽走兽的国度里，大象、金丝猴、长颈鹿……都纷纷叫着“寻宝去，寻宝去……”但艰难的路途渐渐磨灭了寻宝的决心，只有那只一瘸一拐的骆驼，不畏艰难，终于抵达了宝地，但它却未为这里唾手可得的种种金银宝器所动，因为它珍视的、需要的是仙女所说的“思想的宝”……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《蓝眼睛德国大奖小说书系—个性都市 》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a82f4d71fa3.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)卡特琳•施洛克</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b>我在成长</p>
+<p><b>简介：</b>《个性都市》描述了一位16岁少年米卡不寻常的情感成长经历。米卡爱上了桑德拉，但一天，桑德拉突然提出和米卡分手。米卡十分困惑，后来发现了桑德拉的轻率和肤浅。正在此时，米卡偶然结识了聪明可爱的聋哑女孩蕾雅，并很快喜欢上了她。蕾雅热情、直率、充满了生命的活力，但同时内心也十分脆弱敏感。由于语言的障碍，走进她的内心可不是件容易的事情。为了和蕾雅沟通，他决定学习手语……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《王进喜   少年红色经典时代楷模系列》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7112657262.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>冷笛</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我的榜样</p>
+<p><b>简介：</b></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《动物小说精品馆-莱茜回家》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a71538649bd.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)埃里克•奈特</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b>我爱自然</p>
+<p><b>简介：</b>因为失业，乔的父亲把家里的牧羊犬莱茜卖给了当地的拉德林公爵，为防止莱茜一次次逃脱回到原来的主人身边，它被带到了几百英里外的苏格兰庄园。但是，回家的信念在心中燃烧，它还是逃了出来，一路跋涉，一路向南，跨越千山万水，经历重重磨难，从苏格兰高地回到英格兰约克郡，去赶赴与乔的约会……以真实故事为蓝本创作，多次翻拍搬上大荧幕，曾捧红伊丽莎白·泰勒等，最经典、最动人的狗狗故事。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·经典数学系列 寻找你的幸运星——概率的秘密》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a8221b82065.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱数学</p>
+<p><b>简介：</b>《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《上天入地最世界：最牛！改变历史的科学发现》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7373584ced.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)迈克•戈德史密斯</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b>少年创客</p>
+<p><b>简介：</b>由迈克·戈德史密斯著的《最牛改变历史的科学发现/上天入地最世界》梳理讲述了人类历史上的革命性的科学发现。通过历史和科学普及，带领读者进入科学家当时情境，聚焦“我发现了”的那一刻，还原科学家们扣人心弦的真实经历，包括他们的失败和错误，以及他们的信念和坚持。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学 科学新知系列·外星人的疯狂旅行》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a73efeef466.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯(Saulles.T.D.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>我爱天文</p>
+<p><b>简介：</b>最初，人类梦想着有一天能和外星人面对面地交流；后来，我们乘坐宇宙飞船进入太空寻找外星人的址迹；现在，我们居然能和外星人一同疯狂地遨游太空。《可怕的科学•科学新知系列:外星人的疯狂旅行》的星际导游将带你穿梭于奇怪的外星人生存的空间，亲身体验外太空的生存环境。准备好了吗？和我们一起开始神秘、刺激、疯狂，偶尔还有些危险的星际旅行吧！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《儿童艺术启蒙亲子读本--大师名画全知道.梵・高    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ed1c223ff9.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>白白兔</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b>我爱艺术</p>
+<p><b>简介：</b>★“大师名画全知道”系列6本入选“北京市绿色印刷工程――优秀青少年读物绿色印刷示范项目库”，采用绿色纸张、油墨进行印刷，保护孩子健康。 1.亲子阅读，解读大师的艺术世界。 2.趣味游戏，感受大师的经典名作。 3.提升能力，让孩子学会发现美、创造美。 </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《美国国家地理大探索系列-岩石里的头盖骨》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a7250333210.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)李•R•伯杰/马克•阿伦森</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b>我爱地理</p>
+<p><b>简介：</b>《美国国家地理大探索系列:岩石里的头盖骨(寻找人类起源之谜)》讲述了一个小男孩，一只狗，一名科学家，加上谷歌地球软件，一起发现了一块化石。它来自两百万年前的一副古人类骨架，而这副骨架很可能改写人类的进化史，跟随此书一起向着人类起源之谜发起全新的探险之旅。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《北京大学附属小学校园读本--古诗文诵读.五年级.下册    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/573ecf8418e53.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>尹超</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b>我爱诗文</p>
+<p><b>简介：</b>本书是针对经典古诗词的欣赏和诵读。选编了30首经典古诗词，从疑难字词注音及解释、内容赏析、写作特点等方面引导小学低年级孩子学习赏析诗词，在儿童记忆的黄金时期，通过吟诵经典的诗词不知不觉提高自我审美情趣。                                            </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《猫头鹰王国2 险途》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a881dfb0772.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(美)凯瑟琳·拉丝基</p>  
+<p><b>出版社：</b>湖北少年儿童</p>
+<p><b>主题：</b>奇幻世界</p>
+<p><b>简介：</b>赛林，吉菲和他们在旅途中认识的新朋友——大灰猫头鹰灰灰，以及洞穴猫头鹰掘哥一起去寻找大珈瑚树。因为他们以前曾听说过，很久很久以前，在猫头鹰刚刚出现的歌佬时代，珈瑚王国有一种骑士般的猫头鹰，他们每天夜里都飞到黑暗中行侠义，做善事。他们只说真话，他们的目标是铲除邪恶，保护弱小，他们怀着一颗高贵的心在空中飞翔。而他得到了父母和妹妹伊兰失踪的坏消息，而更令他没有意料到的事情也发生了……</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《生命价值第三辑5:面对濒危动物    》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/57440bb9dd6ce.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b>杂货铺</p>
+<p><b>简介：</b>全世界的动植物都遇到了大麻烦！南美的热带雨林箭毒蛙的叫声逐渐消失，英国的红松鼠和灰松鼠展开生死大战，白鱀豚、远东豹、克罗斯河大猩猩都登上了“寻物启事”。下一个濒危物种会不会是人类？ </p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学 科学新知系列·巧克力秘闻》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a73ece0b05a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)阿兰•麦克唐纳德(MacDonald.A.) 著,(英)克里夫•高达德(Goddard.C.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>开始，巧克力只是用来做一种墨西哥印第安人常喝的怪异热汤。后求，因为西班牙人太喜欢喝巧克力汤，所以他们把巧克力的配方秘密封存了100多年。这本让人看了之后口水横流的书泄露了巧克力的所有秘密。这种奇怪的美味食品曾一度征服过世界。款待一下你自己——用眼睛代替嘴巴，去“品尝”多达几百种的巧克力的味道吧……
+读《可怕的科学•科学新知系列:巧克力秘闻》的感觉真的比吃巧克力还要好！</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《什么是什么：热闹的农场(精)》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a876628d98e.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(德)莫妮卡·沃勒尔特 著，(德)马里奥恩·威克曹立克 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>当我们喝牛奶，吃面包、肉、鱼、蔬菜和水果的时候，大多数人都不会想到，今天能获得这么丰盛的食物，完全要感谢每天辛勤劳作的农民。那么，农场里普通的一天到底是什么样的？一头奶牛到底能够产出多少升牛奶？农民是如何播种的？联合收割机是怎样运行的？这些问题的答案，读者都可以在著名科普作家、农业学家奠妮卡·沃勒尔特女士撰写的这本书中找到。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《小学生最着迷的科学之旅·社会》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/5695bc5ff13f7.png" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《社会》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《可怕的科学·经典科学系列 受苦受难的科学家》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a821582e028.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>《可怕的科学》系列丛书更准确名称应该叫做稀奇古怪的科学史小记或者叫做趣味科学史漫谈。该书把某一门科学在特定的历史时期发生的特殊事件夸张地放大，往往该事件对这门科学有着重大影响。如果你平时不爱洗澡，又不习惯换洗内衣裤，行为上还略略有些怪异的话，你更应该找几本《可怕的科学》来读一读。你会发现，不管是科学家还是艺术家，平时大都是这个德行。在还没有成为这家或那家之前，你至少能为你自己的懒惰和疯狂找到一些依据。</p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000;">《空想科学6》</p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://123.57.23.91/mybooks/Upload/picimg/56a6e5f9c531a.jpg" style="width:100%;" /></div>
+<div style="width:68%; float:right;  padding-left:15px;font-size:20px; line-height:40px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b>百科博士</p>
+<p><b>简介：</b>这是一套令人捧腹大笑的科普读物！以科学理论验证耳熟能详的特摄动漫，结论绝对让你出乎意料，爆笑不止！《空想科学6:动漫人物怪兽科学大揭底》是挑选了其中41个问题，运用科学的知识加上丰富的想象力，逐一仔细分析求解。哪怕仅仅是看几个感兴趣的问题，想必也会很快上瘾的。有所不解之时，只要心中饶有兴趣，不管是怎样的异世界，都会即刻有身临其境之感吧！</p>
+</div>
+</div> -->
+<div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《伏尔泰小巷之谜-行李箱里的男爵夫人》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed396d12c7.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>巴卡拉里奥</p>  
+<p><b>出版社：</b>华夏出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">杜洛克男爵夫人死在了一个旧行李箱里，警方在犯罪现场发现了维克多・科莫雷斯――伏尔泰小巷侦探中的一员。这个受人尊敬的邮差，几年前曾是巴黎一个有名的小偷是抢劫，还是报复？是一时失手，还是另有隐情？伏尔泰小巷的侦探能否找出真凶？又能否将自己的伙伴从麻烦中解救出来？                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《骆驼寻宝记》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a83344ecb04.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>陈伯吹</p>  
+<p><b>出版社：</b>现代出版</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">当得知某个地方有宝藏后，在飞禽走兽的国度里，大象、金丝猴、长颈鹿……都纷纷叫着“寻宝去，寻宝去……”但艰难的路途渐渐磨灭了寻宝的决心，只有那只一瘸一拐的骆驼，不畏艰难，终于抵达了宝地，但它却未为这里唾手可得的种种金银宝器所动，因为它珍视的、需要的是仙女所说的“思想的宝”……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《蓝眼睛德国大奖小说书系—个性都市 》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a82f4d71fa3.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)卡特琳•施洛克</p>  
+<p><b>出版社：</b>二十一世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《个性都市》描述了一位16岁少年米卡不寻常的情感成长经历。米卡爱上了桑德拉，但一天，桑德拉突然提出和米卡分手。米卡十分困惑，后来发现了桑德拉的轻率和肤浅。正在此时，米卡偶然结识了聪明可爱的聋哑女孩蕾雅，并很快喜欢上了她。蕾雅热情、直率、充满了生命的活力，但同时内心也十分脆弱敏感。由于语言的障碍，走进她的内心可不是件容易的事情。为了和蕾雅沟通，他决定学习手语……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《王进喜   少年红色经典时代楷模系列》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7112657262.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>冷笛</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;"></span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《动物小说精品馆-莱茜回家》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a71538649bd.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)埃里克•奈特</p>  
+<p><b>出版社：</b>21世纪出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">因为失业，乔的父亲把家里的牧羊犬莱茜卖给了当地的拉德林公爵，为防止莱茜一次次逃脱回到原来的主人身边，它被带到了几百英里外的苏格兰庄园。但是，回家的信念在心中燃烧，它还是逃了出来，一路跋涉，一路向南，跨越千山万水，经历重重磨难，从苏格兰高地回到英格兰约克郡，去赶赴与乔的约会……以真实故事为蓝本创作，多次翻拍搬上大荧幕，曾捧红伊丽莎白·泰勒等，最经典、最动人的狗狗故事。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·经典数学系列 寻找你的幸运星——概率的秘密》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a8221b82065.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)卡佳坦•波斯基特 著,(英)菲利浦•瑞弗 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学》系列丛书全球同步发行，是少年科普金牌读本！它使不可能成为可能，使科普与幽默得到了完美的结合。它荣获了世界最著名科普图书大奖安万特奖，由欧洲顶尖少儿科普作家倾力打造，北京少年儿童出版社隆重推出。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《上天入地最世界：最牛！改变历史的科学发现》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7373584ced.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)迈克•戈德史密斯</p>  
+<p><b>出版社：</b>北京联合出版有限责任公司</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">由迈克·戈德史密斯著的《最牛改变历史的科学发现/上天入地最世界》梳理讲述了人类历史上的革命性的科学发现。通过历史和科学普及，带领读者进入科学家当时情境，聚焦“我发现了”的那一刻，还原科学家们扣人心弦的真实经历，包括他们的失败和错误，以及他们的信念和坚持。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学 科学新知系列·外星人的疯狂旅行》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a73efeef466.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯(Saulles.T.D.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">最初，人类梦想着有一天能和外星人面对面地交流；后来，我们乘坐宇宙飞船进入太空寻找外星人的址迹；现在，我们居然能和外星人一同疯狂地遨游太空。《可怕的科学•科学新知系列:外星人的疯狂旅行》的星际导游将带你穿梭于奇怪的外星人生存的空间，亲身体验外太空的生存环境。准备好了吗？和我们一起开始神秘、刺激、疯狂，偶尔还有些危险的星际旅行吧！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《儿童艺术启蒙亲子读本--大师名画全知道.梵・高    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ed1c223ff9.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>白白兔</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">★“大师名画全知道”系列6本入选“北京市绿色印刷工程――优秀青少年读物绿色印刷示范项目库”，采用绿色纸张、油墨进行印刷，保护孩子健康。 1.亲子阅读，解读大师的艺术世界。 2.趣味游戏，感受大师的经典名作。 3.提升能力，让孩子学会发现美、创造美。 </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《美国国家地理大探索系列-岩石里的头盖骨》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a7250333210.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)李•R•伯杰/马克•阿伦森</p>  
+<p><b>出版社：</b>安徽少儿</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《美国国家地理大探索系列:岩石里的头盖骨(寻找人类起源之谜)》讲述了一个小男孩，一只狗，一名科学家，加上谷歌地球软件，一起发现了一块化石。它来自两百万年前的一副古人类骨架，而这副骨架很可能改写人类的进化史，跟随此书一起向着人类起源之谜发起全新的探险之旅。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《北京大学附属小学校园读本--古诗文诵读.五年级.下册    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_573ecf8418e53.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>尹超</p>  
+<p><b>出版社：</b>化学工业出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">本书是针对经典古诗词的欣赏和诵读。选编了30首经典古诗词，从疑难字词注音及解释、内容赏析、写作特点等方面引导小学低年级孩子学习赏析诗词，在儿童记忆的黄金时期，通过吟诵经典的诗词不知不觉提高自我审美情趣。                                            </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《猫头鹰王国2 险途》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a881dfb0772.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(美)凯瑟琳·拉丝基</p>  
+<p><b>出版社：</b>湖北少年儿童</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">赛林，吉菲和他们在旅途中认识的新朋友——大灰猫头鹰灰灰，以及洞穴猫头鹰掘哥一起去寻找大珈瑚树。因为他们以前曾听说过，很久很久以前，在猫头鹰刚刚出现的歌佬时代，珈瑚王国有一种骑士般的猫头鹰，他们每天夜里都飞到黑暗中行侠义，做善事。他们只说真话，他们的目标是铲除邪恶，保护弱小，他们怀着一颗高贵的心在空中飞翔。而他得到了父母和妹妹伊兰失踪的坏消息，而更令他没有意料到的事情也发生了……</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《生命价值第三辑5:面对濒危动物    》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_57440bb9dd6ce.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>小多</p>  
+<p><b>出版社：</b>广西教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">全世界的动植物都遇到了大麻烦！南美的热带雨林箭毒蛙的叫声逐渐消失，英国的红松鼠和灰松鼠展开生死大战，白鱀豚、远东豹、克罗斯河大猩猩都登上了“寻物启事”。下一个濒危物种会不会是人类？ </span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学 科学新知系列·巧克力秘闻》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a73ece0b05a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)阿兰•麦克唐纳德(MacDonald.A.) 著,(英)克里夫•高达德(Goddard.C.) 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">开始，巧克力只是用来做一种墨西哥印第安人常喝的怪异热汤。后求，因为西班牙人太喜欢喝巧克力汤，所以他们把巧克力的配方秘密封存了100多年。这本让人看了之后口水横流的书泄露了巧克力的所有秘密。这种奇怪的美味食品曾一度征服过世界。款待一下你自己——用眼睛代替嘴巴，去“品尝”多达几百种的巧克力的味道吧……
+读《可怕的科学•科学新知系列:巧克力秘闻》的感觉真的比吃巧克力还要好！</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《什么是什么：热闹的农场(精)》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a876628d98e.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(德)莫妮卡·沃勒尔特 著，(德)马里奥恩·威克曹立克 绘</p>  
+<p><b>出版社：</b>湖北教育出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">当我们喝牛奶，吃面包、肉、鱼、蔬菜和水果的时候，大多数人都不会想到，今天能获得这么丰盛的食物，完全要感谢每天辛勤劳作的农民。那么，农场里普通的一天到底是什么样的？一头奶牛到底能够产出多少升牛奶？农民是如何播种的？联合收割机是怎样运行的？这些问题的答案，读者都可以在著名科普作家、农业学家奠妮卡·沃勒尔特女士撰写的这本书中找到。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《小学生最着迷的科学之旅·社会》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_5695bc5ff13f7.png" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(法)拉鲁斯出版社</p>  
+<p><b>出版社：</b>北京科学技术 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《小学生最着迷的穿越之旅》是一套从法国拉鲁斯出版社原版引进的、专为小学生编写的历史题材丛书，《社会》由拉鲁斯出版社编绘，是《小学生最着迷的穿越之旅》的其中一册，供小朋友们阅读学习。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《可怕的科学·经典科学系列 受苦受难的科学家》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a821582e028.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(英)尼克•阿诺德(Arnold.N.) 著,(英)托尼•德•索雷斯 绘</p>  
+<p><b>出版社：</b>北京少年儿童出版社                                                 </p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">《可怕的科学》系列丛书更准确名称应该叫做稀奇古怪的科学史小记或者叫做趣味科学史漫谈。该书把某一门科学在特定的历史时期发生的特殊事件夸张地放大，往往该事件对这门科学有着重大影响。如果你平时不爱洗澡，又不习惯换洗内衣裤，行为上还略略有些怪异的话，你更应该找几本《可怕的科学》来读一读。你会发现，不管是科学家还是艺术家，平时大都是这个德行。在还没有成为这家或那家之前，你至少能为你自己的懒惰和疯狂找到一些依据。</span></p>
+</div>
+</div><div style=" width:100%; height:auto; padding-top:15px; clear:both;">
+<p style="color:#000; font-size:16px;font-family:宋体;height:16.27px "><b>《空想科学6》</b></p>
+<div style="width:28%; float:left; height:auto;">
+<img src="http://106.38.65.206:8010/Upload/picimg/m_56a6e5f9c531a.jpg" style="width:100%;" /></div>
+<div style="font-family:宋体;font_weight:bold;font-size:14px; width:68%; float:right;  padding-left:15px;">
+<p><b>作者：</b>(日)柳田理科雄</p>  
+<p><b>出版社：</b>中国少年儿童出版社</p>
+<p><b>主题：</b></p>
+<p><b>简介：</b><span style="font-family:楷体;font-size:14px;text-align:justify;text-justify:inter-ideograph;">这是一套令人捧腹大笑的科普读物！以科学理论验证耳熟能详的特摄动漫，结论绝对让你出乎意料，爆笑不止！《空想科学6:动漫人物怪兽科学大揭底》是挑选了其中41个问题，运用科学的知识加上丰富的想象力，逐一仔细分析求解。哪怕仅仅是看几个感兴趣的问题，想必也会很快上瘾的。有所不解之时，只要心中饶有兴趣，不管是怎样的异世界，都会即刻有身临其境之感吧！</span></p>
+</div>
+</div>
+
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+ <div class="xt-bt">学校管理 > 高年级题库管理</div>
+ 
+
+    <div class="xt-table">
+    
+        <table cellpadding="0" cellspacing="0" border="0" bgcolor="#dcdcdc" width="100%">
+            <tr>
+            <th>序号</th>
+            <th>题目</th>
+           
+            <th>分类</th>
+            <th>操作</th>
+            </tr>
+            <empty name="data">
+            <tr><td colspan="4">暂无内容</td></tr>
+            <else />
+            <tr>
+            <foreach name="data" item="vo">
+                <td>{$key+1}</td>
+                <td>
+               {$vo.title}
+                </td>
+               
+                <td>{$vo.typename}</td>
+                <td><a href="{:U('Admin/Schools/editquestion',array('id'=>$vo[id]))}" class="yellow-xt">编辑</a><!--<a  onclick="return window.confirm('是否确认删除该条信息？？');" href="{:U('Admin/Schools/delquestion',array('id'=>$vo[id]))}" class="blue-xt">删除</a>--></td>
+            </tr>
+           </foreach>
+           <tr><td colspan="4">{$page}</td></tr>
+</empty>
+        </table>
+    </div>
+    <!--<div class="xt-fenye">
+    {$page}
+        <!--<div class="xt-fenye-left">当前第 1 / 270 页,每页10条，共 2696条记录</div>
+        <div class="xt-fenye-right">
+            <a href="#">首页</a>
+            <a href="#">上一步</a>
+            <a href="#">下一步</a>
+            <a href="#">尾页</a>
+            <input type="text" name="text" />
+            <a href="#" class="xt-link">跳转</a>
+        </div>
+    </div>-->
+
+
+</body>
+</html>
